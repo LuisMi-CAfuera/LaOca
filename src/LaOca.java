@@ -35,25 +35,24 @@ public class LaOca {
     }
 
     public static void main(String[] args) {
-        ArrayList<Thread> jugadores = new ArrayList<>();
-        jugadores.add(new Thread(new jugador()));
-        jugadores.add(new Thread(new jugador()));
-        jugadores.add(new Thread(new jugador()));
-        jugadores.add(new Thread(new jugador()));
+        final int TAM = 4;
+        Thread[] t = new Thread[TAM];
+        for(int i =0;i==TAM;i++){
+            t[i]= new Thread(new jugador());
+            t[i].start();
+        }
 
         boolean flag = true;
 
-        for (Thread a : jugadores) {
-            a.start();
-        }
-
         while (flag) {
             for (Thread i : jugadores) {
+                Thread.sleep(20);
                 if (!i.isAlive()) {
                     for (Thread e : jugadores) {
                         e.interrupt();
                     }
                 }
+
                 flag=false;
             }
 
