@@ -3,7 +3,7 @@ import java.util.Random;
 
 public class LaOca {
     private static class jugador implements Runnable {
-        final int OBJETIVO = 50;
+        final int OBJETIVO = 10;
 
         @Override
         public void run() {
@@ -15,7 +15,7 @@ public class LaOca {
                     int dados = r.nextInt(6) + 1;
                     pos = dados + pos;
                     if (pos < OBJETIVO) {
-                        System.out.println("Locura el jugador saco: " + dados);
+                        System.out.println("Locura el jugador " + Thread.currentThread().getName().toUpperCase() +" saco: " + dados);
                         System.out.println("Le faltan:" + (OBJETIVO - pos));
                     } else if (pos > OBJETIVO) {
                         System.out.println("Tiene que volver atras");
@@ -34,28 +34,34 @@ public class LaOca {
         }
     }
 
-    public static void main(String[] args) {
-        final int TAM = 4;
+    public static void main(String[] args) throws InterruptedException{
+        final int TAM = 10;
         Thread[] t = new Thread[TAM];
-        for(int i =0;i==TAM;i++){
+        int i =0;
+
+        for(i =0;i<TAM;i++){
             t[i]= new Thread(new jugador());
             t[i].start();
         }
+        boolean flag = false;
+        int ganador =0;
 
-        boolean flag = true;
-
-        while (flag) {
-            for (Thread i : jugadores) {
-                Thread.sleep(20);
-                if (!i.isAlive()) {
-                    for (Thread e : jugadores) {
-                        e.interrupt();
-                    }
+        while(flag){
+            Thread.sleep(20);
+            for (i=0;i < TAM && !flag; i++){
+                if(!t[i].isAlive()){
+                    flag = true;
+                    ganador = i;
                 }
-
-                flag=false;
             }
 
         }
+        for (i=0;i<TAM;i++){
+            if(i!=ganador){
+                t[i].interrupt();
+            }
+            t[i].join();
+        }
+
     }
 }
