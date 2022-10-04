@@ -5,8 +5,9 @@ import java.util.logging.Logger;
 public class LaOca {
     private static class jugador implements Runnable {
         //Esta Constante la utilizo para que cuando un jugador llegue a cien o se pase ponerla en la condicion y si tengo que cambiarle no tener que cambiar todo
-
         final int OBJETIVO = 100;
+        private static Logger logging = PSPLogger.getLogger(LaOca.class.getName());
+
 
         @Override
         public void run() {
@@ -18,17 +19,17 @@ public class LaOca {
                     int dados = r.nextInt(6) + 1;
                     pos = dados + pos;
                     if (pos < OBJETIVO) {
-                        System.out.println("Locura el jugador " + Thread.currentThread().getName().toUpperCase() +" saco: " + dados);
-                        System.out.println("Le faltan:" + (OBJETIVO - pos));
+                        logging.info("Locura el jugador " + Thread.currentThread().getName().toUpperCase() +" saco: " + dados);
+                        logging.info("Le faltan:" + (OBJETIVO - pos));
                     } else if (pos > OBJETIVO) {
-                        System.out.println("Tiene que volver atras");
+                        logging.info("Tiene que volver atras");
                         pos = OBJETIVO - (pos - OBJETIVO);
                     } else {
-                        System.out.println(Thread.currentThread().getName().toUpperCase() + " Llego al final");
+                        logging.info(Thread.currentThread().getName().toUpperCase() + " Llego al final");
                     }
 
                 } catch (InterruptedException e) {
-                    System.out.println("Tarea Interrumpida ");
+                    logging.info("Tarea Interrumpida ");
                     break;
                 }
 
@@ -69,7 +70,8 @@ public class LaOca {
             t[i].join();
         }
 
-        logging.info()
+        logging.info("Final del programa");
+        logging.info("Ha ganado el jugador" + t[ganador].getName());
 
     }
 }

@@ -1,0 +1,6808 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!DOCTYPE log SYSTEM "logger.dtd">
+<log>
+<record>
+  <date>2022-10-04T08:19:30.399151300Z</date>
+  <millis>1664871570399</millis>
+  <nanos>151300</nanos>
+  <sequence>0</sequence>
+  <logger>LaOca</logger>
+  <level>INFO</level>
+  <class>LaOca$jugador</class>
+  <method>run</method>
+  <thread>23</thread>
+  <message>Locura el jugador THREAD-7 saco: 5</message>
+</record>
+<record>
+  <date>2022-10-04T08:19:30.495090400Z</date>
+  <millis>1664871570495</millis>
+  <nanos>90400</nanos>
+  <sequence>1</sequence>
+  <logger>LaOca</logger>
+  <level>INFO</level>
+  <class>LaOca$jugador</class>
+  <method>run</method>
+  <thread>23</thread>
+  <message>Le faltan:95</message>
+</record>
+<record>
+  <date>2022-10-04T08:19:30.730945200Z</date>
+  <millis>1664871570730</millis>
+  <nanos>945200</nanos>
+  <sequence>2</sequence>
+  <logger>LaOca</logger>
+  <level>INFO</level>
+  <class>LaOca$jugador</class>
+  <method>run</method>
+  <thread>24</thread>
+  <message>Locura el jugador THREAD-8 saco: 2</message>
+</record>
+<record>
+  <date>2022-10-04T08:19:30.732943700Z</date>
+  <millis>1664871570732</millis>
+  <nanos>943700</nanos>
+  <sequence>3</sequence>
+  <logger>LaOca</logger>
+  <level>INFO</level>
+  <class>LaOca$jugador</class>
+  <method>run</method>
+  <thread>24</thread>
+  <message>Le faltan:98</message>
+</record>
+<record>
+  <date>2022-10-04T08:19:30.735942200Z</date>
+  <millis>1664871570735</millis>
+  <nanos>942200</nanos>
+  <sequence>4</sequence>
+  <logger>LaOca</logger>
+  <level>INFO</level>
+  <class>LaOca$jugador</class>
+  <method>run</method>
+  <thread>22</thread>
+  <message>Locura el jugador THREAD-6 saco: 6</message>
+</record>
+<record>
+  <date>2022-10-04T08:19:30.736942600Z</date>
+  <millis>1664871570736</millis>
+  <nanos>942600</nanos>
+  <sequence>5</sequence>
+  <logger>LaOca</logger>
+  <level>INFO</level>
+  <class>LaOca$jugador</class>
+  <method>run</method>
+  <thread>22</thread>
+  <message>Le faltan:94</message>
+</record>
+<record>
+  <date>2022-10-04T08:19:30.805898200Z</date>
+  <millis>1664871570805</millis>
+  <nanos>898200</nanos>
+  <sequence>6</sequence>
+  <logger>LaOca</logger>
+  <level>INFO</level>
+  <class>LaOca$jugador</class>
+  <method>run</method>
+  <thread>24</thread>
+  <message>Locura el jugador THREAD-8 saco: 6</message>
+</record>
+<record>
+  <date>2022-10-04T08:19:30.805898200Z</date>
+  <millis>1664871570805</millis>
+  <nanos>898200</nanos>
+  <sequence>7</sequence>
+  <logger>LaOca</logger>
+  <level>INFO</level>
+  <class>LaOca$jugador</class>
+  <method>run</method>
+  <thread>24</thread>
+  <message>Le faltan:92</message>
+</record>
+<record>
+  <date>2022-10-04T08:19:31.030758700Z</date>
+  <millis>1664871571030</millis>
+  <nanos>758700</nanos>
+  <sequence>8</sequence>
+  <logger>LaOca</logger>
+  <level>INFO</level>
+  <class>LaOca$jugador</class>
+  <method>run</method>
+  <thread>19</thread>
+  <message>Locura el jugador THREAD-3 saco: 6</message>
+</record>
+<record>
+  <date>2022-10-04T08:19:31.030758700Z</date>
+  <millis>1664871571030</millis>
+  <nanos>758700</nanos>
+  <sequence>9</sequence>
+  <logger>LaOca</logger>
+  <level>INFO</level>
+  <class>LaOca$jugador</class>
+  <method>run</method>
+  <thread>19</thread>
+  <message>Le faltan:94</message>
+</record>
+<record>
+  <date>2022-10-04T08:19:31.066736200Z</date>
+  <millis>1664871571066</millis>
+  <nanos>736200</nanos>
+  <sequence>10</sequence>
+  <logger>LaOca</logger>
+  <level>INFO</level>
+  <class>LaOca$jugador</class>
+  <method>run</method>
+  <thread>16</thread>
+  <message>Locura el jugador THREAD-0 saco: 2</message>
+</record>
+<record>
+  <date>2022-10-04T08:19:31.066736200Z</date>
+  <millis>1664871571066</millis>
+  <nanos>736200</nanos>
+  <sequence>11</sequence>
+  <logger>LaOca</logger>
+  <level>INFO</level>
+  <class>LaOca$jugador</class>
+  <method>run</method>
+  <thread>16</thread>
+  <message>Le faltan:98</message>
+</record>
+<record>
+  <date>2022-10-04T08:19:31.151683900Z</date>
+  <millis>1664871571151</millis>
+  <nanos>683900</nanos>
+  <sequence>12</sequence>
+  <logger>LaOca</logger>
+  <level>INFO</level>
+  <class>LaOca$jugador</class>
+  <method>run</method>
+  <thread>17</thread>
+  <message>Locura el jugador THREAD-1 saco: 1</message>
+</record>
+<record>
+  <date>2022-10-04T08:19:31.151683900Z</date>
+  <millis>1664871571151</millis>
+  <nanos>683900</nanos>
+  <sequence>13</sequence>
+  <logger>LaOca</logger>
+  <level>INFO</level>
+  <class>LaOca$jugador</class>
+  <method>run</method>
+  <thread>17</thread>
+  <message>Le faltan:99</message>
+</record>
+<record>
+  <date>2022-10-04T08:19:31.418519100Z</date>
+  <millis>1664871571418</millis>
+  <nanos>519100</nanos>
+  <sequence>14</sequence>
+  <logger>LaOca</logger>
+  <level>INFO</level>
+  <class>LaOca$jugador</class>
+  <method>run</method>
+  <thread>25</thread>
+  <message>Locura el jugador THREAD-9 saco: 1</message>
+</record>
+<record>
+  <date>2022-10-04T08:19:31.418519100Z</date>
+  <millis>1664871571418</millis>
+  <nanos>519100</nanos>
+  <sequence>15</sequence>
+  <logger>LaOca</logger>
+  <level>INFO</level>
+  <class>LaOca$jugador</class>
+  <method>run</method>
+  <thread>25</thread>
+  <message>Le faltan:99</message>
+</record>
+<record>
+  <date>2022-10-04T08:19:31.884231500Z</date>
+  <millis>1664871571884</millis>
+  <nanos>231500</nanos>
+  <sequence>16</sequence>
+  <logger>LaOca</logger>
+  <level>INFO</level>
+  <class>LaOca$jugador</class>
+  <method>run</method>
+  <thread>23</thread>
+  <message>Locura el jugador THREAD-7 saco: 3</message>
+</record>
+<record>
+  <date>2022-10-04T08:19:31.885231200Z</date>
+  <millis>1664871571885</millis>
+  <nanos>231200</nanos>
+  <sequence>17</sequence>
+  <logger>LaOca</logger>
+  <level>INFO</level>
+  <class>LaOca$jugador</class>
+  <method>run</method>
+  <thread>23</thread>
+  <message>Le faltan:92</message>
+</record>
+<record>
+  <date>2022-10-04T08:19:31.917193400Z</date>
+  <millis>1664871571917</millis>
+  <nanos>193400</nanos>
+  <sequence>18</sequence>
+  <logger>LaOca</logger>
+  <level>INFO</level>
+  <class>LaOca$jugador</class>
+  <method>run</method>
+  <thread>21</thread>
+  <message>Locura el jugador THREAD-5 saco: 1</message>
+</record>
+<record>
+  <date>2022-10-04T08:19:31.918192200Z</date>
+  <millis>1664871571918</millis>
+  <nanos>192200</nanos>
+  <sequence>19</sequence>
+  <logger>LaOca</logger>
+  <level>INFO</level>
+  <class>LaOca$jugador</class>
+  <method>run</method>
+  <thread>21</thread>
+  <message>Le faltan:99</message>
+</record>
+<record>
+  <date>2022-10-04T08:19:31.974568800Z</date>
+  <millis>1664871571974</millis>
+  <nanos>568800</nanos>
+  <sequence>20</sequence>
+  <logger>LaOca</logger>
+  <level>INFO</level>
+  <class>LaOca$jugador</class>
+  <method>run</method>
+  <thread>16</thread>
+  <message>Locura el jugador THREAD-0 saco: 2</message>
+</record>
+<record>
+  <date>2022-10-04T08:19:31.975568100Z</date>
+  <millis>1664871571975</millis>
+  <nanos>568100</nanos>
+  <sequence>21</sequence>
+  <logger>LaOca</logger>
+  <level>INFO</level>
+  <class>LaOca$jugador</class>
+  <method>run</method>
+  <thread>16</thread>
+  <message>Le faltan:96</message>
+</record>
+<record>
+  <date>2022-10-04T08:19:32.009042100Z</date>
+  <millis>1664871572009</millis>
+  <nanos>42100</nanos>
+  <sequence>22</sequence>
+  <logger>LaOca</logger>
+  <level>INFO</level>
+  <class>LaOca$jugador</class>
+  <method>run</method>
+  <thread>22</thread>
+  <message>Locura el jugador THREAD-6 saco: 6</message>
+</record>
+<record>
+  <date>2022-10-04T08:19:32.009042100Z</date>
+  <millis>1664871572009</millis>
+  <nanos>42100</nanos>
+  <sequence>23</sequence>
+  <logger>LaOca</logger>
+  <level>INFO</level>
+  <class>LaOca$jugador</class>
+  <method>run</method>
+  <thread>22</thread>
+  <message>Le faltan:88</message>
+</record>
+<record>
+  <date>2022-10-04T08:19:32.178189900Z</date>
+  <millis>1664871572178</millis>
+  <nanos>189900</nanos>
+  <sequence>24</sequence>
+  <logger>LaOca</logger>
+  <level>INFO</level>
+  <class>LaOca$jugador</class>
+  <method>run</method>
+  <thread>18</thread>
+  <message>Locura el jugador THREAD-2 saco: 2</message>
+</record>
+<record>
+  <date>2022-10-04T08:19:32.178189900Z</date>
+  <millis>1664871572178</millis>
+  <nanos>189900</nanos>
+  <sequence>25</sequence>
+  <logger>LaOca</logger>
+  <level>INFO</level>
+  <class>LaOca$jugador</class>
+  <method>run</method>
+  <thread>18</thread>
+  <message>Le faltan:98</message>
+</record>
+<record>
+  <date>2022-10-04T08:19:32.263331800Z</date>
+  <millis>1664871572263</millis>
+  <nanos>331800</nanos>
+  <sequence>26</sequence>
+  <logger>LaOca</logger>
+  <level>INFO</level>
+  <class>LaOca$jugador</class>
+  <method>run</method>
+  <thread>20</thread>
+  <message>Locura el jugador THREAD-4 saco: 5</message>
+</record>
+<record>
+  <date>2022-10-04T08:19:32.264336200Z</date>
+  <millis>1664871572264</millis>
+  <nanos>336200</nanos>
+  <sequence>27</sequence>
+  <logger>LaOca</logger>
+  <level>INFO</level>
+  <class>LaOca$jugador</class>
+  <method>run</method>
+  <thread>20</thread>
+  <message>Le faltan:95</message>
+</record>
+<record>
+  <date>2022-10-04T08:19:32.324578900Z</date>
+  <millis>1664871572324</millis>
+  <nanos>578900</nanos>
+  <sequence>28</sequence>
+  <logger>LaOca</logger>
+  <level>INFO</level>
+  <class>LaOca$jugador</class>
+  <method>run</method>
+  <thread>25</thread>
+  <message>Locura el jugador THREAD-9 saco: 4</message>
+</record>
+<record>
+  <date>2022-10-04T08:19:32.325584600Z</date>
+  <millis>1664871572325</millis>
+  <nanos>584600</nanos>
+  <sequence>29</sequence>
+  <logger>LaOca</logger>
+  <level>INFO</level>
+  <class>LaOca$jugador</class>
+  <method>run</method>
+  <thread>25</thread>
+  <message>Le faltan:95</message>
+</record>
+<record>
+  <date>2022-10-04T08:19:32.352392200Z</date>
+  <millis>1664871572352</millis>
+  <nanos>392200</nanos>
+  <sequence>30</sequence>
+  <logger>LaOca</logger>
+  <level>INFO</level>
+  <class>LaOca$jugador</class>
+  <method>run</method>
+  <thread>20</thread>
+  <message>Locura el jugador THREAD-4 saco: 5</message>
+</record>
+<record>
+  <date>2022-10-04T08:19:32.352392200Z</date>
+  <millis>1664871572352</millis>
+  <nanos>392200</nanos>
+  <sequence>31</sequence>
+  <logger>LaOca</logger>
+  <level>INFO</level>
+  <class>LaOca$jugador</class>
+  <method>run</method>
+  <thread>20</thread>
+  <message>Le faltan:90</message>
+</record>
+<record>
+  <date>2022-10-04T08:19:32.378906500Z</date>
+  <millis>1664871572378</millis>
+  <nanos>906500</nanos>
+  <sequence>32</sequence>
+  <logger>LaOca</logger>
+  <level>INFO</level>
+  <class>LaOca$jugador</class>
+  <method>run</method>
+  <thread>24</thread>
+  <message>Locura el jugador THREAD-8 saco: 1</message>
+</record>
+<record>
+  <date>2022-10-04T08:19:32.378906500Z</date>
+  <millis>1664871572378</millis>
+  <nanos>906500</nanos>
+  <sequence>33</sequence>
+  <logger>LaOca</logger>
+  <level>INFO</level>
+  <class>LaOca$jugador</class>
+  <method>run</method>
+  <thread>24</thread>
+  <message>Le faltan:91</message>
+</record>
+<record>
+  <date>2022-10-04T08:19:32.461274Z</date>
+  <millis>1664871572461</millis>
+  <nanos>274000</nanos>
+  <sequence>34</sequence>
+  <logger>LaOca</logger>
+  <level>INFO</level>
+  <class>LaOca$jugador</class>
+  <method>run</method>
+  <thread>17</thread>
+  <message>Locura el jugador THREAD-1 saco: 6</message>
+</record>
+<record>
+  <date>2022-10-04T08:19:32.462268700Z</date>
+  <millis>1664871572462</millis>
+  <nanos>268700</nanos>
+  <sequence>35</sequence>
+  <logger>LaOca</logger>
+  <level>INFO</level>
+  <class>LaOca$jugador</class>
+  <method>run</method>
+  <thread>17</thread>
+  <message>Le faltan:93</message>
+</record>
+<record>
+  <date>2022-10-04T08:19:32.508304200Z</date>
+  <millis>1664871572508</millis>
+  <nanos>304200</nanos>
+  <sequence>36</sequence>
+  <logger>LaOca</logger>
+  <level>INFO</level>
+  <class>LaOca$jugador</class>
+  <method>run</method>
+  <thread>16</thread>
+  <message>Locura el jugador THREAD-0 saco: 4</message>
+</record>
+<record>
+  <date>2022-10-04T08:19:32.509311400Z</date>
+  <millis>1664871572509</millis>
+  <nanos>311400</nanos>
+  <sequence>37</sequence>
+  <logger>LaOca</logger>
+  <level>INFO</level>
+  <class>LaOca$jugador</class>
+  <method>run</method>
+  <thread>16</thread>
+  <message>Le faltan:92</message>
+</record>
+<record>
+  <date>2022-10-04T08:19:32.523397200Z</date>
+  <millis>1664871572523</millis>
+  <nanos>397200</nanos>
+  <sequence>38</sequence>
+  <logger>LaOca</logger>
+  <level>INFO</level>
+  <class>LaOca$jugador</class>
+  <method>run</method>
+  <thread>18</thread>
+  <message>Locura el jugador THREAD-2 saco: 4</message>
+</record>
+<record>
+  <date>2022-10-04T08:19:32.524404300Z</date>
+  <millis>1664871572524</millis>
+  <nanos>404300</nanos>
+  <sequence>39</sequence>
+  <logger>LaOca</logger>
+  <level>INFO</level>
+  <class>LaOca$jugador</class>
+  <method>run</method>
+  <thread>18</thread>
+  <message>Le faltan:94</message>
+</record>
+<record>
+  <date>2022-10-04T08:19:32.528448Z</date>
+  <millis>1664871572528</millis>
+  <nanos>448000</nanos>
+  <sequence>40</sequence>
+  <logger>LaOca</logger>
+  <level>INFO</level>
+  <class>LaOca$jugador</class>
+  <method>run</method>
+  <thread>25</thread>
+  <message>Locura el jugador THREAD-9 saco: 6</message>
+</record>
+<record>
+  <date>2022-10-04T08:19:32.529455400Z</date>
+  <millis>1664871572529</millis>
+  <nanos>455400</nanos>
+  <sequence>41</sequence>
+  <logger>LaOca</logger>
+  <level>INFO</level>
+  <class>LaOca$jugador</class>
+  <method>run</method>
+  <thread>25</thread>
+  <message>Le faltan:89</message>
+</record>
+<record>
+  <date>2022-10-04T08:19:32.656810200Z</date>
+  <millis>1664871572656</millis>
+  <nanos>810200</nanos>
+  <sequence>42</sequence>
+  <logger>LaOca</logger>
+  <level>INFO</level>
+  <class>LaOca$jugador</class>
+  <method>run</method>
+  <thread>19</thread>
+  <message>Locura el jugador THREAD-3 saco: 5</message>
+</record>
+<record>
+  <date>2022-10-04T08:19:32.657798900Z</date>
+  <millis>1664871572657</millis>
+  <nanos>798900</nanos>
+  <sequence>43</sequence>
+  <logger>LaOca</logger>
+  <level>INFO</level>
+  <class>LaOca$jugador</class>
+  <method>run</method>
+  <thread>19</thread>
+  <message>Le faltan:89</message>
+</record>
+<record>
+  <date>2022-10-04T08:19:32.788714100Z</date>
+  <millis>1664871572788</millis>
+  <nanos>714100</nanos>
+  <sequence>44</sequence>
+  <logger>LaOca</logger>
+  <level>INFO</level>
+  <class>LaOca$jugador</class>
+  <method>run</method>
+  <thread>20</thread>
+  <message>Locura el jugador THREAD-4 saco: 4</message>
+</record>
+<record>
+  <date>2022-10-04T08:19:32.789721100Z</date>
+  <millis>1664871572789</millis>
+  <nanos>721100</nanos>
+  <sequence>45</sequence>
+  <logger>LaOca</logger>
+  <level>INFO</level>
+  <class>LaOca$jugador</class>
+  <method>run</method>
+  <thread>20</thread>
+  <message>Le faltan:86</message>
+</record>
+<record>
+  <date>2022-10-04T08:19:32.978803500Z</date>
+  <millis>1664871572978</millis>
+  <nanos>803500</nanos>
+  <sequence>46</sequence>
+  <logger>LaOca</logger>
+  <level>INFO</level>
+  <class>LaOca$jugador</class>
+  <method>run</method>
+  <thread>20</thread>
+  <message>Locura el jugador THREAD-4 saco: 6</message>
+</record>
+<record>
+  <date>2022-10-04T08:19:32.979798500Z</date>
+  <millis>1664871572979</millis>
+  <nanos>798500</nanos>
+  <sequence>47</sequence>
+  <logger>LaOca</logger>
+  <level>INFO</level>
+  <class>LaOca$jugador</class>
+  <method>run</method>
+  <thread>20</thread>
+  <message>Le faltan:80</message>
+</record>
+<record>
+  <date>2022-10-04T08:19:33.207293300Z</date>
+  <millis>1664871573207</millis>
+  <nanos>293300</nanos>
+  <sequence>48</sequence>
+  <logger>LaOca</logger>
+  <level>INFO</level>
+  <class>LaOca$jugador</class>
+  <method>run</method>
+  <thread>21</thread>
+  <message>Locura el jugador THREAD-5 saco: 6</message>
+</record>
+<record>
+  <date>2022-10-04T08:19:33.208270Z</date>
+  <millis>1664871573208</millis>
+  <nanos>270000</nanos>
+  <sequence>49</sequence>
+  <logger>LaOca</logger>
+  <level>INFO</level>
+  <class>LaOca$jugador</class>
+  <method>run</method>
+  <thread>21</thread>
+  <message>Le faltan:93</message>
+</record>
+<record>
+  <date>2022-10-04T08:19:33.309982500Z</date>
+  <millis>1664871573309</millis>
+  <nanos>982500</nanos>
+  <sequence>50</sequence>
+  <logger>LaOca</logger>
+  <level>INFO</level>
+  <class>LaOca$jugador</class>
+  <method>run</method>
+  <thread>24</thread>
+  <message>Locura el jugador THREAD-8 saco: 6</message>
+</record>
+<record>
+  <date>2022-10-04T08:19:33.309982500Z</date>
+  <millis>1664871573309</millis>
+  <nanos>982500</nanos>
+  <sequence>51</sequence>
+  <logger>LaOca</logger>
+  <level>INFO</level>
+  <class>LaOca$jugador</class>
+  <method>run</method>
+  <thread>24</thread>
+  <message>Le faltan:85</message>
+</record>
+<record>
+  <date>2022-10-04T08:19:33.390080900Z</date>
+  <millis>1664871573390</millis>
+  <nanos>80900</nanos>
+  <sequence>52</sequence>
+  <logger>LaOca</logger>
+  <level>INFO</level>
+  <class>LaOca$jugador</class>
+  <method>run</method>
+  <thread>22</thread>
+  <message>Locura el jugador THREAD-6 saco: 6</message>
+</record>
+<record>
+  <date>2022-10-04T08:19:33.390080900Z</date>
+  <millis>1664871573390</millis>
+  <nanos>80900</nanos>
+  <sequence>53</sequence>
+  <logger>LaOca</logger>
+  <level>INFO</level>
+  <class>LaOca$jugador</class>
+  <method>run</method>
+  <thread>22</thread>
+  <message>Le faltan:82</message>
+</record>
+<record>
+  <date>2022-10-04T08:19:33.448253800Z</date>
+  <millis>1664871573448</millis>
+  <nanos>253800</nanos>
+  <sequence>54</sequence>
+  <logger>LaOca</logger>
+  <level>INFO</level>
+  <class>LaOca$jugador</class>
+  <method>run</method>
+  <thread>23</thread>
+  <message>Locura el jugador THREAD-7 saco: 2</message>
+</record>
+<record>
+  <date>2022-10-04T08:19:33.449246200Z</date>
+  <millis>1664871573449</millis>
+  <nanos>246200</nanos>
+  <sequence>55</sequence>
+  <logger>LaOca</logger>
+  <level>INFO</level>
+  <class>LaOca$jugador</class>
+  <method>run</method>
+  <thread>23</thread>
+  <message>Le faltan:90</message>
+</record>
+<record>
+  <date>2022-10-04T08:19:33.603329100Z</date>
+  <millis>1664871573603</millis>
+  <nanos>329100</nanos>
+  <sequence>56</sequence>
+  <logger>LaOca</logger>
+  <level>INFO</level>
+  <class>LaOca$jugador</class>
+  <method>run</method>
+  <thread>17</thread>
+  <message>Locura el jugador THREAD-1 saco: 1</message>
+</record>
+<record>
+  <date>2022-10-04T08:19:33.603329100Z</date>
+  <millis>1664871573603</millis>
+  <nanos>329100</nanos>
+  <sequence>57</sequence>
+  <logger>LaOca</logger>
+  <level>INFO</level>
+  <class>LaOca$jugador</class>
+  <method>run</method>
+  <thread>17</thread>
+  <message>Le faltan:92</message>
+</record>
+<record>
+  <date>2022-10-04T08:19:33.647011100Z</date>
+  <millis>1664871573647</millis>
+  <nanos>11100</nanos>
+  <sequence>58</sequence>
+  <logger>LaOca</logger>
+  <level>INFO</level>
+  <class>LaOca$jugador</class>
+  <method>run</method>
+  <thread>24</thread>
+  <message>Locura el jugador THREAD-8 saco: 3</message>
+</record>
+<record>
+  <date>2022-10-04T08:19:33.648020500Z</date>
+  <millis>1664871573648</millis>
+  <nanos>20500</nanos>
+  <sequence>59</sequence>
+  <logger>LaOca</logger>
+  <level>INFO</level>
+  <class>LaOca$jugador</class>
+  <method>run</method>
+  <thread>24</thread>
+  <message>Le faltan:82</message>
+</record>
+<record>
+  <date>2022-10-04T08:19:33.809883600Z</date>
+  <millis>1664871573809</millis>
+  <nanos>883600</nanos>
+  <sequence>60</sequence>
+  <logger>LaOca</logger>
+  <level>INFO</level>
+  <class>LaOca$jugador</class>
+  <method>run</method>
+  <thread>20</thread>
+  <message>Locura el jugador THREAD-4 saco: 3</message>
+</record>
+<record>
+  <date>2022-10-04T08:19:33.809883600Z</date>
+  <millis>1664871573809</millis>
+  <nanos>883600</nanos>
+  <sequence>61</sequence>
+  <logger>LaOca</logger>
+  <level>INFO</level>
+  <class>LaOca$jugador</class>
+  <method>run</method>
+  <thread>20</thread>
+  <message>Le faltan:77</message>
+</record>
+<record>
+  <date>2022-10-04T08:19:33.912022600Z</date>
+  <millis>1664871573912</millis>
+  <nanos>22600</nanos>
+  <sequence>62</sequence>
+  <logger>LaOca</logger>
+  <level>INFO</level>
+  <class>LaOca$jugador</class>
+  <method>run</method>
+  <thread>20</thread>
+  <message>Locura el jugador THREAD-4 saco: 3</message>
+</record>
+<record>
+  <date>2022-10-04T08:19:33.913021300Z</date>
+  <millis>1664871573913</millis>
+  <nanos>21300</nanos>
+  <sequence>63</sequence>
+  <logger>LaOca</logger>
+  <level>INFO</level>
+  <class>LaOca$jugador</class>
+  <method>run</method>
+  <thread>20</thread>
+  <message>Le faltan:74</message>
+</record>
+<record>
+  <date>2022-10-04T08:19:34.060959900Z</date>
+  <millis>1664871574060</millis>
+  <nanos>959900</nanos>
+  <sequence>64</sequence>
+  <logger>LaOca</logger>
+  <level>INFO</level>
+  <class>LaOca$jugador</class>
+  <method>run</method>
+  <thread>25</thread>
+  <message>Locura el jugador THREAD-9 saco: 5</message>
+</record>
+<record>
+  <date>2022-10-04T08:19:34.061958800Z</date>
+  <millis>1664871574061</millis>
+  <nanos>958800</nanos>
+  <sequence>65</sequence>
+  <logger>LaOca</logger>
+  <level>INFO</level>
+  <class>LaOca$jugador</class>
+  <method>run</method>
+  <thread>25</thread>
+  <message>Le faltan:84</message>
+</record>
+<record>
+  <date>2022-10-04T08:19:34.272109Z</date>
+  <millis>1664871574272</millis>
+  <nanos>109000</nanos>
+  <sequence>66</sequence>
+  <logger>LaOca</logger>
+  <level>INFO</level>
+  <class>LaOca$jugador</class>
+  <method>run</method>
+  <thread>22</thread>
+  <message>Locura el jugador THREAD-6 saco: 3</message>
+</record>
+<record>
+  <date>2022-10-04T08:19:34.273102800Z</date>
+  <millis>1664871574273</millis>
+  <nanos>102800</nanos>
+  <sequence>67</sequence>
+  <logger>LaOca</logger>
+  <level>INFO</level>
+  <class>LaOca$jugador</class>
+  <method>run</method>
+  <thread>22</thread>
+  <message>Le faltan:79</message>
+</record>
+<record>
+  <date>2022-10-04T08:19:34.324196100Z</date>
+  <millis>1664871574324</millis>
+  <nanos>196100</nanos>
+  <sequence>68</sequence>
+  <logger>LaOca</logger>
+  <level>INFO</level>
+  <class>LaOca$jugador</class>
+  <method>run</method>
+  <thread>18</thread>
+  <message>Locura el jugador THREAD-2 saco: 1</message>
+</record>
+<record>
+  <date>2022-10-04T08:19:34.324196100Z</date>
+  <millis>1664871574324</millis>
+  <nanos>196100</nanos>
+  <sequence>69</sequence>
+  <logger>LaOca</logger>
+  <level>INFO</level>
+  <class>LaOca$jugador</class>
+  <method>run</method>
+  <thread>18</thread>
+  <message>Le faltan:93</message>
+</record>
+<record>
+  <date>2022-10-04T08:19:34.335066Z</date>
+  <millis>1664871574335</millis>
+  <nanos>66000</nanos>
+  <sequence>70</sequence>
+  <logger>LaOca</logger>
+  <level>INFO</level>
+  <class>LaOca$jugador</class>
+  <method>run</method>
+  <thread>24</thread>
+  <message>Locura el jugador THREAD-8 saco: 2</message>
+</record>
+<record>
+  <date>2022-10-04T08:19:34.335066Z</date>
+  <millis>1664871574335</millis>
+  <nanos>66000</nanos>
+  <sequence>71</sequence>
+  <logger>LaOca</logger>
+  <level>INFO</level>
+  <class>LaOca$jugador</class>
+  <method>run</method>
+  <thread>24</thread>
+  <message>Le faltan:80</message>
+</record>
+<record>
+  <date>2022-10-04T08:19:34.375306300Z</date>
+  <millis>1664871574375</millis>
+  <nanos>306300</nanos>
+  <sequence>72</sequence>
+  <logger>LaOca</logger>
+  <level>INFO</level>
+  <class>LaOca$jugador</class>
+  <method>run</method>
+  <thread>20</thread>
+  <message>Locura el jugador THREAD-4 saco: 3</message>
+</record>
+<record>
+  <date>2022-10-04T08:19:34.375306300Z</date>
+  <millis>1664871574375</millis>
+  <nanos>306300</nanos>
+  <sequence>73</sequence>
+  <logger>LaOca</logger>
+  <level>INFO</level>
+  <class>LaOca$jugador</class>
+  <method>run</method>
+  <thread>20</thread>
+  <message>Le faltan:71</message>
+</record>
+<record>
+  <date>2022-10-04T08:19:34.425322200Z</date>
+  <millis>1664871574425</millis>
+  <nanos>322200</nanos>
+  <sequence>74</sequence>
+  <logger>LaOca</logger>
+  <level>INFO</level>
+  <class>LaOca$jugador</class>
+  <method>run</method>
+  <thread>16</thread>
+  <message>Locura el jugador THREAD-0 saco: 5</message>
+</record>
+<record>
+  <date>2022-10-04T08:19:34.425322200Z</date>
+  <millis>1664871574425</millis>
+  <nanos>322200</nanos>
+  <sequence>75</sequence>
+  <logger>LaOca</logger>
+  <level>INFO</level>
+  <class>LaOca$jugador</class>
+  <method>run</method>
+  <thread>16</thread>
+  <message>Le faltan:87</message>
+</record>
+<record>
+  <date>2022-10-04T08:19:34.644845600Z</date>
+  <millis>1664871574644</millis>
+  <nanos>845600</nanos>
+  <sequence>76</sequence>
+  <logger>LaOca</logger>
+  <level>INFO</level>
+  <class>LaOca$jugador</class>
+  <method>run</method>
+  <thread>19</thread>
+  <message>Locura el jugador THREAD-3 saco: 4</message>
+</record>
+<record>
+  <date>2022-10-04T08:19:34.644845600Z</date>
+  <millis>1664871574644</millis>
+  <nanos>845600</nanos>
+  <sequence>77</sequence>
+  <logger>LaOca</logger>
+  <level>INFO</level>
+  <class>LaOca$jugador</class>
+  <method>run</method>
+  <thread>19</thread>
+  <message>Le faltan:85</message>
+</record>
+<record>
+  <date>2022-10-04T08:19:34.886567500Z</date>
+  <millis>1664871574886</millis>
+  <nanos>567500</nanos>
+  <sequence>78</sequence>
+  <logger>LaOca</logger>
+  <level>INFO</level>
+  <class>LaOca$jugador</class>
+  <method>run</method>
+  <thread>23</thread>
+  <message>Locura el jugador THREAD-7 saco: 1</message>
+</record>
+<record>
+  <date>2022-10-04T08:19:34.887564400Z</date>
+  <millis>1664871574887</millis>
+  <nanos>564400</nanos>
+  <sequence>79</sequence>
+  <logger>LaOca</logger>
+  <level>INFO</level>
+  <class>LaOca$jugador</class>
+  <method>run</method>
+  <thread>23</thread>
+  <message>Le faltan:89</message>
+</record>
+<record>
+  <date>2022-10-04T08:19:34.900053500Z</date>
+  <millis>1664871574900</millis>
+  <nanos>53500</nanos>
+  <sequence>80</sequence>
+  <logger>LaOca</logger>
+  <level>INFO</level>
+  <class>LaOca$jugador</class>
+  <method>run</method>
+  <thread>21</thread>
+  <message>Locura el jugador THREAD-5 saco: 6</message>
+</record>
+<record>
+  <date>2022-10-04T08:19:34.901053100Z</date>
+  <millis>1664871574901</millis>
+  <nanos>53100</nanos>
+  <sequence>81</sequence>
+  <logger>LaOca</logger>
+  <level>INFO</level>
+  <class>LaOca$jugador</class>
+  <method>run</method>
+  <thread>21</thread>
+  <message>Le faltan:87</message>
+</record>
+<record>
+  <date>2022-10-04T08:19:35.323795800Z</date>
+  <millis>1664871575323</millis>
+  <nanos>795800</nanos>
+  <sequence>82</sequence>
+  <logger>LaOca</logger>
+  <level>INFO</level>
+  <class>LaOca$jugador</class>
+  <method>run</method>
+  <thread>17</thread>
+  <message>Locura el jugador THREAD-1 saco: 6</message>
+</record>
+<record>
+  <date>2022-10-04T08:19:35.324794400Z</date>
+  <millis>1664871575324</millis>
+  <nanos>794400</nanos>
+  <sequence>83</sequence>
+  <logger>LaOca</logger>
+  <level>INFO</level>
+  <class>LaOca$jugador</class>
+  <method>run</method>
+  <thread>17</thread>
+  <message>Le faltan:86</message>
+</record>
+<record>
+  <date>2022-10-04T08:19:35.384313900Z</date>
+  <millis>1664871575384</millis>
+  <nanos>313900</nanos>
+  <sequence>84</sequence>
+  <logger>LaOca</logger>
+  <level>INFO</level>
+  <class>LaOca$jugador</class>
+  <method>run</method>
+  <thread>25</thread>
+  <message>Locura el jugador THREAD-9 saco: 1</message>
+</record>
+<record>
+  <date>2022-10-04T08:19:35.384313900Z</date>
+  <millis>1664871575384</millis>
+  <nanos>313900</nanos>
+  <sequence>85</sequence>
+  <logger>LaOca</logger>
+  <level>INFO</level>
+  <class>LaOca$jugador</class>
+  <method>run</method>
+  <thread>25</thread>
+  <message>Le faltan:83</message>
+</record>
+<record>
+  <date>2022-10-04T08:19:35.409477100Z</date>
+  <millis>1664871575409</millis>
+  <nanos>477100</nanos>
+  <sequence>86</sequence>
+  <logger>LaOca</logger>
+  <level>INFO</level>
+  <class>LaOca$jugador</class>
+  <method>run</method>
+  <thread>21</thread>
+  <message>Locura el jugador THREAD-5 saco: 1</message>
+</record>
+<record>
+  <date>2022-10-04T08:19:35.409477100Z</date>
+  <millis>1664871575409</millis>
+  <nanos>477100</nanos>
+  <sequence>87</sequence>
+  <logger>LaOca</logger>
+  <level>INFO</level>
+  <class>LaOca$jugador</class>
+  <method>run</method>
+  <thread>21</thread>
+  <message>Le faltan:86</message>
+</record>
+<record>
+  <date>2022-10-04T08:19:35.446884700Z</date>
+  <millis>1664871575446</millis>
+  <nanos>884700</nanos>
+  <sequence>88</sequence>
+  <logger>LaOca</logger>
+  <level>INFO</level>
+  <class>LaOca$jugador</class>
+  <method>run</method>
+  <thread>19</thread>
+  <message>Locura el jugador THREAD-3 saco: 6</message>
+</record>
+<record>
+  <date>2022-10-04T08:19:35.446884700Z</date>
+  <millis>1664871575446</millis>
+  <nanos>884700</nanos>
+  <sequence>89</sequence>
+  <logger>LaOca</logger>
+  <level>INFO</level>
+  <class>LaOca$jugador</class>
+  <method>run</method>
+  <thread>19</thread>
+  <message>Le faltan:79</message>
+</record>
+<record>
+  <date>2022-10-04T08:19:35.468188100Z</date>
+  <millis>1664871575468</millis>
+  <nanos>188100</nanos>
+  <sequence>90</sequence>
+  <logger>LaOca</logger>
+  <level>INFO</level>
+  <class>LaOca$jugador</class>
+  <method>run</method>
+  <thread>22</thread>
+  <message>Locura el jugador THREAD-6 saco: 5</message>
+</record>
+<record>
+  <date>2022-10-04T08:19:35.468188100Z</date>
+  <millis>1664871575468</millis>
+  <nanos>188100</nanos>
+  <sequence>91</sequence>
+  <logger>LaOca</logger>
+  <level>INFO</level>
+  <class>LaOca$jugador</class>
+  <method>run</method>
+  <thread>22</thread>
+  <message>Le faltan:74</message>
+</record>
+<record>
+  <date>2022-10-04T08:19:35.535845Z</date>
+  <millis>1664871575535</millis>
+  <nanos>845000</nanos>
+  <sequence>92</sequence>
+  <logger>LaOca</logger>
+  <level>INFO</level>
+  <class>LaOca$jugador</class>
+  <method>run</method>
+  <thread>20</thread>
+  <message>Locura el jugador THREAD-4 saco: 1</message>
+</record>
+<record>
+  <date>2022-10-04T08:19:35.536845200Z</date>
+  <millis>1664871575536</millis>
+  <nanos>845200</nanos>
+  <sequence>93</sequence>
+  <logger>LaOca</logger>
+  <level>INFO</level>
+  <class>LaOca$jugador</class>
+  <method>run</method>
+  <thread>20</thread>
+  <message>Le faltan:70</message>
+</record>
+<record>
+  <date>2022-10-04T08:19:35.756072300Z</date>
+  <millis>1664871575756</millis>
+  <nanos>72300</nanos>
+  <sequence>94</sequence>
+  <logger>LaOca</logger>
+  <level>INFO</level>
+  <class>LaOca$jugador</class>
+  <method>run</method>
+  <thread>19</thread>
+  <message>Locura el jugador THREAD-3 saco: 3</message>
+</record>
+<record>
+  <date>2022-10-04T08:19:35.756072300Z</date>
+  <millis>1664871575756</millis>
+  <nanos>72300</nanos>
+  <sequence>95</sequence>
+  <logger>LaOca</logger>
+  <level>INFO</level>
+  <class>LaOca$jugador</class>
+  <method>run</method>
+  <thread>19</thread>
+  <message>Le faltan:76</message>
+</record>
+<record>
+  <date>2022-10-04T08:19:35.916256Z</date>
+  <millis>1664871575916</millis>
+  <nanos>256000</nanos>
+  <sequence>96</sequence>
+  <logger>LaOca</logger>
+  <level>INFO</level>
+  <class>LaOca$jugador</class>
+  <method>run</method>
+  <thread>18</thread>
+  <message>Locura el jugador THREAD-2 saco: 6</message>
+</record>
+<record>
+  <date>2022-10-04T08:19:35.917248600Z</date>
+  <millis>1664871575917</millis>
+  <nanos>248600</nanos>
+  <sequence>97</sequence>
+  <logger>LaOca</logger>
+  <level>INFO</level>
+  <class>LaOca$jugador</class>
+  <method>run</method>
+  <thread>18</thread>
+  <message>Le faltan:87</message>
+</record>
+<record>
+  <date>2022-10-04T08:19:36.042084300Z</date>
+  <millis>1664871576042</millis>
+  <nanos>84300</nanos>
+  <sequence>98</sequence>
+  <logger>LaOca</logger>
+  <level>INFO</level>
+  <class>LaOca$jugador</class>
+  <method>run</method>
+  <thread>24</thread>
+  <message>Locura el jugador THREAD-8 saco: 1</message>
+</record>
+<record>
+  <date>2022-10-04T08:19:36.043083100Z</date>
+  <millis>1664871576043</millis>
+  <nanos>83100</nanos>
+  <sequence>99</sequence>
+  <logger>LaOca</logger>
+  <level>INFO</level>
+  <class>LaOca$jugador</class>
+  <method>run</method>
+  <thread>24</thread>
+  <message>Le faltan:79</message>
+</record>
+<record>
+  <date>2022-10-04T08:19:36.275838900Z</date>
+  <millis>1664871576275</millis>
+  <nanos>838900</nanos>
+  <sequence>100</sequence>
+  <logger>LaOca</logger>
+  <level>INFO</level>
+  <class>LaOca$jugador</class>
+  <method>run</method>
+  <thread>16</thread>
+  <message>Locura el jugador THREAD-0 saco: 3</message>
+</record>
+<record>
+  <date>2022-10-04T08:19:36.276838100Z</date>
+  <millis>1664871576276</millis>
+  <nanos>838100</nanos>
+  <sequence>101</sequence>
+  <logger>LaOca</logger>
+  <level>INFO</level>
+  <class>LaOca$jugador</class>
+  <method>run</method>
+  <thread>16</thread>
+  <message>Le faltan:84</message>
+</record>
+<record>
+  <date>2022-10-04T08:19:36.298828400Z</date>
+  <millis>1664871576298</millis>
+  <nanos>828400</nanos>
+  <sequence>102</sequence>
+  <logger>LaOca</logger>
+  <level>INFO</level>
+  <class>LaOca$jugador</class>
+  <method>run</method>
+  <thread>21</thread>
+  <message>Locura el jugador THREAD-5 saco: 6</message>
+</record>
+<record>
+  <date>2022-10-04T08:19:36.299824400Z</date>
+  <millis>1664871576299</millis>
+  <nanos>824400</nanos>
+  <sequence>103</sequence>
+  <logger>LaOca</logger>
+  <level>INFO</level>
+  <class>LaOca$jugador</class>
+  <method>run</method>
+  <thread>21</thread>
+  <message>Le faltan:80</message>
+</record>
+<record>
+  <date>2022-10-04T08:19:36.615972600Z</date>
+  <millis>1664871576615</millis>
+  <nanos>972600</nanos>
+  <sequence>104</sequence>
+  <logger>LaOca</logger>
+  <level>INFO</level>
+  <class>LaOca$jugador</class>
+  <method>run</method>
+  <thread>16</thread>
+  <message>Locura el jugador THREAD-0 saco: 2</message>
+</record>
+<record>
+  <date>2022-10-04T08:19:36.616965500Z</date>
+  <millis>1664871576616</millis>
+  <nanos>965500</nanos>
+  <sequence>105</sequence>
+  <logger>LaOca</logger>
+  <level>INFO</level>
+  <class>LaOca$jugador</class>
+  <method>run</method>
+  <thread>16</thread>
+  <message>Le faltan:82</message>
+</record>
+<record>
+  <date>2022-10-04T08:19:36.692377600Z</date>
+  <millis>1664871576692</millis>
+  <nanos>377600</nanos>
+  <sequence>106</sequence>
+  <logger>LaOca</logger>
+  <level>INFO</level>
+  <class>LaOca$jugador</class>
+  <method>run</method>
+  <thread>25</thread>
+  <message>Locura el jugador THREAD-9 saco: 2</message>
+</record>
+<record>
+  <date>2022-10-04T08:19:36.692377600Z</date>
+  <millis>1664871576692</millis>
+  <nanos>377600</nanos>
+  <sequence>107</sequence>
+  <logger>LaOca</logger>
+  <level>INFO</level>
+  <class>LaOca$jugador</class>
+  <method>run</method>
+  <thread>25</thread>
+  <message>Le faltan:81</message>
+</record>
+<record>
+  <date>2022-10-04T08:19:36.747816600Z</date>
+  <millis>1664871576747</millis>
+  <nanos>816600</nanos>
+  <sequence>108</sequence>
+  <logger>LaOca</logger>
+  <level>INFO</level>
+  <class>LaOca$jugador</class>
+  <method>run</method>
+  <thread>23</thread>
+  <message>Locura el jugador THREAD-7 saco: 2</message>
+</record>
+<record>
+  <date>2022-10-04T08:19:36.747816600Z</date>
+  <millis>1664871576747</millis>
+  <nanos>816600</nanos>
+  <sequence>109</sequence>
+  <logger>LaOca</logger>
+  <level>INFO</level>
+  <class>LaOca$jugador</class>
+  <method>run</method>
+  <thread>23</thread>
+  <message>Le faltan:87</message>
+</record>
+<record>
+  <date>2022-10-04T08:19:36.855490600Z</date>
+  <millis>1664871576855</millis>
+  <nanos>490600</nanos>
+  <sequence>110</sequence>
+  <logger>LaOca</logger>
+  <level>INFO</level>
+  <class>LaOca$jugador</class>
+  <method>run</method>
+  <thread>17</thread>
+  <message>Locura el jugador THREAD-1 saco: 6</message>
+</record>
+<record>
+  <date>2022-10-04T08:19:36.855490600Z</date>
+  <millis>1664871576855</millis>
+  <nanos>490600</nanos>
+  <sequence>111</sequence>
+  <logger>LaOca</logger>
+  <level>INFO</level>
+  <class>LaOca$jugador</class>
+  <method>run</method>
+  <thread>17</thread>
+  <message>Le faltan:80</message>
+</record>
+<record>
+  <date>2022-10-04T08:19:37.207933100Z</date>
+  <millis>1664871577207</millis>
+  <nanos>933100</nanos>
+  <sequence>112</sequence>
+  <logger>LaOca</logger>
+  <level>INFO</level>
+  <class>LaOca$jugador</class>
+  <method>run</method>
+  <thread>20</thread>
+  <message>Locura el jugador THREAD-4 saco: 6</message>
+</record>
+<record>
+  <date>2022-10-04T08:19:37.207933100Z</date>
+  <millis>1664871577207</millis>
+  <nanos>933100</nanos>
+  <sequence>113</sequence>
+  <logger>LaOca</logger>
+  <level>INFO</level>
+  <class>LaOca$jugador</class>
+  <method>run</method>
+  <thread>20</thread>
+  <message>Le faltan:64</message>
+</record>
+<record>
+  <date>2022-10-04T08:19:37.251457400Z</date>
+  <millis>1664871577251</millis>
+  <nanos>457400</nanos>
+  <sequence>114</sequence>
+  <logger>LaOca</logger>
+  <level>INFO</level>
+  <class>LaOca$jugador</class>
+  <method>run</method>
+  <thread>25</thread>
+  <message>Locura el jugador THREAD-9 saco: 1</message>
+</record>
+<record>
+  <date>2022-10-04T08:19:37.251457400Z</date>
+  <millis>1664871577251</millis>
+  <nanos>457400</nanos>
+  <sequence>115</sequence>
+  <logger>LaOca</logger>
+  <level>INFO</level>
+  <class>LaOca$jugador</class>
+  <method>run</method>
+  <thread>25</thread>
+  <message>Le faltan:80</message>
+</record>
+<record>
+  <date>2022-10-04T08:19:37.432624500Z</date>
+  <millis>1664871577432</millis>
+  <nanos>624500</nanos>
+  <sequence>116</sequence>
+  <logger>LaOca</logger>
+  <level>INFO</level>
+  <class>LaOca$jugador</class>
+  <method>run</method>
+  <thread>22</thread>
+  <message>Locura el jugador THREAD-6 saco: 5</message>
+</record>
+<record>
+  <date>2022-10-04T08:19:37.433624100Z</date>
+  <millis>1664871577433</millis>
+  <nanos>624100</nanos>
+  <sequence>117</sequence>
+  <logger>LaOca</logger>
+  <level>INFO</level>
+  <class>LaOca$jugador</class>
+  <method>run</method>
+  <thread>22</thread>
+  <message>Le faltan:69</message>
+</record>
+<record>
+  <date>2022-10-04T08:19:37.464979700Z</date>
+  <millis>1664871577464</millis>
+  <nanos>979700</nanos>
+  <sequence>118</sequence>
+  <logger>LaOca</logger>
+  <level>INFO</level>
+  <class>LaOca$jugador</class>
+  <method>run</method>
+  <thread>19</thread>
+  <message>Locura el jugador THREAD-3 saco: 1</message>
+</record>
+<record>
+  <date>2022-10-04T08:19:37.464979700Z</date>
+  <millis>1664871577464</millis>
+  <nanos>979700</nanos>
+  <sequence>119</sequence>
+  <logger>LaOca</logger>
+  <level>INFO</level>
+  <class>LaOca$jugador</class>
+  <method>run</method>
+  <thread>19</thread>
+  <message>Le faltan:75</message>
+</record>
+<record>
+  <date>2022-10-04T08:19:37.562322700Z</date>
+  <millis>1664871577562</millis>
+  <nanos>322700</nanos>
+  <sequence>120</sequence>
+  <logger>LaOca</logger>
+  <level>INFO</level>
+  <class>LaOca$jugador</class>
+  <method>run</method>
+  <thread>18</thread>
+  <message>Locura el jugador THREAD-2 saco: 4</message>
+</record>
+<record>
+  <date>2022-10-04T08:19:37.563296100Z</date>
+  <millis>1664871577563</millis>
+  <nanos>296100</nanos>
+  <sequence>121</sequence>
+  <logger>LaOca</logger>
+  <level>INFO</level>
+  <class>LaOca$jugador</class>
+  <method>run</method>
+  <thread>18</thread>
+  <message>Le faltan:83</message>
+</record>
+<record>
+  <date>2022-10-04T08:19:37.599099700Z</date>
+  <millis>1664871577599</millis>
+  <nanos>99700</nanos>
+  <sequence>122</sequence>
+  <logger>LaOca</logger>
+  <level>INFO</level>
+  <class>LaOca$jugador</class>
+  <method>run</method>
+  <thread>19</thread>
+  <message>Locura el jugador THREAD-3 saco: 1</message>
+</record>
+<record>
+  <date>2022-10-04T08:19:37.599099700Z</date>
+  <millis>1664871577599</millis>
+  <nanos>99700</nanos>
+  <sequence>123</sequence>
+  <logger>LaOca</logger>
+  <level>INFO</level>
+  <class>LaOca$jugador</class>
+  <method>run</method>
+  <thread>19</thread>
+  <message>Le faltan:74</message>
+</record>
+<record>
+  <date>2022-10-04T08:19:37.678280800Z</date>
+  <millis>1664871577678</millis>
+  <nanos>280800</nanos>
+  <sequence>124</sequence>
+  <logger>LaOca</logger>
+  <level>INFO</level>
+  <class>LaOca$jugador</class>
+  <method>run</method>
+  <thread>24</thread>
+  <message>Locura el jugador THREAD-8 saco: 4</message>
+</record>
+<record>
+  <date>2022-10-04T08:19:37.678280800Z</date>
+  <millis>1664871577678</millis>
+  <nanos>280800</nanos>
+  <sequence>125</sequence>
+  <logger>LaOca</logger>
+  <level>INFO</level>
+  <class>LaOca$jugador</class>
+  <method>run</method>
+  <thread>24</thread>
+  <message>Le faltan:75</message>
+</record>
+<record>
+  <date>2022-10-04T08:19:37.746347500Z</date>
+  <millis>1664871577746</millis>
+  <nanos>347500</nanos>
+  <sequence>126</sequence>
+  <logger>LaOca</logger>
+  <level>INFO</level>
+  <class>LaOca$jugador</class>
+  <method>run</method>
+  <thread>18</thread>
+  <message>Locura el jugador THREAD-2 saco: 1</message>
+</record>
+<record>
+  <date>2022-10-04T08:19:37.746347500Z</date>
+  <millis>1664871577746</millis>
+  <nanos>347500</nanos>
+  <sequence>127</sequence>
+  <logger>LaOca</logger>
+  <level>INFO</level>
+  <class>LaOca$jugador</class>
+  <method>run</method>
+  <thread>18</thread>
+  <message>Le faltan:82</message>
+</record>
+<record>
+  <date>2022-10-04T08:19:37.800155800Z</date>
+  <millis>1664871577800</millis>
+  <nanos>155800</nanos>
+  <sequence>128</sequence>
+  <logger>LaOca</logger>
+  <level>INFO</level>
+  <class>LaOca$jugador</class>
+  <method>run</method>
+  <thread>19</thread>
+  <message>Locura el jugador THREAD-3 saco: 1</message>
+</record>
+<record>
+  <date>2022-10-04T08:19:37.800155800Z</date>
+  <millis>1664871577800</millis>
+  <nanos>155800</nanos>
+  <sequence>129</sequence>
+  <logger>LaOca</logger>
+  <level>INFO</level>
+  <class>LaOca$jugador</class>
+  <method>run</method>
+  <thread>19</thread>
+  <message>Le faltan:73</message>
+</record>
+<record>
+  <date>2022-10-04T08:19:37.968887100Z</date>
+  <millis>1664871577968</millis>
+  <nanos>887100</nanos>
+  <sequence>130</sequence>
+  <logger>LaOca</logger>
+  <level>INFO</level>
+  <class>LaOca$jugador</class>
+  <method>run</method>
+  <thread>23</thread>
+  <message>Locura el jugador THREAD-7 saco: 3</message>
+</record>
+<record>
+  <date>2022-10-04T08:19:37.968887100Z</date>
+  <millis>1664871577968</millis>
+  <nanos>887100</nanos>
+  <sequence>131</sequence>
+  <logger>LaOca</logger>
+  <level>INFO</level>
+  <class>LaOca$jugador</class>
+  <method>run</method>
+  <thread>23</thread>
+  <message>Le faltan:84</message>
+</record>
+<record>
+  <date>2022-10-04T08:19:38.001574700Z</date>
+  <millis>1664871578001</millis>
+  <nanos>574700</nanos>
+  <sequence>132</sequence>
+  <logger>LaOca</logger>
+  <level>INFO</level>
+  <class>LaOca$jugador</class>
+  <method>run</method>
+  <thread>17</thread>
+  <message>Locura el jugador THREAD-1 saco: 1</message>
+</record>
+<record>
+  <date>2022-10-04T08:19:38.001574700Z</date>
+  <millis>1664871578001</millis>
+  <nanos>574700</nanos>
+  <sequence>133</sequence>
+  <logger>LaOca</logger>
+  <level>INFO</level>
+  <class>LaOca$jugador</class>
+  <method>run</method>
+  <thread>17</thread>
+  <message>Le faltan:79</message>
+</record>
+<record>
+  <date>2022-10-04T08:19:38.036924400Z</date>
+  <millis>1664871578036</millis>
+  <nanos>924400</nanos>
+  <sequence>134</sequence>
+  <logger>LaOca</logger>
+  <level>INFO</level>
+  <class>LaOca$jugador</class>
+  <method>run</method>
+  <thread>21</thread>
+  <message>Locura el jugador THREAD-5 saco: 3</message>
+</record>
+<record>
+  <date>2022-10-04T08:19:38.036924400Z</date>
+  <millis>1664871578036</millis>
+  <nanos>924400</nanos>
+  <sequence>135</sequence>
+  <logger>LaOca</logger>
+  <level>INFO</level>
+  <class>LaOca$jugador</class>
+  <method>run</method>
+  <thread>21</thread>
+  <message>Le faltan:77</message>
+</record>
+<record>
+  <date>2022-10-04T08:19:38.402047700Z</date>
+  <millis>1664871578402</millis>
+  <nanos>47700</nanos>
+  <sequence>136</sequence>
+  <logger>LaOca</logger>
+  <level>INFO</level>
+  <class>LaOca$jugador</class>
+  <method>run</method>
+  <thread>16</thread>
+  <message>Locura el jugador THREAD-0 saco: 5</message>
+</record>
+<record>
+  <date>2022-10-04T08:19:38.403027900Z</date>
+  <millis>1664871578403</millis>
+  <nanos>27900</nanos>
+  <sequence>137</sequence>
+  <logger>LaOca</logger>
+  <level>INFO</level>
+  <class>LaOca$jugador</class>
+  <method>run</method>
+  <thread>16</thread>
+  <message>Le faltan:77</message>
+</record>
+<record>
+  <date>2022-10-04T08:19:38.445419700Z</date>
+  <millis>1664871578445</millis>
+  <nanos>419700</nanos>
+  <sequence>138</sequence>
+  <logger>LaOca</logger>
+  <level>INFO</level>
+  <class>LaOca$jugador</class>
+  <method>run</method>
+  <thread>18</thread>
+  <message>Locura el jugador THREAD-2 saco: 5</message>
+</record>
+<record>
+  <date>2022-10-04T08:19:38.445419700Z</date>
+  <millis>1664871578445</millis>
+  <nanos>419700</nanos>
+  <sequence>139</sequence>
+  <logger>LaOca</logger>
+  <level>INFO</level>
+  <class>LaOca$jugador</class>
+  <method>run</method>
+  <thread>18</thread>
+  <message>Le faltan:77</message>
+</record>
+<record>
+  <date>2022-10-04T08:19:38.467690300Z</date>
+  <millis>1664871578467</millis>
+  <nanos>690300</nanos>
+  <sequence>140</sequence>
+  <logger>LaOca</logger>
+  <level>INFO</level>
+  <class>LaOca$jugador</class>
+  <method>run</method>
+  <thread>22</thread>
+  <message>Locura el jugador THREAD-6 saco: 4</message>
+</record>
+<record>
+  <date>2022-10-04T08:19:38.467690300Z</date>
+  <millis>1664871578467</millis>
+  <nanos>690300</nanos>
+  <sequence>141</sequence>
+  <logger>LaOca</logger>
+  <level>INFO</level>
+  <class>LaOca$jugador</class>
+  <method>run</method>
+  <thread>22</thread>
+  <message>Le faltan:65</message>
+</record>
+<record>
+  <date>2022-10-04T08:19:38.594013Z</date>
+  <millis>1664871578594</millis>
+  <nanos>13000</nanos>
+  <sequence>142</sequence>
+  <logger>LaOca</logger>
+  <level>INFO</level>
+  <class>LaOca$jugador</class>
+  <method>run</method>
+  <thread>20</thread>
+  <message>Locura el jugador THREAD-4 saco: 2</message>
+</record>
+<record>
+  <date>2022-10-04T08:19:38.594013Z</date>
+  <millis>1664871578594</millis>
+  <nanos>13000</nanos>
+  <sequence>143</sequence>
+  <logger>LaOca</logger>
+  <level>INFO</level>
+  <class>LaOca$jugador</class>
+  <method>run</method>
+  <thread>20</thread>
+  <message>Le faltan:62</message>
+</record>
+<record>
+  <date>2022-10-04T08:19:38.838112400Z</date>
+  <millis>1664871578838</millis>
+  <nanos>112400</nanos>
+  <sequence>144</sequence>
+  <logger>LaOca</logger>
+  <level>INFO</level>
+  <class>LaOca$jugador</class>
+  <method>run</method>
+  <thread>20</thread>
+  <message>Locura el jugador THREAD-4 saco: 4</message>
+</record>
+<record>
+  <date>2022-10-04T08:19:38.838112400Z</date>
+  <millis>1664871578838</millis>
+  <nanos>112400</nanos>
+  <sequence>145</sequence>
+  <logger>LaOca</logger>
+  <level>INFO</level>
+  <class>LaOca$jugador</class>
+  <method>run</method>
+  <thread>20</thread>
+  <message>Le faltan:58</message>
+</record>
+<record>
+  <date>2022-10-04T08:19:38.896157100Z</date>
+  <millis>1664871578896</millis>
+  <nanos>157100</nanos>
+  <sequence>146</sequence>
+  <logger>LaOca</logger>
+  <level>INFO</level>
+  <class>LaOca$jugador</class>
+  <method>run</method>
+  <thread>20</thread>
+  <message>Locura el jugador THREAD-4 saco: 1</message>
+</record>
+<record>
+  <date>2022-10-04T08:19:38.896157100Z</date>
+  <millis>1664871578896</millis>
+  <nanos>157100</nanos>
+  <sequence>147</sequence>
+  <logger>LaOca</logger>
+  <level>INFO</level>
+  <class>LaOca$jugador</class>
+  <method>run</method>
+  <thread>20</thread>
+  <message>Le faltan:57</message>
+</record>
+<record>
+  <date>2022-10-04T08:19:38.933735400Z</date>
+  <millis>1664871578933</millis>
+  <nanos>735400</nanos>
+  <sequence>148</sequence>
+  <logger>LaOca</logger>
+  <level>INFO</level>
+  <class>LaOca$jugador</class>
+  <method>run</method>
+  <thread>19</thread>
+  <message>Locura el jugador THREAD-3 saco: 3</message>
+</record>
+<record>
+  <date>2022-10-04T08:19:38.933735400Z</date>
+  <millis>1664871578933</millis>
+  <nanos>735400</nanos>
+  <sequence>149</sequence>
+  <logger>LaOca</logger>
+  <level>INFO</level>
+  <class>LaOca$jugador</class>
+  <method>run</method>
+  <thread>19</thread>
+  <message>Le faltan:70</message>
+</record>
+<record>
+  <date>2022-10-04T08:19:39.030498900Z</date>
+  <millis>1664871579030</millis>
+  <nanos>498900</nanos>
+  <sequence>150</sequence>
+  <logger>LaOca</logger>
+  <level>INFO</level>
+  <class>LaOca$jugador</class>
+  <method>run</method>
+  <thread>18</thread>
+  <message>Locura el jugador THREAD-2 saco: 5</message>
+</record>
+<record>
+  <date>2022-10-04T08:19:39.030498900Z</date>
+  <millis>1664871579030</millis>
+  <nanos>498900</nanos>
+  <sequence>151</sequence>
+  <logger>LaOca</logger>
+  <level>INFO</level>
+  <class>LaOca$jugador</class>
+  <method>run</method>
+  <thread>18</thread>
+  <message>Le faltan:72</message>
+</record>
+<record>
+  <date>2022-10-04T08:19:39.209043100Z</date>
+  <millis>1664871579209</millis>
+  <nanos>43100</nanos>
+  <sequence>152</sequence>
+  <logger>LaOca</logger>
+  <level>INFO</level>
+  <class>LaOca$jugador</class>
+  <method>run</method>
+  <thread>25</thread>
+  <message>Locura el jugador THREAD-9 saco: 6</message>
+</record>
+<record>
+  <date>2022-10-04T08:19:39.209043100Z</date>
+  <millis>1664871579209</millis>
+  <nanos>43100</nanos>
+  <sequence>153</sequence>
+  <logger>LaOca</logger>
+  <level>INFO</level>
+  <class>LaOca$jugador</class>
+  <method>run</method>
+  <thread>25</thread>
+  <message>Le faltan:74</message>
+</record>
+<record>
+  <date>2022-10-04T08:19:39.434950900Z</date>
+  <millis>1664871579434</millis>
+  <nanos>950900</nanos>
+  <sequence>154</sequence>
+  <logger>LaOca</logger>
+  <level>INFO</level>
+  <class>LaOca$jugador</class>
+  <method>run</method>
+  <thread>21</thread>
+  <message>Locura el jugador THREAD-5 saco: 5</message>
+</record>
+<record>
+  <date>2022-10-04T08:19:39.435950300Z</date>
+  <millis>1664871579435</millis>
+  <nanos>950300</nanos>
+  <sequence>155</sequence>
+  <logger>LaOca</logger>
+  <level>INFO</level>
+  <class>LaOca$jugador</class>
+  <method>run</method>
+  <thread>21</thread>
+  <message>Le faltan:72</message>
+</record>
+<record>
+  <date>2022-10-04T08:19:39.522932Z</date>
+  <millis>1664871579522</millis>
+  <nanos>932000</nanos>
+  <sequence>156</sequence>
+  <logger>LaOca</logger>
+  <level>INFO</level>
+  <class>LaOca$jugador</class>
+  <method>run</method>
+  <thread>23</thread>
+  <message>Locura el jugador THREAD-7 saco: 5</message>
+</record>
+<record>
+  <date>2022-10-04T08:19:39.522932Z</date>
+  <millis>1664871579522</millis>
+  <nanos>932000</nanos>
+  <sequence>157</sequence>
+  <logger>LaOca</logger>
+  <level>INFO</level>
+  <class>LaOca$jugador</class>
+  <method>run</method>
+  <thread>23</thread>
+  <message>Le faltan:79</message>
+</record>
+<record>
+  <date>2022-10-04T08:19:39.574365100Z</date>
+  <millis>1664871579574</millis>
+  <nanos>365100</nanos>
+  <sequence>158</sequence>
+  <logger>LaOca</logger>
+  <level>INFO</level>
+  <class>LaOca$jugador</class>
+  <method>run</method>
+  <thread>24</thread>
+  <message>Locura el jugador THREAD-8 saco: 2</message>
+</record>
+<record>
+  <date>2022-10-04T08:19:39.574365100Z</date>
+  <millis>1664871579574</millis>
+  <nanos>365100</nanos>
+  <sequence>159</sequence>
+  <logger>LaOca</logger>
+  <level>INFO</level>
+  <class>LaOca$jugador</class>
+  <method>run</method>
+  <thread>24</thread>
+  <message>Le faltan:73</message>
+</record>
+<record>
+  <date>2022-10-04T08:19:39.853657100Z</date>
+  <millis>1664871579853</millis>
+  <nanos>657100</nanos>
+  <sequence>160</sequence>
+  <logger>LaOca</logger>
+  <level>INFO</level>
+  <class>LaOca$jugador</class>
+  <method>run</method>
+  <thread>17</thread>
+  <message>Locura el jugador THREAD-1 saco: 6</message>
+</record>
+<record>
+  <date>2022-10-04T08:19:39.853657100Z</date>
+  <millis>1664871579853</millis>
+  <nanos>657100</nanos>
+  <sequence>161</sequence>
+  <logger>LaOca</logger>
+  <level>INFO</level>
+  <class>LaOca$jugador</class>
+  <method>run</method>
+  <thread>17</thread>
+  <message>Le faltan:73</message>
+</record>
+<record>
+  <date>2022-10-04T08:19:39.902259600Z</date>
+  <millis>1664871579902</millis>
+  <nanos>259600</nanos>
+  <sequence>162</sequence>
+  <logger>LaOca</logger>
+  <level>INFO</level>
+  <class>LaOca$jugador</class>
+  <method>run</method>
+  <thread>20</thread>
+  <message>Locura el jugador THREAD-4 saco: 2</message>
+</record>
+<record>
+  <date>2022-10-04T08:19:39.902259600Z</date>
+  <millis>1664871579902</millis>
+  <nanos>259600</nanos>
+  <sequence>163</sequence>
+  <logger>LaOca</logger>
+  <level>INFO</level>
+  <class>LaOca$jugador</class>
+  <method>run</method>
+  <thread>20</thread>
+  <message>Le faltan:55</message>
+</record>
+<record>
+  <date>2022-10-04T08:19:39.939780500Z</date>
+  <millis>1664871579939</millis>
+  <nanos>780500</nanos>
+  <sequence>164</sequence>
+  <logger>LaOca</logger>
+  <level>INFO</level>
+  <class>LaOca$jugador</class>
+  <method>run</method>
+  <thread>22</thread>
+  <message>Locura el jugador THREAD-6 saco: 2</message>
+</record>
+<record>
+  <date>2022-10-04T08:19:39.939780500Z</date>
+  <millis>1664871579939</millis>
+  <nanos>780500</nanos>
+  <sequence>165</sequence>
+  <logger>LaOca</logger>
+  <level>INFO</level>
+  <class>LaOca$jugador</class>
+  <method>run</method>
+  <thread>22</thread>
+  <message>Le faltan:63</message>
+</record>
+<record>
+  <date>2022-10-04T08:19:39.945794Z</date>
+  <millis>1664871579945</millis>
+  <nanos>794000</nanos>
+  <sequence>166</sequence>
+  <logger>LaOca</logger>
+  <level>INFO</level>
+  <class>LaOca$jugador</class>
+  <method>run</method>
+  <thread>22</thread>
+  <message>Locura el jugador THREAD-6 saco: 1</message>
+</record>
+<record>
+  <date>2022-10-04T08:19:39.945794Z</date>
+  <millis>1664871579945</millis>
+  <nanos>794000</nanos>
+  <sequence>167</sequence>
+  <logger>LaOca</logger>
+  <level>INFO</level>
+  <class>LaOca$jugador</class>
+  <method>run</method>
+  <thread>22</thread>
+  <message>Le faltan:62</message>
+</record>
+<record>
+  <date>2022-10-04T08:19:40.069926900Z</date>
+  <millis>1664871580069</millis>
+  <nanos>926900</nanos>
+  <sequence>168</sequence>
+  <logger>LaOca</logger>
+  <level>INFO</level>
+  <class>LaOca$jugador</class>
+  <method>run</method>
+  <thread>18</thread>
+  <message>Locura el jugador THREAD-2 saco: 6</message>
+</record>
+<record>
+  <date>2022-10-04T08:19:40.069926900Z</date>
+  <millis>1664871580069</millis>
+  <nanos>926900</nanos>
+  <sequence>169</sequence>
+  <logger>LaOca</logger>
+  <level>INFO</level>
+  <class>LaOca$jugador</class>
+  <method>run</method>
+  <thread>18</thread>
+  <message>Le faltan:66</message>
+</record>
+<record>
+  <date>2022-10-04T08:19:40.099908300Z</date>
+  <millis>1664871580099</millis>
+  <nanos>908300</nanos>
+  <sequence>170</sequence>
+  <logger>LaOca</logger>
+  <level>INFO</level>
+  <class>LaOca$jugador</class>
+  <method>run</method>
+  <thread>16</thread>
+  <message>Locura el jugador THREAD-0 saco: 4</message>
+</record>
+<record>
+  <date>2022-10-04T08:19:40.100910200Z</date>
+  <millis>1664871580100</millis>
+  <nanos>910200</nanos>
+  <sequence>171</sequence>
+  <logger>LaOca</logger>
+  <level>INFO</level>
+  <class>LaOca$jugador</class>
+  <method>run</method>
+  <thread>16</thread>
+  <message>Le faltan:73</message>
+</record>
+<record>
+  <date>2022-10-04T08:19:40.153484600Z</date>
+  <millis>1664871580153</millis>
+  <nanos>484600</nanos>
+  <sequence>172</sequence>
+  <logger>LaOca</logger>
+  <level>INFO</level>
+  <class>LaOca$jugador</class>
+  <method>run</method>
+  <thread>18</thread>
+  <message>Locura el jugador THREAD-2 saco: 1</message>
+</record>
+<record>
+  <date>2022-10-04T08:19:40.153484600Z</date>
+  <millis>1664871580153</millis>
+  <nanos>484600</nanos>
+  <sequence>173</sequence>
+  <logger>LaOca</logger>
+  <level>INFO</level>
+  <class>LaOca$jugador</class>
+  <method>run</method>
+  <thread>18</thread>
+  <message>Le faltan:65</message>
+</record>
+<record>
+  <date>2022-10-04T08:19:40.160738200Z</date>
+  <millis>1664871580160</millis>
+  <nanos>738200</nanos>
+  <sequence>174</sequence>
+  <logger>LaOca</logger>
+  <level>INFO</level>
+  <class>LaOca$jugador</class>
+  <method>run</method>
+  <thread>16</thread>
+  <message>Locura el jugador THREAD-0 saco: 2</message>
+</record>
+<record>
+  <date>2022-10-04T08:19:40.160738200Z</date>
+  <millis>1664871580160</millis>
+  <nanos>738200</nanos>
+  <sequence>175</sequence>
+  <logger>LaOca</logger>
+  <level>INFO</level>
+  <class>LaOca$jugador</class>
+  <method>run</method>
+  <thread>16</thread>
+  <message>Le faltan:71</message>
+</record>
+<record>
+  <date>2022-10-04T08:19:40.277822100Z</date>
+  <millis>1664871580277</millis>
+  <nanos>822100</nanos>
+  <sequence>176</sequence>
+  <logger>LaOca</logger>
+  <level>INFO</level>
+  <class>LaOca$jugador</class>
+  <method>run</method>
+  <thread>19</thread>
+  <message>Locura el jugador THREAD-3 saco: 3</message>
+</record>
+<record>
+  <date>2022-10-04T08:19:40.277822100Z</date>
+  <millis>1664871580277</millis>
+  <nanos>822100</nanos>
+  <sequence>177</sequence>
+  <logger>LaOca</logger>
+  <level>INFO</level>
+  <class>LaOca$jugador</class>
+  <method>run</method>
+  <thread>19</thread>
+  <message>Le faltan:67</message>
+</record>
+<record>
+  <date>2022-10-04T08:19:40.342416400Z</date>
+  <millis>1664871580342</millis>
+  <nanos>416400</nanos>
+  <sequence>178</sequence>
+  <logger>LaOca</logger>
+  <level>INFO</level>
+  <class>LaOca$jugador</class>
+  <method>run</method>
+  <thread>24</thread>
+  <message>Locura el jugador THREAD-8 saco: 6</message>
+</record>
+<record>
+  <date>2022-10-04T08:19:40.342416400Z</date>
+  <millis>1664871580342</millis>
+  <nanos>416400</nanos>
+  <sequence>179</sequence>
+  <logger>LaOca</logger>
+  <level>INFO</level>
+  <class>LaOca$jugador</class>
+  <method>run</method>
+  <thread>24</thread>
+  <message>Le faltan:67</message>
+</record>
+<record>
+  <date>2022-10-04T08:19:40.359544300Z</date>
+  <millis>1664871580359</millis>
+  <nanos>544300</nanos>
+  <sequence>180</sequence>
+  <logger>LaOca</logger>
+  <level>INFO</level>
+  <class>LaOca$jugador</class>
+  <method>run</method>
+  <thread>19</thread>
+  <message>Locura el jugador THREAD-3 saco: 2</message>
+</record>
+<record>
+  <date>2022-10-04T08:19:40.359544300Z</date>
+  <millis>1664871580359</millis>
+  <nanos>544300</nanos>
+  <sequence>181</sequence>
+  <logger>LaOca</logger>
+  <level>INFO</level>
+  <class>LaOca$jugador</class>
+  <method>run</method>
+  <thread>19</thread>
+  <message>Le faltan:65</message>
+</record>
+<record>
+  <date>2022-10-04T08:19:40.451337900Z</date>
+  <millis>1664871580451</millis>
+  <nanos>337900</nanos>
+  <sequence>182</sequence>
+  <logger>LaOca</logger>
+  <level>INFO</level>
+  <class>LaOca$jugador</class>
+  <method>run</method>
+  <thread>20</thread>
+  <message>Locura el jugador THREAD-4 saco: 2</message>
+</record>
+<record>
+  <date>2022-10-04T08:19:40.451337900Z</date>
+  <millis>1664871580451</millis>
+  <nanos>337900</nanos>
+  <sequence>183</sequence>
+  <logger>LaOca</logger>
+  <level>INFO</level>
+  <class>LaOca$jugador</class>
+  <method>run</method>
+  <thread>20</thread>
+  <message>Le faltan:53</message>
+</record>
+<record>
+  <date>2022-10-04T08:19:40.517566100Z</date>
+  <millis>1664871580517</millis>
+  <nanos>566100</nanos>
+  <sequence>184</sequence>
+  <logger>LaOca</logger>
+  <level>INFO</level>
+  <class>LaOca$jugador</class>
+  <method>run</method>
+  <thread>25</thread>
+  <message>Locura el jugador THREAD-9 saco: 4</message>
+</record>
+<record>
+  <date>2022-10-04T08:19:40.517566100Z</date>
+  <millis>1664871580517</millis>
+  <nanos>566100</nanos>
+  <sequence>185</sequence>
+  <logger>LaOca</logger>
+  <level>INFO</level>
+  <class>LaOca$jugador</class>
+  <method>run</method>
+  <thread>25</thread>
+  <message>Le faltan:70</message>
+</record>
+<record>
+  <date>2022-10-04T08:19:40.571679300Z</date>
+  <millis>1664871580571</millis>
+  <nanos>679300</nanos>
+  <sequence>186</sequence>
+  <logger>LaOca</logger>
+  <level>INFO</level>
+  <class>LaOca$jugador</class>
+  <method>run</method>
+  <thread>17</thread>
+  <message>Locura el jugador THREAD-1 saco: 5</message>
+</record>
+<record>
+  <date>2022-10-04T08:19:40.571679300Z</date>
+  <millis>1664871580571</millis>
+  <nanos>679300</nanos>
+  <sequence>187</sequence>
+  <logger>LaOca</logger>
+  <level>INFO</level>
+  <class>LaOca$jugador</class>
+  <method>run</method>
+  <thread>17</thread>
+  <message>Le faltan:68</message>
+</record>
+<record>
+  <date>2022-10-04T08:19:40.575626300Z</date>
+  <millis>1664871580575</millis>
+  <nanos>626300</nanos>
+  <sequence>188</sequence>
+  <logger>LaOca</logger>
+  <level>INFO</level>
+  <class>LaOca$jugador</class>
+  <method>run</method>
+  <thread>25</thread>
+  <message>Locura el jugador THREAD-9 saco: 1</message>
+</record>
+<record>
+  <date>2022-10-04T08:19:40.575626300Z</date>
+  <millis>1664871580575</millis>
+  <nanos>626300</nanos>
+  <sequence>189</sequence>
+  <logger>LaOca</logger>
+  <level>INFO</level>
+  <class>LaOca$jugador</class>
+  <method>run</method>
+  <thread>25</thread>
+  <message>Le faltan:69</message>
+</record>
+<record>
+  <date>2022-10-04T08:19:40.601044200Z</date>
+  <millis>1664871580601</millis>
+  <nanos>44200</nanos>
+  <sequence>190</sequence>
+  <logger>LaOca</logger>
+  <level>INFO</level>
+  <class>LaOca$jugador</class>
+  <method>run</method>
+  <thread>18</thread>
+  <message>Locura el jugador THREAD-2 saco: 2</message>
+</record>
+<record>
+  <date>2022-10-04T08:19:40.601044200Z</date>
+  <millis>1664871580601</millis>
+  <nanos>44200</nanos>
+  <sequence>191</sequence>
+  <logger>LaOca</logger>
+  <level>INFO</level>
+  <class>LaOca$jugador</class>
+  <method>run</method>
+  <thread>18</thread>
+  <message>Le faltan:63</message>
+</record>
+<record>
+  <date>2022-10-04T08:19:40.717851600Z</date>
+  <millis>1664871580717</millis>
+  <nanos>851600</nanos>
+  <sequence>192</sequence>
+  <logger>LaOca</logger>
+  <level>INFO</level>
+  <class>LaOca$jugador</class>
+  <method>run</method>
+  <thread>22</thread>
+  <message>Locura el jugador THREAD-6 saco: 3</message>
+</record>
+<record>
+  <date>2022-10-04T08:19:40.717851600Z</date>
+  <millis>1664871580717</millis>
+  <nanos>851600</nanos>
+  <sequence>193</sequence>
+  <logger>LaOca</logger>
+  <level>INFO</level>
+  <class>LaOca$jugador</class>
+  <method>run</method>
+  <thread>22</thread>
+  <message>Le faltan:59</message>
+</record>
+<record>
+  <date>2022-10-04T08:19:41.052955400Z</date>
+  <millis>1664871581052</millis>
+  <nanos>955400</nanos>
+  <sequence>194</sequence>
+  <logger>LaOca</logger>
+  <level>INFO</level>
+  <class>LaOca$jugador</class>
+  <method>run</method>
+  <thread>23</thread>
+  <message>Locura el jugador THREAD-7 saco: 6</message>
+</record>
+<record>
+  <date>2022-10-04T08:19:41.052955400Z</date>
+  <millis>1664871581052</millis>
+  <nanos>955400</nanos>
+  <sequence>195</sequence>
+  <logger>LaOca</logger>
+  <level>INFO</level>
+  <class>LaOca$jugador</class>
+  <method>run</method>
+  <thread>23</thread>
+  <message>Le faltan:73</message>
+</record>
+<record>
+  <date>2022-10-04T08:19:41.055944Z</date>
+  <millis>1664871581055</millis>
+  <nanos>944000</nanos>
+  <sequence>196</sequence>
+  <logger>LaOca</logger>
+  <level>INFO</level>
+  <class>LaOca$jugador</class>
+  <method>run</method>
+  <thread>21</thread>
+  <message>Locura el jugador THREAD-5 saco: 1</message>
+</record>
+<record>
+  <date>2022-10-04T08:19:41.055944Z</date>
+  <millis>1664871581055</millis>
+  <nanos>944000</nanos>
+  <sequence>197</sequence>
+  <logger>LaOca</logger>
+  <level>INFO</level>
+  <class>LaOca$jugador</class>
+  <method>run</method>
+  <thread>21</thread>
+  <message>Le faltan:71</message>
+</record>
+<record>
+  <date>2022-10-04T08:19:41.325384700Z</date>
+  <millis>1664871581325</millis>
+  <nanos>384700</nanos>
+  <sequence>198</sequence>
+  <logger>LaOca</logger>
+  <level>INFO</level>
+  <class>LaOca$jugador</class>
+  <method>run</method>
+  <thread>19</thread>
+  <message>Locura el jugador THREAD-3 saco: 6</message>
+</record>
+<record>
+  <date>2022-10-04T08:19:41.325384700Z</date>
+  <millis>1664871581325</millis>
+  <nanos>384700</nanos>
+  <sequence>199</sequence>
+  <logger>LaOca</logger>
+  <level>INFO</level>
+  <class>LaOca$jugador</class>
+  <method>run</method>
+  <thread>19</thread>
+  <message>Le faltan:59</message>
+</record>
+<record>
+  <date>2022-10-04T08:19:41.422582700Z</date>
+  <millis>1664871581422</millis>
+  <nanos>582700</nanos>
+  <sequence>200</sequence>
+  <logger>LaOca</logger>
+  <level>INFO</level>
+  <class>LaOca$jugador</class>
+  <method>run</method>
+  <thread>16</thread>
+  <message>Locura el jugador THREAD-0 saco: 5</message>
+</record>
+<record>
+  <date>2022-10-04T08:19:41.422582700Z</date>
+  <millis>1664871581422</millis>
+  <nanos>582700</nanos>
+  <sequence>201</sequence>
+  <logger>LaOca</logger>
+  <level>INFO</level>
+  <class>LaOca$jugador</class>
+  <method>run</method>
+  <thread>16</thread>
+  <message>Le faltan:66</message>
+</record>
+<record>
+  <date>2022-10-04T08:19:41.579055300Z</date>
+  <millis>1664871581579</millis>
+  <nanos>55300</nanos>
+  <sequence>202</sequence>
+  <logger>LaOca</logger>
+  <level>INFO</level>
+  <class>LaOca$jugador</class>
+  <method>run</method>
+  <thread>18</thread>
+  <message>Locura el jugador THREAD-2 saco: 3</message>
+</record>
+<record>
+  <date>2022-10-04T08:19:41.579055300Z</date>
+  <millis>1664871581579</millis>
+  <nanos>55300</nanos>
+  <sequence>203</sequence>
+  <logger>LaOca</logger>
+  <level>INFO</level>
+  <class>LaOca$jugador</class>
+  <method>run</method>
+  <thread>18</thread>
+  <message>Le faltan:60</message>
+</record>
+<record>
+  <date>2022-10-04T08:19:41.661369400Z</date>
+  <millis>1664871581661</millis>
+  <nanos>369400</nanos>
+  <sequence>204</sequence>
+  <logger>LaOca</logger>
+  <level>INFO</level>
+  <class>LaOca$jugador</class>
+  <method>run</method>
+  <thread>20</thread>
+  <message>Locura el jugador THREAD-4 saco: 2</message>
+</record>
+<record>
+  <date>2022-10-04T08:19:41.661369400Z</date>
+  <millis>1664871581661</millis>
+  <nanos>369400</nanos>
+  <sequence>205</sequence>
+  <logger>LaOca</logger>
+  <level>INFO</level>
+  <class>LaOca$jugador</class>
+  <method>run</method>
+  <thread>20</thread>
+  <message>Le faltan:51</message>
+</record>
+<record>
+  <date>2022-10-04T08:19:41.787669100Z</date>
+  <millis>1664871581787</millis>
+  <nanos>669100</nanos>
+  <sequence>206</sequence>
+  <logger>LaOca</logger>
+  <level>INFO</level>
+  <class>LaOca$jugador</class>
+  <method>run</method>
+  <thread>22</thread>
+  <message>Locura el jugador THREAD-6 saco: 1</message>
+</record>
+<record>
+  <date>2022-10-04T08:19:41.787669100Z</date>
+  <millis>1664871581787</millis>
+  <nanos>669100</nanos>
+  <sequence>207</sequence>
+  <logger>LaOca</logger>
+  <level>INFO</level>
+  <class>LaOca$jugador</class>
+  <method>run</method>
+  <thread>22</thread>
+  <message>Le faltan:58</message>
+</record>
+<record>
+  <date>2022-10-04T08:19:41.866639200Z</date>
+  <millis>1664871581866</millis>
+  <nanos>639200</nanos>
+  <sequence>208</sequence>
+  <logger>LaOca</logger>
+  <level>INFO</level>
+  <class>LaOca$jugador</class>
+  <method>run</method>
+  <thread>25</thread>
+  <message>Locura el jugador THREAD-9 saco: 2</message>
+</record>
+<record>
+  <date>2022-10-04T08:19:41.866639200Z</date>
+  <millis>1664871581866</millis>
+  <nanos>639200</nanos>
+  <sequence>209</sequence>
+  <logger>LaOca</logger>
+  <level>INFO</level>
+  <class>LaOca$jugador</class>
+  <method>run</method>
+  <thread>25</thread>
+  <message>Le faltan:67</message>
+</record>
+<record>
+  <date>2022-10-04T08:19:41.873077600Z</date>
+  <millis>1664871581873</millis>
+  <nanos>77600</nanos>
+  <sequence>210</sequence>
+  <logger>LaOca</logger>
+  <level>INFO</level>
+  <class>LaOca$jugador</class>
+  <method>run</method>
+  <thread>18</thread>
+  <message>Locura el jugador THREAD-2 saco: 2</message>
+</record>
+<record>
+  <date>2022-10-04T08:19:41.874072600Z</date>
+  <millis>1664871581874</millis>
+  <nanos>72600</nanos>
+  <sequence>211</sequence>
+  <logger>LaOca</logger>
+  <level>INFO</level>
+  <class>LaOca$jugador</class>
+  <method>run</method>
+  <thread>18</thread>
+  <message>Le faltan:58</message>
+</record>
+<record>
+  <date>2022-10-04T08:19:41.884049500Z</date>
+  <millis>1664871581884</millis>
+  <nanos>49500</nanos>
+  <sequence>212</sequence>
+  <logger>LaOca</logger>
+  <level>INFO</level>
+  <class>LaOca$jugador</class>
+  <method>run</method>
+  <thread>23</thread>
+  <message>Locura el jugador THREAD-7 saco: 5</message>
+</record>
+<record>
+  <date>2022-10-04T08:19:41.884049500Z</date>
+  <millis>1664871581884</millis>
+  <nanos>49500</nanos>
+  <sequence>213</sequence>
+  <logger>LaOca</logger>
+  <level>INFO</level>
+  <class>LaOca$jugador</class>
+  <method>run</method>
+  <thread>23</thread>
+  <message>Le faltan:68</message>
+</record>
+<record>
+  <date>2022-10-04T08:19:42.074977900Z</date>
+  <millis>1664871582074</millis>
+  <nanos>977900</nanos>
+  <sequence>214</sequence>
+  <logger>LaOca</logger>
+  <level>INFO</level>
+  <class>LaOca$jugador</class>
+  <method>run</method>
+  <thread>21</thread>
+  <message>Locura el jugador THREAD-5 saco: 4</message>
+</record>
+<record>
+  <date>2022-10-04T08:19:42.074977900Z</date>
+  <millis>1664871582074</millis>
+  <nanos>977900</nanos>
+  <sequence>215</sequence>
+  <logger>LaOca</logger>
+  <level>INFO</level>
+  <class>LaOca$jugador</class>
+  <method>run</method>
+  <thread>21</thread>
+  <message>Le faltan:67</message>
+</record>
+<record>
+  <date>2022-10-04T08:19:42.296032500Z</date>
+  <millis>1664871582296</millis>
+  <nanos>32500</nanos>
+  <sequence>217</sequence>
+  <logger>LaOca</logger>
+  <level>INFO</level>
+  <class>LaOca$jugador</class>
+  <method>run</method>
+  <thread>21</thread>
+  <message>Locura el jugador THREAD-5 saco: 6</message>
+</record>
+<record>
+  <date>2022-10-04T08:19:42.296032500Z</date>
+  <millis>1664871582296</millis>
+  <nanos>32500</nanos>
+  <sequence>216</sequence>
+  <logger>LaOca</logger>
+  <level>INFO</level>
+  <class>LaOca$jugador</class>
+  <method>run</method>
+  <thread>18</thread>
+  <message>Locura el jugador THREAD-2 saco: 3</message>
+</record>
+<record>
+  <date>2022-10-04T08:19:42.296032500Z</date>
+  <millis>1664871582296</millis>
+  <nanos>32500</nanos>
+  <sequence>218</sequence>
+  <logger>LaOca</logger>
+  <level>INFO</level>
+  <class>LaOca$jugador</class>
+  <method>run</method>
+  <thread>18</thread>
+  <message>Le faltan:55</message>
+</record>
+<record>
+  <date>2022-10-04T08:19:42.296032500Z</date>
+  <millis>1664871582296</millis>
+  <nanos>32500</nanos>
+  <sequence>219</sequence>
+  <logger>LaOca</logger>
+  <level>INFO</level>
+  <class>LaOca$jugador</class>
+  <method>run</method>
+  <thread>21</thread>
+  <message>Le faltan:61</message>
+</record>
+<record>
+  <date>2022-10-04T08:19:42.298025600Z</date>
+  <millis>1664871582298</millis>
+  <nanos>25600</nanos>
+  <sequence>220</sequence>
+  <logger>LaOca</logger>
+  <level>INFO</level>
+  <class>LaOca$jugador</class>
+  <method>run</method>
+  <thread>25</thread>
+  <message>Locura el jugador THREAD-9 saco: 3</message>
+</record>
+<record>
+  <date>2022-10-04T08:19:42.298025600Z</date>
+  <millis>1664871582298</millis>
+  <nanos>25600</nanos>
+  <sequence>221</sequence>
+  <logger>LaOca</logger>
+  <level>INFO</level>
+  <class>LaOca$jugador</class>
+  <method>run</method>
+  <thread>25</thread>
+  <message>Le faltan:64</message>
+</record>
+<record>
+  <date>2022-10-04T08:19:42.312449100Z</date>
+  <millis>1664871582312</millis>
+  <nanos>449100</nanos>
+  <sequence>222</sequence>
+  <logger>LaOca</logger>
+  <level>INFO</level>
+  <class>LaOca$jugador</class>
+  <method>run</method>
+  <thread>24</thread>
+  <message>Locura el jugador THREAD-8 saco: 3</message>
+</record>
+<record>
+  <date>2022-10-04T08:19:42.312449100Z</date>
+  <millis>1664871582312</millis>
+  <nanos>449100</nanos>
+  <sequence>223</sequence>
+  <logger>LaOca</logger>
+  <level>INFO</level>
+  <class>LaOca$jugador</class>
+  <method>run</method>
+  <thread>24</thread>
+  <message>Le faltan:64</message>
+</record>
+<record>
+  <date>2022-10-04T08:19:42.346751400Z</date>
+  <millis>1664871582346</millis>
+  <nanos>751400</nanos>
+  <sequence>224</sequence>
+  <logger>LaOca</logger>
+  <level>INFO</level>
+  <class>LaOca$jugador</class>
+  <method>run</method>
+  <thread>17</thread>
+  <message>Locura el jugador THREAD-1 saco: 3</message>
+</record>
+<record>
+  <date>2022-10-04T08:19:42.346751400Z</date>
+  <millis>1664871582346</millis>
+  <nanos>751400</nanos>
+  <sequence>225</sequence>
+  <logger>LaOca</logger>
+  <level>INFO</level>
+  <class>LaOca$jugador</class>
+  <method>run</method>
+  <thread>17</thread>
+  <message>Le faltan:65</message>
+</record>
+<record>
+  <date>2022-10-04T08:19:42.544123700Z</date>
+  <millis>1664871582544</millis>
+  <nanos>123700</nanos>
+  <sequence>226</sequence>
+  <logger>LaOca</logger>
+  <level>INFO</level>
+  <class>LaOca$jugador</class>
+  <method>run</method>
+  <thread>21</thread>
+  <message>Locura el jugador THREAD-5 saco: 1</message>
+</record>
+<record>
+  <date>2022-10-04T08:19:42.544123700Z</date>
+  <millis>1664871582544</millis>
+  <nanos>123700</nanos>
+  <sequence>227</sequence>
+  <logger>LaOca</logger>
+  <level>INFO</level>
+  <class>LaOca$jugador</class>
+  <method>run</method>
+  <thread>21</thread>
+  <message>Le faltan:60</message>
+</record>
+<record>
+  <date>2022-10-04T08:19:42.966468100Z</date>
+  <millis>1664871582966</millis>
+  <nanos>468100</nanos>
+  <sequence>228</sequence>
+  <logger>LaOca</logger>
+  <level>INFO</level>
+  <class>LaOca$jugador</class>
+  <method>run</method>
+  <thread>16</thread>
+  <message>Locura el jugador THREAD-0 saco: 4</message>
+</record>
+<record>
+  <date>2022-10-04T08:19:42.966468100Z</date>
+  <millis>1664871582966</millis>
+  <nanos>468100</nanos>
+  <sequence>229</sequence>
+  <logger>LaOca</logger>
+  <level>INFO</level>
+  <class>LaOca$jugador</class>
+  <method>run</method>
+  <thread>16</thread>
+  <message>Le faltan:62</message>
+</record>
+<record>
+  <date>2022-10-04T08:19:43.151438800Z</date>
+  <millis>1664871583151</millis>
+  <nanos>438800</nanos>
+  <sequence>230</sequence>
+  <logger>LaOca</logger>
+  <level>INFO</level>
+  <class>LaOca$jugador</class>
+  <method>run</method>
+  <thread>25</thread>
+  <message>Locura el jugador THREAD-9 saco: 5</message>
+</record>
+<record>
+  <date>2022-10-04T08:19:43.151438800Z</date>
+  <millis>1664871583151</millis>
+  <nanos>438800</nanos>
+  <sequence>231</sequence>
+  <logger>LaOca</logger>
+  <level>INFO</level>
+  <class>LaOca$jugador</class>
+  <method>run</method>
+  <thread>25</thread>
+  <message>Le faltan:59</message>
+</record>
+<record>
+  <date>2022-10-04T08:19:43.194430600Z</date>
+  <millis>1664871583194</millis>
+  <nanos>430600</nanos>
+  <sequence>232</sequence>
+  <logger>LaOca</logger>
+  <level>INFO</level>
+  <class>LaOca$jugador</class>
+  <method>run</method>
+  <thread>19</thread>
+  <message>Locura el jugador THREAD-3 saco: 3</message>
+</record>
+<record>
+  <date>2022-10-04T08:19:43.194430600Z</date>
+  <millis>1664871583194</millis>
+  <nanos>430600</nanos>
+  <sequence>233</sequence>
+  <logger>LaOca</logger>
+  <level>INFO</level>
+  <class>LaOca$jugador</class>
+  <method>run</method>
+  <thread>19</thread>
+  <message>Le faltan:56</message>
+</record>
+<record>
+  <date>2022-10-04T08:19:43.396501900Z</date>
+  <millis>1664871583396</millis>
+  <nanos>501900</nanos>
+  <sequence>234</sequence>
+  <logger>LaOca</logger>
+  <level>INFO</level>
+  <class>LaOca$jugador</class>
+  <method>run</method>
+  <thread>23</thread>
+  <message>Locura el jugador THREAD-7 saco: 6</message>
+</record>
+<record>
+  <date>2022-10-04T08:19:43.397496300Z</date>
+  <millis>1664871583397</millis>
+  <nanos>496300</nanos>
+  <sequence>235</sequence>
+  <logger>LaOca</logger>
+  <level>INFO</level>
+  <class>LaOca$jugador</class>
+  <method>run</method>
+  <thread>23</thread>
+  <message>Le faltan:62</message>
+</record>
+<record>
+  <date>2022-10-04T08:19:43.496387300Z</date>
+  <millis>1664871583496</millis>
+  <nanos>387300</nanos>
+  <sequence>236</sequence>
+  <logger>LaOca</logger>
+  <level>INFO</level>
+  <class>LaOca$jugador</class>
+  <method>run</method>
+  <thread>20</thread>
+  <message>Locura el jugador THREAD-4 saco: 5</message>
+</record>
+<record>
+  <date>2022-10-04T08:19:43.496387300Z</date>
+  <millis>1664871583496</millis>
+  <nanos>387300</nanos>
+  <sequence>237</sequence>
+  <logger>LaOca</logger>
+  <level>INFO</level>
+  <class>LaOca$jugador</class>
+  <method>run</method>
+  <thread>20</thread>
+  <message>Le faltan:46</message>
+</record>
+<record>
+  <date>2022-10-04T08:19:43.502269400Z</date>
+  <millis>1664871583502</millis>
+  <nanos>269400</nanos>
+  <sequence>238</sequence>
+  <logger>LaOca</logger>
+  <level>INFO</level>
+  <class>LaOca$jugador</class>
+  <method>run</method>
+  <thread>24</thread>
+  <message>Locura el jugador THREAD-8 saco: 3</message>
+</record>
+<record>
+  <date>2022-10-04T08:19:43.502269400Z</date>
+  <millis>1664871583502</millis>
+  <nanos>269400</nanos>
+  <sequence>239</sequence>
+  <logger>LaOca</logger>
+  <level>INFO</level>
+  <class>LaOca$jugador</class>
+  <method>run</method>
+  <thread>24</thread>
+  <message>Le faltan:61</message>
+</record>
+<record>
+  <date>2022-10-04T08:19:43.549710500Z</date>
+  <millis>1664871583549</millis>
+  <nanos>710500</nanos>
+  <sequence>240</sequence>
+  <logger>LaOca</logger>
+  <level>INFO</level>
+  <class>LaOca$jugador</class>
+  <method>run</method>
+  <thread>22</thread>
+  <message>Locura el jugador THREAD-6 saco: 4</message>
+</record>
+<record>
+  <date>2022-10-04T08:19:43.549710500Z</date>
+  <millis>1664871583549</millis>
+  <nanos>710500</nanos>
+  <sequence>241</sequence>
+  <logger>LaOca</logger>
+  <level>INFO</level>
+  <class>LaOca$jugador</class>
+  <method>run</method>
+  <thread>22</thread>
+  <message>Le faltan:54</message>
+</record>
+<record>
+  <date>2022-10-04T08:19:43.578543700Z</date>
+  <millis>1664871583578</millis>
+  <nanos>543700</nanos>
+  <sequence>242</sequence>
+  <logger>LaOca</logger>
+  <level>INFO</level>
+  <class>LaOca$jugador</class>
+  <method>run</method>
+  <thread>23</thread>
+  <message>Locura el jugador THREAD-7 saco: 5</message>
+</record>
+<record>
+  <date>2022-10-04T08:19:43.578543700Z</date>
+  <millis>1664871583578</millis>
+  <nanos>543700</nanos>
+  <sequence>243</sequence>
+  <logger>LaOca</logger>
+  <level>INFO</level>
+  <class>LaOca$jugador</class>
+  <method>run</method>
+  <thread>23</thread>
+  <message>Le faltan:57</message>
+</record>
+<record>
+  <date>2022-10-04T08:19:43.689840500Z</date>
+  <millis>1664871583689</millis>
+  <nanos>840500</nanos>
+  <sequence>244</sequence>
+  <logger>LaOca</logger>
+  <level>INFO</level>
+  <class>LaOca$jugador</class>
+  <method>run</method>
+  <thread>17</thread>
+  <message>Locura el jugador THREAD-1 saco: 6</message>
+</record>
+<record>
+  <date>2022-10-04T08:19:43.689840500Z</date>
+  <millis>1664871583689</millis>
+  <nanos>840500</nanos>
+  <sequence>245</sequence>
+  <logger>LaOca</logger>
+  <level>INFO</level>
+  <class>LaOca$jugador</class>
+  <method>run</method>
+  <thread>17</thread>
+  <message>Le faltan:59</message>
+</record>
+<record>
+  <date>2022-10-04T08:19:43.703897500Z</date>
+  <millis>1664871583703</millis>
+  <nanos>897500</nanos>
+  <sequence>246</sequence>
+  <logger>LaOca</logger>
+  <level>INFO</level>
+  <class>LaOca$jugador</class>
+  <method>run</method>
+  <thread>21</thread>
+  <message>Locura el jugador THREAD-5 saco: 1</message>
+</record>
+<record>
+  <date>2022-10-04T08:19:43.704897400Z</date>
+  <millis>1664871583704</millis>
+  <nanos>897400</nanos>
+  <sequence>247</sequence>
+  <logger>LaOca</logger>
+  <level>INFO</level>
+  <class>LaOca$jugador</class>
+  <method>run</method>
+  <thread>21</thread>
+  <message>Le faltan:59</message>
+</record>
+<record>
+  <date>2022-10-04T08:19:43.788496600Z</date>
+  <millis>1664871583788</millis>
+  <nanos>496600</nanos>
+  <sequence>248</sequence>
+  <logger>LaOca</logger>
+  <level>INFO</level>
+  <class>LaOca$jugador</class>
+  <method>run</method>
+  <thread>22</thread>
+  <message>Locura el jugador THREAD-6 saco: 4</message>
+</record>
+<record>
+  <date>2022-10-04T08:19:43.788496600Z</date>
+  <millis>1664871583788</millis>
+  <nanos>496600</nanos>
+  <sequence>249</sequence>
+  <logger>LaOca</logger>
+  <level>INFO</level>
+  <class>LaOca$jugador</class>
+  <method>run</method>
+  <thread>22</thread>
+  <message>Le faltan:50</message>
+</record>
+<record>
+  <date>2022-10-04T08:19:43.990740400Z</date>
+  <millis>1664871583990</millis>
+  <nanos>740400</nanos>
+  <sequence>250</sequence>
+  <logger>LaOca</logger>
+  <level>INFO</level>
+  <class>LaOca$jugador</class>
+  <method>run</method>
+  <thread>18</thread>
+  <message>Locura el jugador THREAD-2 saco: 5</message>
+</record>
+<record>
+  <date>2022-10-04T08:19:43.990740400Z</date>
+  <millis>1664871583990</millis>
+  <nanos>740400</nanos>
+  <sequence>251</sequence>
+  <logger>LaOca</logger>
+  <level>INFO</level>
+  <class>LaOca$jugador</class>
+  <method>run</method>
+  <thread>18</thread>
+  <message>Le faltan:50</message>
+</record>
+<record>
+  <date>2022-10-04T08:19:44.236360100Z</date>
+  <millis>1664871584236</millis>
+  <nanos>360100</nanos>
+  <sequence>252</sequence>
+  <logger>LaOca</logger>
+  <level>INFO</level>
+  <class>LaOca$jugador</class>
+  <method>run</method>
+  <thread>19</thread>
+  <message>Locura el jugador THREAD-3 saco: 3</message>
+</record>
+<record>
+  <date>2022-10-04T08:19:44.237360400Z</date>
+  <millis>1664871584237</millis>
+  <nanos>360400</nanos>
+  <sequence>253</sequence>
+  <logger>LaOca</logger>
+  <level>INFO</level>
+  <class>LaOca$jugador</class>
+  <method>run</method>
+  <thread>19</thread>
+  <message>Le faltan:53</message>
+</record>
+<record>
+  <date>2022-10-04T08:19:44.360618Z</date>
+  <millis>1664871584360</millis>
+  <nanos>618000</nanos>
+  <sequence>254</sequence>
+  <logger>LaOca</logger>
+  <level>INFO</level>
+  <class>LaOca$jugador</class>
+  <method>run</method>
+  <thread>24</thread>
+  <message>Locura el jugador THREAD-8 saco: 1</message>
+</record>
+<record>
+  <date>2022-10-04T08:19:44.360618Z</date>
+  <millis>1664871584360</millis>
+  <nanos>618000</nanos>
+  <sequence>255</sequence>
+  <logger>LaOca</logger>
+  <level>INFO</level>
+  <class>LaOca$jugador</class>
+  <method>run</method>
+  <thread>24</thread>
+  <message>Le faltan:60</message>
+</record>
+<record>
+  <date>2022-10-04T08:19:44.381983200Z</date>
+  <millis>1664871584381</millis>
+  <nanos>983200</nanos>
+  <sequence>256</sequence>
+  <logger>LaOca</logger>
+  <level>INFO</level>
+  <class>LaOca$jugador</class>
+  <method>run</method>
+  <thread>21</thread>
+  <message>Locura el jugador THREAD-5 saco: 3</message>
+</record>
+<record>
+  <date>2022-10-04T08:19:44.381983200Z</date>
+  <millis>1664871584381</millis>
+  <nanos>983200</nanos>
+  <sequence>257</sequence>
+  <logger>LaOca</logger>
+  <level>INFO</level>
+  <class>LaOca$jugador</class>
+  <method>run</method>
+  <thread>21</thread>
+  <message>Le faltan:56</message>
+</record>
+<record>
+  <date>2022-10-04T08:19:44.384981500Z</date>
+  <millis>1664871584384</millis>
+  <nanos>981500</nanos>
+  <sequence>258</sequence>
+  <logger>LaOca</logger>
+  <level>INFO</level>
+  <class>LaOca$jugador</class>
+  <method>run</method>
+  <thread>25</thread>
+  <message>Locura el jugador THREAD-9 saco: 5</message>
+</record>
+<record>
+  <date>2022-10-04T08:19:44.384981500Z</date>
+  <millis>1664871584384</millis>
+  <nanos>981500</nanos>
+  <sequence>259</sequence>
+  <logger>LaOca</logger>
+  <level>INFO</level>
+  <class>LaOca$jugador</class>
+  <method>run</method>
+  <thread>25</thread>
+  <message>Le faltan:54</message>
+</record>
+<record>
+  <date>2022-10-04T08:19:44.519889800Z</date>
+  <millis>1664871584519</millis>
+  <nanos>889800</nanos>
+  <sequence>260</sequence>
+  <logger>LaOca</logger>
+  <level>INFO</level>
+  <class>LaOca$jugador</class>
+  <method>run</method>
+  <thread>25</thread>
+  <message>Locura el jugador THREAD-9 saco: 4</message>
+</record>
+<record>
+  <date>2022-10-04T08:19:44.519889800Z</date>
+  <millis>1664871584519</millis>
+  <nanos>889800</nanos>
+  <sequence>261</sequence>
+  <logger>LaOca</logger>
+  <level>INFO</level>
+  <class>LaOca$jugador</class>
+  <method>run</method>
+  <thread>25</thread>
+  <message>Le faltan:50</message>
+</record>
+<record>
+  <date>2022-10-04T08:19:44.591120500Z</date>
+  <millis>1664871584591</millis>
+  <nanos>120500</nanos>
+  <sequence>262</sequence>
+  <logger>LaOca</logger>
+  <level>INFO</level>
+  <class>LaOca$jugador</class>
+  <method>run</method>
+  <thread>16</thread>
+  <message>Locura el jugador THREAD-0 saco: 5</message>
+</record>
+<record>
+  <date>2022-10-04T08:19:44.591120500Z</date>
+  <millis>1664871584591</millis>
+  <nanos>120500</nanos>
+  <sequence>263</sequence>
+  <logger>LaOca</logger>
+  <level>INFO</level>
+  <class>LaOca$jugador</class>
+  <method>run</method>
+  <thread>16</thread>
+  <message>Le faltan:57</message>
+</record>
+<record>
+  <date>2022-10-04T08:19:44.808574500Z</date>
+  <millis>1664871584808</millis>
+  <nanos>574500</nanos>
+  <sequence>264</sequence>
+  <logger>LaOca</logger>
+  <level>INFO</level>
+  <class>LaOca$jugador</class>
+  <method>run</method>
+  <thread>22</thread>
+  <message>Locura el jugador THREAD-6 saco: 6</message>
+</record>
+<record>
+  <date>2022-10-04T08:19:44.808574500Z</date>
+  <millis>1664871584808</millis>
+  <nanos>574500</nanos>
+  <sequence>265</sequence>
+  <logger>LaOca</logger>
+  <level>INFO</level>
+  <class>LaOca$jugador</class>
+  <method>run</method>
+  <thread>22</thread>
+  <message>Le faltan:44</message>
+</record>
+<record>
+  <date>2022-10-04T08:19:44.962866300Z</date>
+  <millis>1664871584962</millis>
+  <nanos>866300</nanos>
+  <sequence>266</sequence>
+  <logger>LaOca</logger>
+  <level>INFO</level>
+  <class>LaOca$jugador</class>
+  <method>run</method>
+  <thread>17</thread>
+  <message>Locura el jugador THREAD-1 saco: 5</message>
+</record>
+<record>
+  <date>2022-10-04T08:19:44.962866300Z</date>
+  <millis>1664871584962</millis>
+  <nanos>866300</nanos>
+  <sequence>267</sequence>
+  <logger>LaOca</logger>
+  <level>INFO</level>
+  <class>LaOca$jugador</class>
+  <method>run</method>
+  <thread>17</thread>
+  <message>Le faltan:54</message>
+</record>
+<record>
+  <date>2022-10-04T08:19:45.117490800Z</date>
+  <millis>1664871585117</millis>
+  <nanos>490800</nanos>
+  <sequence>268</sequence>
+  <logger>LaOca</logger>
+  <level>INFO</level>
+  <class>LaOca$jugador</class>
+  <method>run</method>
+  <thread>23</thread>
+  <message>Locura el jugador THREAD-7 saco: 1</message>
+</record>
+<record>
+  <date>2022-10-04T08:19:45.117490800Z</date>
+  <millis>1664871585117</millis>
+  <nanos>490800</nanos>
+  <sequence>269</sequence>
+  <logger>LaOca</logger>
+  <level>INFO</level>
+  <class>LaOca$jugador</class>
+  <method>run</method>
+  <thread>23</thread>
+  <message>Le faltan:56</message>
+</record>
+<record>
+  <date>2022-10-04T08:19:45.348657100Z</date>
+  <millis>1664871585348</millis>
+  <nanos>657100</nanos>
+  <sequence>270</sequence>
+  <logger>LaOca</logger>
+  <level>INFO</level>
+  <class>LaOca$jugador</class>
+  <method>run</method>
+  <thread>24</thread>
+  <message>Locura el jugador THREAD-8 saco: 4</message>
+</record>
+<record>
+  <date>2022-10-04T08:19:45.348657100Z</date>
+  <millis>1664871585348</millis>
+  <nanos>657100</nanos>
+  <sequence>271</sequence>
+  <logger>LaOca</logger>
+  <level>INFO</level>
+  <class>LaOca$jugador</class>
+  <method>run</method>
+  <thread>24</thread>
+  <message>Le faltan:56</message>
+</record>
+<record>
+  <date>2022-10-04T08:19:45.360902100Z</date>
+  <millis>1664871585360</millis>
+  <nanos>902100</nanos>
+  <sequence>272</sequence>
+  <logger>LaOca</logger>
+  <level>INFO</level>
+  <class>LaOca$jugador</class>
+  <method>run</method>
+  <thread>24</thread>
+  <message>Locura el jugador THREAD-8 saco: 6</message>
+</record>
+<record>
+  <date>2022-10-04T08:19:45.360902100Z</date>
+  <millis>1664871585360</millis>
+  <nanos>902100</nanos>
+  <sequence>273</sequence>
+  <logger>LaOca</logger>
+  <level>INFO</level>
+  <class>LaOca$jugador</class>
+  <method>run</method>
+  <thread>24</thread>
+  <message>Le faltan:50</message>
+</record>
+<record>
+  <date>2022-10-04T08:19:45.376138100Z</date>
+  <millis>1664871585376</millis>
+  <nanos>138100</nanos>
+  <sequence>274</sequence>
+  <logger>LaOca</logger>
+  <level>INFO</level>
+  <class>LaOca$jugador</class>
+  <method>run</method>
+  <thread>20</thread>
+  <message>Locura el jugador THREAD-4 saco: 4</message>
+</record>
+<record>
+  <date>2022-10-04T08:19:45.376138100Z</date>
+  <millis>1664871585376</millis>
+  <nanos>138100</nanos>
+  <sequence>275</sequence>
+  <logger>LaOca</logger>
+  <level>INFO</level>
+  <class>LaOca$jugador</class>
+  <method>run</method>
+  <thread>20</thread>
+  <message>Le faltan:42</message>
+</record>
+<record>
+  <date>2022-10-04T08:19:45.492926800Z</date>
+  <millis>1664871585492</millis>
+  <nanos>926800</nanos>
+  <sequence>276</sequence>
+  <logger>LaOca</logger>
+  <level>INFO</level>
+  <class>LaOca$jugador</class>
+  <method>run</method>
+  <thread>25</thread>
+  <message>Locura el jugador THREAD-9 saco: 4</message>
+</record>
+<record>
+  <date>2022-10-04T08:19:45.492926800Z</date>
+  <millis>1664871585492</millis>
+  <nanos>926800</nanos>
+  <sequence>277</sequence>
+  <logger>LaOca</logger>
+  <level>INFO</level>
+  <class>LaOca$jugador</class>
+  <method>run</method>
+  <thread>25</thread>
+  <message>Le faltan:46</message>
+</record>
+<record>
+  <date>2022-10-04T08:19:45.599022600Z</date>
+  <millis>1664871585599</millis>
+  <nanos>22600</nanos>
+  <sequence>278</sequence>
+  <logger>LaOca</logger>
+  <level>INFO</level>
+  <class>LaOca$jugador</class>
+  <method>run</method>
+  <thread>19</thread>
+  <message>Locura el jugador THREAD-3 saco: 1</message>
+</record>
+<record>
+  <date>2022-10-04T08:19:45.599022600Z</date>
+  <millis>1664871585599</millis>
+  <nanos>22600</nanos>
+  <sequence>279</sequence>
+  <logger>LaOca</logger>
+  <level>INFO</level>
+  <class>LaOca$jugador</class>
+  <method>run</method>
+  <thread>19</thread>
+  <message>Le faltan:52</message>
+</record>
+<record>
+  <date>2022-10-04T08:19:45.655753500Z</date>
+  <millis>1664871585655</millis>
+  <nanos>753500</nanos>
+  <sequence>280</sequence>
+  <logger>LaOca</logger>
+  <level>INFO</level>
+  <class>LaOca$jugador</class>
+  <method>run</method>
+  <thread>18</thread>
+  <message>Locura el jugador THREAD-2 saco: 6</message>
+</record>
+<record>
+  <date>2022-10-04T08:19:45.655753500Z</date>
+  <millis>1664871585655</millis>
+  <nanos>753500</nanos>
+  <sequence>281</sequence>
+  <logger>LaOca</logger>
+  <level>INFO</level>
+  <class>LaOca$jugador</class>
+  <method>run</method>
+  <thread>18</thread>
+  <message>Le faltan:44</message>
+</record>
+<record>
+  <date>2022-10-04T08:19:45.681278600Z</date>
+  <millis>1664871585681</millis>
+  <nanos>278600</nanos>
+  <sequence>282</sequence>
+  <logger>LaOca</logger>
+  <level>INFO</level>
+  <class>LaOca$jugador</class>
+  <method>run</method>
+  <thread>17</thread>
+  <message>Locura el jugador THREAD-1 saco: 1</message>
+</record>
+<record>
+  <date>2022-10-04T08:19:45.681278600Z</date>
+  <millis>1664871585681</millis>
+  <nanos>278600</nanos>
+  <sequence>283</sequence>
+  <logger>LaOca</logger>
+  <level>INFO</level>
+  <class>LaOca$jugador</class>
+  <method>run</method>
+  <thread>17</thread>
+  <message>Le faltan:53</message>
+</record>
+<record>
+  <date>2022-10-04T08:19:45.694613700Z</date>
+  <millis>1664871585694</millis>
+  <nanos>613700</nanos>
+  <sequence>284</sequence>
+  <logger>LaOca</logger>
+  <level>INFO</level>
+  <class>LaOca$jugador</class>
+  <method>run</method>
+  <thread>22</thread>
+  <message>Locura el jugador THREAD-6 saco: 6</message>
+</record>
+<record>
+  <date>2022-10-04T08:19:45.694613700Z</date>
+  <millis>1664871585694</millis>
+  <nanos>613700</nanos>
+  <sequence>285</sequence>
+  <logger>LaOca</logger>
+  <level>INFO</level>
+  <class>LaOca$jugador</class>
+  <method>run</method>
+  <thread>22</thread>
+  <message>Le faltan:38</message>
+</record>
+<record>
+  <date>2022-10-04T08:19:45.772170Z</date>
+  <millis>1664871585772</millis>
+  <nanos>170000</nanos>
+  <sequence>286</sequence>
+  <logger>LaOca</logger>
+  <level>INFO</level>
+  <class>LaOca$jugador</class>
+  <method>run</method>
+  <thread>16</thread>
+  <message>Locura el jugador THREAD-0 saco: 2</message>
+</record>
+<record>
+  <date>2022-10-04T08:19:45.772170Z</date>
+  <millis>1664871585772</millis>
+  <nanos>170000</nanos>
+  <sequence>287</sequence>
+  <logger>LaOca</logger>
+  <level>INFO</level>
+  <class>LaOca$jugador</class>
+  <method>run</method>
+  <thread>16</thread>
+  <message>Le faltan:55</message>
+</record>
+<record>
+  <date>2022-10-04T08:19:45.850614600Z</date>
+  <millis>1664871585850</millis>
+  <nanos>614600</nanos>
+  <sequence>288</sequence>
+  <logger>LaOca</logger>
+  <level>INFO</level>
+  <class>LaOca$jugador</class>
+  <method>run</method>
+  <thread>21</thread>
+  <message>Locura el jugador THREAD-5 saco: 5</message>
+</record>
+<record>
+  <date>2022-10-04T08:19:45.850614600Z</date>
+  <millis>1664871585850</millis>
+  <nanos>614600</nanos>
+  <sequence>289</sequence>
+  <logger>LaOca</logger>
+  <level>INFO</level>
+  <class>LaOca$jugador</class>
+  <method>run</method>
+  <thread>21</thread>
+  <message>Le faltan:51</message>
+</record>
+<record>
+  <date>2022-10-04T08:19:46.014359Z</date>
+  <millis>1664871586014</millis>
+  <nanos>359000</nanos>
+  <sequence>290</sequence>
+  <logger>LaOca</logger>
+  <level>INFO</level>
+  <class>LaOca$jugador</class>
+  <method>run</method>
+  <thread>17</thread>
+  <message>Locura el jugador THREAD-1 saco: 6</message>
+</record>
+<record>
+  <date>2022-10-04T08:19:46.014359Z</date>
+  <millis>1664871586014</millis>
+  <nanos>359000</nanos>
+  <sequence>291</sequence>
+  <logger>LaOca</logger>
+  <level>INFO</level>
+  <class>LaOca$jugador</class>
+  <method>run</method>
+  <thread>17</thread>
+  <message>Le faltan:47</message>
+</record>
+<record>
+  <date>2022-10-04T08:19:46.102659900Z</date>
+  <millis>1664871586102</millis>
+  <nanos>659900</nanos>
+  <sequence>292</sequence>
+  <logger>LaOca</logger>
+  <level>INFO</level>
+  <class>LaOca$jugador</class>
+  <method>run</method>
+  <thread>24</thread>
+  <message>Locura el jugador THREAD-8 saco: 6</message>
+</record>
+<record>
+  <date>2022-10-04T08:19:46.102659900Z</date>
+  <millis>1664871586102</millis>
+  <nanos>659900</nanos>
+  <sequence>293</sequence>
+  <logger>LaOca</logger>
+  <level>INFO</level>
+  <class>LaOca$jugador</class>
+  <method>run</method>
+  <thread>24</thread>
+  <message>Le faltan:44</message>
+</record>
+<record>
+  <date>2022-10-04T08:19:46.261696200Z</date>
+  <millis>1664871586261</millis>
+  <nanos>696200</nanos>
+  <sequence>294</sequence>
+  <logger>LaOca</logger>
+  <level>INFO</level>
+  <class>LaOca$jugador</class>
+  <method>run</method>
+  <thread>21</thread>
+  <message>Locura el jugador THREAD-5 saco: 1</message>
+</record>
+<record>
+  <date>2022-10-04T08:19:46.261696200Z</date>
+  <millis>1664871586261</millis>
+  <nanos>696200</nanos>
+  <sequence>295</sequence>
+  <logger>LaOca</logger>
+  <level>INFO</level>
+  <class>LaOca$jugador</class>
+  <method>run</method>
+  <thread>21</thread>
+  <message>Le faltan:50</message>
+</record>
+<record>
+  <date>2022-10-04T08:19:46.493048600Z</date>
+  <millis>1664871586493</millis>
+  <nanos>48600</nanos>
+  <sequence>296</sequence>
+  <logger>LaOca</logger>
+  <level>INFO</level>
+  <class>LaOca$jugador</class>
+  <method>run</method>
+  <thread>19</thread>
+  <message>Locura el jugador THREAD-3 saco: 5</message>
+</record>
+<record>
+  <date>2022-10-04T08:19:46.493048600Z</date>
+  <millis>1664871586493</millis>
+  <nanos>48600</nanos>
+  <sequence>297</sequence>
+  <logger>LaOca</logger>
+  <level>INFO</level>
+  <class>LaOca$jugador</class>
+  <method>run</method>
+  <thread>19</thread>
+  <message>Le faltan:47</message>
+</record>
+<record>
+  <date>2022-10-04T08:19:46.511790Z</date>
+  <millis>1664871586511</millis>
+  <nanos>790000</nanos>
+  <sequence>298</sequence>
+  <logger>LaOca</logger>
+  <level>INFO</level>
+  <class>LaOca$jugador</class>
+  <method>run</method>
+  <thread>21</thread>
+  <message>Locura el jugador THREAD-5 saco: 2</message>
+</record>
+<record>
+  <date>2022-10-04T08:19:46.511790Z</date>
+  <millis>1664871586511</millis>
+  <nanos>790000</nanos>
+  <sequence>299</sequence>
+  <logger>LaOca</logger>
+  <level>INFO</level>
+  <class>LaOca$jugador</class>
+  <method>run</method>
+  <thread>21</thread>
+  <message>Le faltan:48</message>
+</record>
+<record>
+  <date>2022-10-04T08:19:46.518782300Z</date>
+  <millis>1664871586518</millis>
+  <nanos>782300</nanos>
+  <sequence>300</sequence>
+  <logger>LaOca</logger>
+  <level>INFO</level>
+  <class>LaOca$jugador</class>
+  <method>run</method>
+  <thread>21</thread>
+  <message>Locura el jugador THREAD-5 saco: 2</message>
+</record>
+<record>
+  <date>2022-10-04T08:19:46.518782300Z</date>
+  <millis>1664871586518</millis>
+  <nanos>782300</nanos>
+  <sequence>301</sequence>
+  <logger>LaOca</logger>
+  <level>INFO</level>
+  <class>LaOca$jugador</class>
+  <method>run</method>
+  <thread>21</thread>
+  <message>Le faltan:46</message>
+</record>
+<record>
+  <date>2022-10-04T08:19:46.627036600Z</date>
+  <millis>1664871586627</millis>
+  <nanos>36600</nanos>
+  <sequence>302</sequence>
+  <logger>LaOca</logger>
+  <level>INFO</level>
+  <class>LaOca$jugador</class>
+  <method>run</method>
+  <thread>23</thread>
+  <message>Locura el jugador THREAD-7 saco: 2</message>
+</record>
+<record>
+  <date>2022-10-04T08:19:46.627036600Z</date>
+  <millis>1664871586627</millis>
+  <nanos>36600</nanos>
+  <sequence>303</sequence>
+  <logger>LaOca</logger>
+  <level>INFO</level>
+  <class>LaOca$jugador</class>
+  <method>run</method>
+  <thread>23</thread>
+  <message>Le faltan:54</message>
+</record>
+<record>
+  <date>2022-10-04T08:19:46.675838400Z</date>
+  <millis>1664871586675</millis>
+  <nanos>838400</nanos>
+  <sequence>304</sequence>
+  <logger>LaOca</logger>
+  <level>INFO</level>
+  <class>LaOca$jugador</class>
+  <method>run</method>
+  <thread>18</thread>
+  <message>Locura el jugador THREAD-2 saco: 3</message>
+</record>
+<record>
+  <date>2022-10-04T08:19:46.675838400Z</date>
+  <millis>1664871586675</millis>
+  <nanos>838400</nanos>
+  <sequence>305</sequence>
+  <logger>LaOca</logger>
+  <level>INFO</level>
+  <class>LaOca$jugador</class>
+  <method>run</method>
+  <thread>18</thread>
+  <message>Le faltan:41</message>
+</record>
+<record>
+  <date>2022-10-04T08:19:46.728210200Z</date>
+  <millis>1664871586728</millis>
+  <nanos>210200</nanos>
+  <sequence>306</sequence>
+  <logger>LaOca</logger>
+  <level>INFO</level>
+  <class>LaOca$jugador</class>
+  <method>run</method>
+  <thread>16</thread>
+  <message>Locura el jugador THREAD-0 saco: 3</message>
+</record>
+<record>
+  <date>2022-10-04T08:19:46.728210200Z</date>
+  <millis>1664871586728</millis>
+  <nanos>210200</nanos>
+  <sequence>307</sequence>
+  <logger>LaOca</logger>
+  <level>INFO</level>
+  <class>LaOca$jugador</class>
+  <method>run</method>
+  <thread>16</thread>
+  <message>Le faltan:52</message>
+</record>
+<record>
+  <date>2022-10-04T08:19:46.730202500Z</date>
+  <millis>1664871586730</millis>
+  <nanos>202500</nanos>
+  <sequence>308</sequence>
+  <logger>LaOca</logger>
+  <level>INFO</level>
+  <class>LaOca$jugador</class>
+  <method>run</method>
+  <thread>21</thread>
+  <message>Locura el jugador THREAD-5 saco: 2</message>
+</record>
+<record>
+  <date>2022-10-04T08:19:46.730202500Z</date>
+  <millis>1664871586730</millis>
+  <nanos>202500</nanos>
+  <sequence>309</sequence>
+  <logger>LaOca</logger>
+  <level>INFO</level>
+  <class>LaOca$jugador</class>
+  <method>run</method>
+  <thread>21</thread>
+  <message>Le faltan:44</message>
+</record>
+<record>
+  <date>2022-10-04T08:19:46.761282500Z</date>
+  <millis>1664871586761</millis>
+  <nanos>282500</nanos>
+  <sequence>310</sequence>
+  <logger>LaOca</logger>
+  <level>INFO</level>
+  <class>LaOca$jugador</class>
+  <method>run</method>
+  <thread>21</thread>
+  <message>Locura el jugador THREAD-5 saco: 4</message>
+</record>
+<record>
+  <date>2022-10-04T08:19:46.761282500Z</date>
+  <millis>1664871586761</millis>
+  <nanos>282500</nanos>
+  <sequence>311</sequence>
+  <logger>LaOca</logger>
+  <level>INFO</level>
+  <class>LaOca$jugador</class>
+  <method>run</method>
+  <thread>21</thread>
+  <message>Le faltan:40</message>
+</record>
+<record>
+  <date>2022-10-04T08:19:47.001171600Z</date>
+  <millis>1664871587001</millis>
+  <nanos>171600</nanos>
+  <sequence>312</sequence>
+  <logger>LaOca</logger>
+  <level>INFO</level>
+  <class>LaOca$jugador</class>
+  <method>run</method>
+  <thread>17</thread>
+  <message>Locura el jugador THREAD-1 saco: 3</message>
+</record>
+<record>
+  <date>2022-10-04T08:19:47.001171600Z</date>
+  <millis>1664871587001</millis>
+  <nanos>171600</nanos>
+  <sequence>313</sequence>
+  <logger>LaOca</logger>
+  <level>INFO</level>
+  <class>LaOca$jugador</class>
+  <method>run</method>
+  <thread>17</thread>
+  <message>Le faltan:44</message>
+</record>
+<record>
+  <date>2022-10-04T08:19:47.008166300Z</date>
+  <millis>1664871587008</millis>
+  <nanos>166300</nanos>
+  <sequence>314</sequence>
+  <logger>LaOca</logger>
+  <level>INFO</level>
+  <class>LaOca$jugador</class>
+  <method>run</method>
+  <thread>25</thread>
+  <message>Locura el jugador THREAD-9 saco: 3</message>
+</record>
+<record>
+  <date>2022-10-04T08:19:47.008166300Z</date>
+  <millis>1664871587008</millis>
+  <nanos>166300</nanos>
+  <sequence>315</sequence>
+  <logger>LaOca</logger>
+  <level>INFO</level>
+  <class>LaOca$jugador</class>
+  <method>run</method>
+  <thread>25</thread>
+  <message>Le faltan:43</message>
+</record>
+<record>
+  <date>2022-10-04T08:19:47.141735400Z</date>
+  <millis>1664871587141</millis>
+  <nanos>735400</nanos>
+  <sequence>316</sequence>
+  <logger>LaOca</logger>
+  <level>INFO</level>
+  <class>LaOca$jugador</class>
+  <method>run</method>
+  <thread>20</thread>
+  <message>Locura el jugador THREAD-4 saco: 1</message>
+</record>
+<record>
+  <date>2022-10-04T08:19:47.141735400Z</date>
+  <millis>1664871587141</millis>
+  <nanos>735400</nanos>
+  <sequence>317</sequence>
+  <logger>LaOca</logger>
+  <level>INFO</level>
+  <class>LaOca$jugador</class>
+  <method>run</method>
+  <thread>20</thread>
+  <message>Le faltan:41</message>
+</record>
+<record>
+  <date>2022-10-04T08:19:47.311599900Z</date>
+  <millis>1664871587311</millis>
+  <nanos>599900</nanos>
+  <sequence>318</sequence>
+  <logger>LaOca</logger>
+  <level>INFO</level>
+  <class>LaOca$jugador</class>
+  <method>run</method>
+  <thread>20</thread>
+  <message>Locura el jugador THREAD-4 saco: 3</message>
+</record>
+<record>
+  <date>2022-10-04T08:19:47.311599900Z</date>
+  <millis>1664871587311</millis>
+  <nanos>599900</nanos>
+  <sequence>319</sequence>
+  <logger>LaOca</logger>
+  <level>INFO</level>
+  <class>LaOca$jugador</class>
+  <method>run</method>
+  <thread>20</thread>
+  <message>Le faltan:38</message>
+</record>
+<record>
+  <date>2022-10-04T08:19:47.378104200Z</date>
+  <millis>1664871587378</millis>
+  <nanos>104200</nanos>
+  <sequence>320</sequence>
+  <logger>LaOca</logger>
+  <level>INFO</level>
+  <class>LaOca$jugador</class>
+  <method>run</method>
+  <thread>19</thread>
+  <message>Locura el jugador THREAD-3 saco: 3</message>
+</record>
+<record>
+  <date>2022-10-04T08:19:47.378104200Z</date>
+  <millis>1664871587378</millis>
+  <nanos>104200</nanos>
+  <sequence>321</sequence>
+  <logger>LaOca</logger>
+  <level>INFO</level>
+  <class>LaOca$jugador</class>
+  <method>run</method>
+  <thread>19</thread>
+  <message>Le faltan:44</message>
+</record>
+<record>
+  <date>2022-10-04T08:19:47.492679200Z</date>
+  <millis>1664871587492</millis>
+  <nanos>679200</nanos>
+  <sequence>322</sequence>
+  <logger>LaOca</logger>
+  <level>INFO</level>
+  <class>LaOca$jugador</class>
+  <method>run</method>
+  <thread>22</thread>
+  <message>Locura el jugador THREAD-6 saco: 1</message>
+</record>
+<record>
+  <date>2022-10-04T08:19:47.492679200Z</date>
+  <millis>1664871587492</millis>
+  <nanos>679200</nanos>
+  <sequence>323</sequence>
+  <logger>LaOca</logger>
+  <level>INFO</level>
+  <class>LaOca$jugador</class>
+  <method>run</method>
+  <thread>22</thread>
+  <message>Le faltan:37</message>
+</record>
+<record>
+  <date>2022-10-04T08:19:47.565365700Z</date>
+  <millis>1664871587565</millis>
+  <nanos>365700</nanos>
+  <sequence>324</sequence>
+  <logger>LaOca</logger>
+  <level>INFO</level>
+  <class>LaOca$jugador</class>
+  <method>run</method>
+  <thread>23</thread>
+  <message>Locura el jugador THREAD-7 saco: 4</message>
+</record>
+<record>
+  <date>2022-10-04T08:19:47.565365700Z</date>
+  <millis>1664871587565</millis>
+  <nanos>365700</nanos>
+  <sequence>325</sequence>
+  <logger>LaOca</logger>
+  <level>INFO</level>
+  <class>LaOca$jugador</class>
+  <method>run</method>
+  <thread>23</thread>
+  <message>Le faltan:50</message>
+</record>
+<record>
+  <date>2022-10-04T08:19:47.583360600Z</date>
+  <millis>1664871587583</millis>
+  <nanos>360600</nanos>
+  <sequence>326</sequence>
+  <logger>LaOca</logger>
+  <level>INFO</level>
+  <class>LaOca$jugador</class>
+  <method>run</method>
+  <thread>18</thread>
+  <message>Locura el jugador THREAD-2 saco: 1</message>
+</record>
+<record>
+  <date>2022-10-04T08:19:47.583360600Z</date>
+  <millis>1664871587583</millis>
+  <nanos>360600</nanos>
+  <sequence>327</sequence>
+  <logger>LaOca</logger>
+  <level>INFO</level>
+  <class>LaOca$jugador</class>
+  <method>run</method>
+  <thread>18</thread>
+  <message>Le faltan:40</message>
+</record>
+<record>
+  <date>2022-10-04T08:19:47.752344500Z</date>
+  <millis>1664871587752</millis>
+  <nanos>344500</nanos>
+  <sequence>328</sequence>
+  <logger>LaOca</logger>
+  <level>INFO</level>
+  <class>LaOca$jugador</class>
+  <method>run</method>
+  <thread>21</thread>
+  <message>Locura el jugador THREAD-5 saco: 1</message>
+</record>
+<record>
+  <date>2022-10-04T08:19:47.752344500Z</date>
+  <millis>1664871587752</millis>
+  <nanos>344500</nanos>
+  <sequence>329</sequence>
+  <logger>LaOca</logger>
+  <level>INFO</level>
+  <class>LaOca$jugador</class>
+  <method>run</method>
+  <thread>21</thread>
+  <message>Le faltan:39</message>
+</record>
+<record>
+  <date>2022-10-04T08:19:47.764281600Z</date>
+  <millis>1664871587764</millis>
+  <nanos>281600</nanos>
+  <sequence>330</sequence>
+  <logger>LaOca</logger>
+  <level>INFO</level>
+  <class>LaOca$jugador</class>
+  <method>run</method>
+  <thread>16</thread>
+  <message>Locura el jugador THREAD-0 saco: 2</message>
+</record>
+<record>
+  <date>2022-10-04T08:19:47.764281600Z</date>
+  <millis>1664871587764</millis>
+  <nanos>281600</nanos>
+  <sequence>331</sequence>
+  <logger>LaOca</logger>
+  <level>INFO</level>
+  <class>LaOca$jugador</class>
+  <method>run</method>
+  <thread>16</thread>
+  <message>Le faltan:50</message>
+</record>
+<record>
+  <date>2022-10-04T08:19:47.835414700Z</date>
+  <millis>1664871587835</millis>
+  <nanos>414700</nanos>
+  <sequence>332</sequence>
+  <logger>LaOca</logger>
+  <level>INFO</level>
+  <class>LaOca$jugador</class>
+  <method>run</method>
+  <thread>25</thread>
+  <message>Locura el jugador THREAD-9 saco: 1</message>
+</record>
+<record>
+  <date>2022-10-04T08:19:47.835414700Z</date>
+  <millis>1664871587835</millis>
+  <nanos>414700</nanos>
+  <sequence>333</sequence>
+  <logger>LaOca</logger>
+  <level>INFO</level>
+  <class>LaOca$jugador</class>
+  <method>run</method>
+  <thread>25</thread>
+  <message>Le faltan:42</message>
+</record>
+<record>
+  <date>2022-10-04T08:19:47.913738500Z</date>
+  <millis>1664871587913</millis>
+  <nanos>738500</nanos>
+  <sequence>334</sequence>
+  <logger>LaOca</logger>
+  <level>INFO</level>
+  <class>LaOca$jugador</class>
+  <method>run</method>
+  <thread>24</thread>
+  <message>Locura el jugador THREAD-8 saco: 4</message>
+</record>
+<record>
+  <date>2022-10-04T08:19:47.913738500Z</date>
+  <millis>1664871587913</millis>
+  <nanos>738500</nanos>
+  <sequence>335</sequence>
+  <logger>LaOca</logger>
+  <level>INFO</level>
+  <class>LaOca$jugador</class>
+  <method>run</method>
+  <thread>24</thread>
+  <message>Le faltan:40</message>
+</record>
+<record>
+  <date>2022-10-04T08:19:47.961760900Z</date>
+  <millis>1664871587961</millis>
+  <nanos>760900</nanos>
+  <sequence>336</sequence>
+  <logger>LaOca</logger>
+  <level>INFO</level>
+  <class>LaOca$jugador</class>
+  <method>run</method>
+  <thread>22</thread>
+  <message>Locura el jugador THREAD-6 saco: 6</message>
+</record>
+<record>
+  <date>2022-10-04T08:19:47.961760900Z</date>
+  <millis>1664871587961</millis>
+  <nanos>760900</nanos>
+  <sequence>337</sequence>
+  <logger>LaOca</logger>
+  <level>INFO</level>
+  <class>LaOca$jugador</class>
+  <method>run</method>
+  <thread>22</thread>
+  <message>Le faltan:31</message>
+</record>
+<record>
+  <date>2022-10-04T08:19:47.978330900Z</date>
+  <millis>1664871587978</millis>
+  <nanos>330900</nanos>
+  <sequence>338</sequence>
+  <logger>LaOca</logger>
+  <level>INFO</level>
+  <class>LaOca$jugador</class>
+  <method>run</method>
+  <thread>16</thread>
+  <message>Locura el jugador THREAD-0 saco: 5</message>
+</record>
+<record>
+  <date>2022-10-04T08:19:47.978330900Z</date>
+  <millis>1664871587978</millis>
+  <nanos>330900</nanos>
+  <sequence>339</sequence>
+  <logger>LaOca</logger>
+  <level>INFO</level>
+  <class>LaOca$jugador</class>
+  <method>run</method>
+  <thread>16</thread>
+  <message>Le faltan:45</message>
+</record>
+<record>
+  <date>2022-10-04T08:19:48.104628600Z</date>
+  <millis>1664871588104</millis>
+  <nanos>628600</nanos>
+  <sequence>340</sequence>
+  <logger>LaOca</logger>
+  <level>INFO</level>
+  <class>LaOca$jugador</class>
+  <method>run</method>
+  <thread>17</thread>
+  <message>Locura el jugador THREAD-1 saco: 6</message>
+</record>
+<record>
+  <date>2022-10-04T08:19:48.104628600Z</date>
+  <millis>1664871588104</millis>
+  <nanos>628600</nanos>
+  <sequence>341</sequence>
+  <logger>LaOca</logger>
+  <level>INFO</level>
+  <class>LaOca$jugador</class>
+  <method>run</method>
+  <thread>17</thread>
+  <message>Le faltan:38</message>
+</record>
+<record>
+  <date>2022-10-04T08:19:48.205858700Z</date>
+  <millis>1664871588205</millis>
+  <nanos>858700</nanos>
+  <sequence>342</sequence>
+  <logger>LaOca</logger>
+  <level>INFO</level>
+  <class>LaOca$jugador</class>
+  <method>run</method>
+  <thread>24</thread>
+  <message>Locura el jugador THREAD-8 saco: 1</message>
+</record>
+<record>
+  <date>2022-10-04T08:19:48.205858700Z</date>
+  <millis>1664871588205</millis>
+  <nanos>858700</nanos>
+  <sequence>343</sequence>
+  <logger>LaOca</logger>
+  <level>INFO</level>
+  <class>LaOca$jugador</class>
+  <method>run</method>
+  <thread>24</thread>
+  <message>Le faltan:39</message>
+</record>
+<record>
+  <date>2022-10-04T08:19:48.567439800Z</date>
+  <millis>1664871588567</millis>
+  <nanos>439800</nanos>
+  <sequence>344</sequence>
+  <logger>LaOca</logger>
+  <level>INFO</level>
+  <class>LaOca$jugador</class>
+  <method>run</method>
+  <thread>18</thread>
+  <message>Locura el jugador THREAD-2 saco: 4</message>
+</record>
+<record>
+  <date>2022-10-04T08:19:48.567439800Z</date>
+  <millis>1664871588567</millis>
+  <nanos>439800</nanos>
+  <sequence>345</sequence>
+  <logger>LaOca</logger>
+  <level>INFO</level>
+  <class>LaOca$jugador</class>
+  <method>run</method>
+  <thread>18</thread>
+  <message>Le faltan:36</message>
+</record>
+<record>
+  <date>2022-10-04T08:19:48.583450800Z</date>
+  <millis>1664871588583</millis>
+  <nanos>450800</nanos>
+  <sequence>346</sequence>
+  <logger>LaOca</logger>
+  <level>INFO</level>
+  <class>LaOca$jugador</class>
+  <method>run</method>
+  <thread>18</thread>
+  <message>Locura el jugador THREAD-2 saco: 4</message>
+</record>
+<record>
+  <date>2022-10-04T08:19:48.583450800Z</date>
+  <millis>1664871588583</millis>
+  <nanos>450800</nanos>
+  <sequence>347</sequence>
+  <logger>LaOca</logger>
+  <level>INFO</level>
+  <class>LaOca$jugador</class>
+  <method>run</method>
+  <thread>18</thread>
+  <message>Le faltan:32</message>
+</record>
+<record>
+  <date>2022-10-04T08:19:48.769372300Z</date>
+  <millis>1664871588769</millis>
+  <nanos>372300</nanos>
+  <sequence>348</sequence>
+  <logger>LaOca</logger>
+  <level>INFO</level>
+  <class>LaOca$jugador</class>
+  <method>run</method>
+  <thread>21</thread>
+  <message>Locura el jugador THREAD-5 saco: 5</message>
+</record>
+<record>
+  <date>2022-10-04T08:19:48.769372300Z</date>
+  <millis>1664871588769</millis>
+  <nanos>372300</nanos>
+  <sequence>349</sequence>
+  <logger>LaOca</logger>
+  <level>INFO</level>
+  <class>LaOca$jugador</class>
+  <method>run</method>
+  <thread>21</thread>
+  <message>Le faltan:34</message>
+</record>
+<record>
+  <date>2022-10-04T08:19:48.808522700Z</date>
+  <millis>1664871588808</millis>
+  <nanos>522700</nanos>
+  <sequence>350</sequence>
+  <logger>LaOca</logger>
+  <level>INFO</level>
+  <class>LaOca$jugador</class>
+  <method>run</method>
+  <thread>20</thread>
+  <message>Locura el jugador THREAD-4 saco: 1</message>
+</record>
+<record>
+  <date>2022-10-04T08:19:48.808522700Z</date>
+  <millis>1664871588808</millis>
+  <nanos>522700</nanos>
+  <sequence>351</sequence>
+  <logger>LaOca</logger>
+  <level>INFO</level>
+  <class>LaOca$jugador</class>
+  <method>run</method>
+  <thread>20</thread>
+  <message>Le faltan:37</message>
+</record>
+<record>
+  <date>2022-10-04T08:19:48.902545Z</date>
+  <millis>1664871588902</millis>
+  <nanos>545000</nanos>
+  <sequence>352</sequence>
+  <logger>LaOca</logger>
+  <level>INFO</level>
+  <class>LaOca$jugador</class>
+  <method>run</method>
+  <thread>20</thread>
+  <message>Locura el jugador THREAD-4 saco: 3</message>
+</record>
+<record>
+  <date>2022-10-04T08:19:48.902545Z</date>
+  <millis>1664871588902</millis>
+  <nanos>545000</nanos>
+  <sequence>353</sequence>
+  <logger>LaOca</logger>
+  <level>INFO</level>
+  <class>LaOca$jugador</class>
+  <method>run</method>
+  <thread>20</thread>
+  <message>Le faltan:34</message>
+</record>
+<record>
+  <date>2022-10-04T08:19:48.910475Z</date>
+  <millis>1664871588910</millis>
+  <nanos>475000</nanos>
+  <sequence>354</sequence>
+  <logger>LaOca</logger>
+  <level>INFO</level>
+  <class>LaOca$jugador</class>
+  <method>run</method>
+  <thread>23</thread>
+  <message>Locura el jugador THREAD-7 saco: 5</message>
+</record>
+<record>
+  <date>2022-10-04T08:19:48.910475Z</date>
+  <millis>1664871588910</millis>
+  <nanos>475000</nanos>
+  <sequence>355</sequence>
+  <logger>LaOca</logger>
+  <level>INFO</level>
+  <class>LaOca$jugador</class>
+  <method>run</method>
+  <thread>23</thread>
+  <message>Le faltan:45</message>
+</record>
+<record>
+  <date>2022-10-04T08:19:49.083051200Z</date>
+  <millis>1664871589083</millis>
+  <nanos>51200</nanos>
+  <sequence>356</sequence>
+  <logger>LaOca</logger>
+  <level>INFO</level>
+  <class>LaOca$jugador</class>
+  <method>run</method>
+  <thread>19</thread>
+  <message>Locura el jugador THREAD-3 saco: 6</message>
+</record>
+<record>
+  <date>2022-10-04T08:19:49.083051200Z</date>
+  <millis>1664871589083</millis>
+  <nanos>51200</nanos>
+  <sequence>357</sequence>
+  <logger>LaOca</logger>
+  <level>INFO</level>
+  <class>LaOca$jugador</class>
+  <method>run</method>
+  <thread>19</thread>
+  <message>Le faltan:38</message>
+</record>
+<record>
+  <date>2022-10-04T08:19:49.158508Z</date>
+  <millis>1664871589158</millis>
+  <nanos>508000</nanos>
+  <sequence>358</sequence>
+  <logger>LaOca</logger>
+  <level>INFO</level>
+  <class>LaOca$jugador</class>
+  <method>run</method>
+  <thread>25</thread>
+  <message>Locura el jugador THREAD-9 saco: 4</message>
+</record>
+<record>
+  <date>2022-10-04T08:19:49.158508Z</date>
+  <millis>1664871589158</millis>
+  <nanos>508000</nanos>
+  <sequence>359</sequence>
+  <logger>LaOca</logger>
+  <level>INFO</level>
+  <class>LaOca$jugador</class>
+  <method>run</method>
+  <thread>25</thread>
+  <message>Le faltan:38</message>
+</record>
+<record>
+  <date>2022-10-04T08:19:49.302885400Z</date>
+  <millis>1664871589302</millis>
+  <nanos>885400</nanos>
+  <sequence>360</sequence>
+  <logger>LaOca</logger>
+  <level>INFO</level>
+  <class>LaOca$jugador</class>
+  <method>run</method>
+  <thread>24</thread>
+  <message>Locura el jugador THREAD-8 saco: 1</message>
+</record>
+<record>
+  <date>2022-10-04T08:19:49.302885400Z</date>
+  <millis>1664871589302</millis>
+  <nanos>885400</nanos>
+  <sequence>361</sequence>
+  <logger>LaOca</logger>
+  <level>INFO</level>
+  <class>LaOca$jugador</class>
+  <method>run</method>
+  <thread>24</thread>
+  <message>Le faltan:38</message>
+</record>
+<record>
+  <date>2022-10-04T08:19:49.360609200Z</date>
+  <millis>1664871589360</millis>
+  <nanos>609200</nanos>
+  <sequence>362</sequence>
+  <logger>LaOca</logger>
+  <level>INFO</level>
+  <class>LaOca$jugador</class>
+  <method>run</method>
+  <thread>16</thread>
+  <message>Locura el jugador THREAD-0 saco: 1</message>
+</record>
+<record>
+  <date>2022-10-04T08:19:49.360609200Z</date>
+  <millis>1664871589360</millis>
+  <nanos>609200</nanos>
+  <sequence>363</sequence>
+  <logger>LaOca</logger>
+  <level>INFO</level>
+  <class>LaOca$jugador</class>
+  <method>run</method>
+  <thread>16</thread>
+  <message>Le faltan:44</message>
+</record>
+<record>
+  <date>2022-10-04T08:19:49.383854700Z</date>
+  <millis>1664871589383</millis>
+  <nanos>854700</nanos>
+  <sequence>364</sequence>
+  <logger>LaOca</logger>
+  <level>INFO</level>
+  <class>LaOca$jugador</class>
+  <method>run</method>
+  <thread>20</thread>
+  <message>Locura el jugador THREAD-4 saco: 3</message>
+</record>
+<record>
+  <date>2022-10-04T08:19:49.383854700Z</date>
+  <millis>1664871589383</millis>
+  <nanos>854700</nanos>
+  <sequence>365</sequence>
+  <logger>LaOca</logger>
+  <level>INFO</level>
+  <class>LaOca$jugador</class>
+  <method>run</method>
+  <thread>20</thread>
+  <message>Le faltan:31</message>
+</record>
+<record>
+  <date>2022-10-04T08:19:49.386818300Z</date>
+  <millis>1664871589386</millis>
+  <nanos>818300</nanos>
+  <sequence>366</sequence>
+  <logger>LaOca</logger>
+  <level>INFO</level>
+  <class>LaOca$jugador</class>
+  <method>run</method>
+  <thread>22</thread>
+  <message>Locura el jugador THREAD-6 saco: 3</message>
+</record>
+<record>
+  <date>2022-10-04T08:19:49.386818300Z</date>
+  <millis>1664871589386</millis>
+  <nanos>818300</nanos>
+  <sequence>367</sequence>
+  <logger>LaOca</logger>
+  <level>INFO</level>
+  <class>LaOca$jugador</class>
+  <method>run</method>
+  <thread>22</thread>
+  <message>Le faltan:28</message>
+</record>
+<record>
+  <date>2022-10-04T08:19:49.457899200Z</date>
+  <millis>1664871589457</millis>
+  <nanos>899200</nanos>
+  <sequence>368</sequence>
+  <logger>LaOca</logger>
+  <level>INFO</level>
+  <class>LaOca$jugador</class>
+  <method>run</method>
+  <thread>22</thread>
+  <message>Locura el jugador THREAD-6 saco: 3</message>
+</record>
+<record>
+  <date>2022-10-04T08:19:49.457899200Z</date>
+  <millis>1664871589457</millis>
+  <nanos>899200</nanos>
+  <sequence>369</sequence>
+  <logger>LaOca</logger>
+  <level>INFO</level>
+  <class>LaOca$jugador</class>
+  <method>run</method>
+  <thread>22</thread>
+  <message>Le faltan:25</message>
+</record>
+<record>
+  <date>2022-10-04T08:19:49.868439400Z</date>
+  <millis>1664871589868</millis>
+  <nanos>439400</nanos>
+  <sequence>370</sequence>
+  <logger>LaOca</logger>
+  <level>INFO</level>
+  <class>LaOca$jugador</class>
+  <method>run</method>
+  <thread>21</thread>
+  <message>Locura el jugador THREAD-5 saco: 2</message>
+</record>
+<record>
+  <date>2022-10-04T08:19:49.868439400Z</date>
+  <millis>1664871589868</millis>
+  <nanos>439400</nanos>
+  <sequence>371</sequence>
+  <logger>LaOca</logger>
+  <level>INFO</level>
+  <class>LaOca$jugador</class>
+  <method>run</method>
+  <thread>21</thread>
+  <message>Le faltan:32</message>
+</record>
+<record>
+  <date>2022-10-04T08:19:49.906717Z</date>
+  <millis>1664871589906</millis>
+  <nanos>717000</nanos>
+  <sequence>372</sequence>
+  <logger>LaOca</logger>
+  <level>INFO</level>
+  <class>LaOca$jugador</class>
+  <method>run</method>
+  <thread>17</thread>
+  <message>Locura el jugador THREAD-1 saco: 4</message>
+</record>
+<record>
+  <date>2022-10-04T08:19:49.906717Z</date>
+  <millis>1664871589906</millis>
+  <nanos>717000</nanos>
+  <sequence>373</sequence>
+  <logger>LaOca</logger>
+  <level>INFO</level>
+  <class>LaOca$jugador</class>
+  <method>run</method>
+  <thread>17</thread>
+  <message>Le faltan:34</message>
+</record>
+<record>
+  <date>2022-10-04T08:19:50.131466700Z</date>
+  <millis>1664871590131</millis>
+  <nanos>466700</nanos>
+  <sequence>374</sequence>
+  <logger>LaOca</logger>
+  <level>INFO</level>
+  <class>LaOca$jugador</class>
+  <method>run</method>
+  <thread>18</thread>
+  <message>Locura el jugador THREAD-2 saco: 4</message>
+</record>
+<record>
+  <date>2022-10-04T08:19:50.131466700Z</date>
+  <millis>1664871590131</millis>
+  <nanos>466700</nanos>
+  <sequence>375</sequence>
+  <logger>LaOca</logger>
+  <level>INFO</level>
+  <class>LaOca$jugador</class>
+  <method>run</method>
+  <thread>18</thread>
+  <message>Le faltan:28</message>
+</record>
+<record>
+  <date>2022-10-04T08:19:50.155774900Z</date>
+  <millis>1664871590155</millis>
+  <nanos>774900</nanos>
+  <sequence>376</sequence>
+  <logger>LaOca</logger>
+  <level>INFO</level>
+  <class>LaOca$jugador</class>
+  <method>run</method>
+  <thread>17</thread>
+  <message>Locura el jugador THREAD-1 saco: 1</message>
+</record>
+<record>
+  <date>2022-10-04T08:19:50.155774900Z</date>
+  <millis>1664871590155</millis>
+  <nanos>774900</nanos>
+  <sequence>377</sequence>
+  <logger>LaOca</logger>
+  <level>INFO</level>
+  <class>LaOca$jugador</class>
+  <method>run</method>
+  <thread>17</thread>
+  <message>Le faltan:33</message>
+</record>
+<record>
+  <date>2022-10-04T08:19:50.186773500Z</date>
+  <millis>1664871590186</millis>
+  <nanos>773500</nanos>
+  <sequence>378</sequence>
+  <logger>LaOca</logger>
+  <level>INFO</level>
+  <class>LaOca$jugador</class>
+  <method>run</method>
+  <thread>16</thread>
+  <message>Locura el jugador THREAD-0 saco: 2</message>
+</record>
+<record>
+  <date>2022-10-04T08:19:50.186773500Z</date>
+  <millis>1664871590186</millis>
+  <nanos>773500</nanos>
+  <sequence>379</sequence>
+  <logger>LaOca</logger>
+  <level>INFO</level>
+  <class>LaOca$jugador</class>
+  <method>run</method>
+  <thread>16</thread>
+  <message>Le faltan:42</message>
+</record>
+<record>
+  <date>2022-10-04T08:19:50.278942700Z</date>
+  <millis>1664871590278</millis>
+  <nanos>942700</nanos>
+  <sequence>380</sequence>
+  <logger>LaOca</logger>
+  <level>INFO</level>
+  <class>LaOca$jugador</class>
+  <method>run</method>
+  <thread>24</thread>
+  <message>Locura el jugador THREAD-8 saco: 2</message>
+</record>
+<record>
+  <date>2022-10-04T08:19:50.278942700Z</date>
+  <millis>1664871590278</millis>
+  <nanos>942700</nanos>
+  <sequence>381</sequence>
+  <logger>LaOca</logger>
+  <level>INFO</level>
+  <class>LaOca$jugador</class>
+  <method>run</method>
+  <thread>24</thread>
+  <message>Le faltan:36</message>
+</record>
+<record>
+  <date>2022-10-04T08:19:50.404861900Z</date>
+  <millis>1664871590404</millis>
+  <nanos>861900</nanos>
+  <sequence>382</sequence>
+  <logger>LaOca</logger>
+  <level>INFO</level>
+  <class>LaOca$jugador</class>
+  <method>run</method>
+  <thread>22</thread>
+  <message>Locura el jugador THREAD-6 saco: 2</message>
+</record>
+<record>
+  <date>2022-10-04T08:19:50.404861900Z</date>
+  <millis>1664871590404</millis>
+  <nanos>861900</nanos>
+  <sequence>383</sequence>
+  <logger>LaOca</logger>
+  <level>INFO</level>
+  <class>LaOca$jugador</class>
+  <method>run</method>
+  <thread>22</thread>
+  <message>Le faltan:23</message>
+</record>
+<record>
+  <date>2022-10-04T08:19:50.413866400Z</date>
+  <millis>1664871590413</millis>
+  <nanos>866400</nanos>
+  <sequence>384</sequence>
+  <logger>LaOca</logger>
+  <level>INFO</level>
+  <class>LaOca$jugador</class>
+  <method>run</method>
+  <thread>23</thread>
+  <message>Locura el jugador THREAD-7 saco: 4</message>
+</record>
+<record>
+  <date>2022-10-04T08:19:50.414855500Z</date>
+  <millis>1664871590414</millis>
+  <nanos>855500</nanos>
+  <sequence>385</sequence>
+  <logger>LaOca</logger>
+  <level>INFO</level>
+  <class>LaOca$jugador</class>
+  <method>run</method>
+  <thread>23</thread>
+  <message>Le faltan:41</message>
+</record>
+<record>
+  <date>2022-10-04T08:19:50.445203700Z</date>
+  <millis>1664871590445</millis>
+  <nanos>203700</nanos>
+  <sequence>386</sequence>
+  <logger>LaOca</logger>
+  <level>INFO</level>
+  <class>LaOca$jugador</class>
+  <method>run</method>
+  <thread>20</thread>
+  <message>Locura el jugador THREAD-4 saco: 2</message>
+</record>
+<record>
+  <date>2022-10-04T08:19:50.445203700Z</date>
+  <millis>1664871590445</millis>
+  <nanos>203700</nanos>
+  <sequence>387</sequence>
+  <logger>LaOca</logger>
+  <level>INFO</level>
+  <class>LaOca$jugador</class>
+  <method>run</method>
+  <thread>20</thread>
+  <message>Le faltan:29</message>
+</record>
+<record>
+  <date>2022-10-04T08:19:50.638121400Z</date>
+  <millis>1664871590638</millis>
+  <nanos>121400</nanos>
+  <sequence>388</sequence>
+  <logger>LaOca</logger>
+  <level>INFO</level>
+  <class>LaOca$jugador</class>
+  <method>run</method>
+  <thread>19</thread>
+  <message>Locura el jugador THREAD-3 saco: 4</message>
+</record>
+<record>
+  <date>2022-10-04T08:19:50.638121400Z</date>
+  <millis>1664871590638</millis>
+  <nanos>121400</nanos>
+  <sequence>389</sequence>
+  <logger>LaOca</logger>
+  <level>INFO</level>
+  <class>LaOca$jugador</class>
+  <method>run</method>
+  <thread>19</thread>
+  <message>Le faltan:34</message>
+</record>
+<record>
+  <date>2022-10-04T08:19:50.666104400Z</date>
+  <millis>1664871590666</millis>
+  <nanos>104400</nanos>
+  <sequence>390</sequence>
+  <logger>LaOca</logger>
+  <level>INFO</level>
+  <class>LaOca$jugador</class>
+  <method>run</method>
+  <thread>17</thread>
+  <message>Locura el jugador THREAD-1 saco: 5</message>
+</record>
+<record>
+  <date>2022-10-04T08:19:50.666104400Z</date>
+  <millis>1664871590666</millis>
+  <nanos>104400</nanos>
+  <sequence>391</sequence>
+  <logger>LaOca</logger>
+  <level>INFO</level>
+  <class>LaOca$jugador</class>
+  <method>run</method>
+  <thread>17</thread>
+  <message>Le faltan:28</message>
+</record>
+<record>
+  <date>2022-10-04T08:19:50.779852400Z</date>
+  <millis>1664871590779</millis>
+  <nanos>852400</nanos>
+  <sequence>392</sequence>
+  <logger>LaOca</logger>
+  <level>INFO</level>
+  <class>LaOca$jugador</class>
+  <method>run</method>
+  <thread>16</thread>
+  <message>Locura el jugador THREAD-0 saco: 6</message>
+</record>
+<record>
+  <date>2022-10-04T08:19:50.779852400Z</date>
+  <millis>1664871590779</millis>
+  <nanos>852400</nanos>
+  <sequence>393</sequence>
+  <logger>LaOca</logger>
+  <level>INFO</level>
+  <class>LaOca$jugador</class>
+  <method>run</method>
+  <thread>16</thread>
+  <message>Le faltan:36</message>
+</record>
+<record>
+  <date>2022-10-04T08:19:50.883854700Z</date>
+  <millis>1664871590883</millis>
+  <nanos>854700</nanos>
+  <sequence>394</sequence>
+  <logger>LaOca</logger>
+  <level>INFO</level>
+  <class>LaOca$jugador</class>
+  <method>run</method>
+  <thread>20</thread>
+  <message>Locura el jugador THREAD-4 saco: 5</message>
+</record>
+<record>
+  <date>2022-10-04T08:19:50.883854700Z</date>
+  <millis>1664871590883</millis>
+  <nanos>854700</nanos>
+  <sequence>395</sequence>
+  <logger>LaOca</logger>
+  <level>INFO</level>
+  <class>LaOca$jugador</class>
+  <method>run</method>
+  <thread>20</thread>
+  <message>Le faltan:24</message>
+</record>
+<record>
+  <date>2022-10-04T08:19:51.007948300Z</date>
+  <millis>1664871591007</millis>
+  <nanos>948300</nanos>
+  <sequence>396</sequence>
+  <logger>LaOca</logger>
+  <level>INFO</level>
+  <class>LaOca$jugador</class>
+  <method>run</method>
+  <thread>22</thread>
+  <message>Locura el jugador THREAD-6 saco: 6</message>
+</record>
+<record>
+  <date>2022-10-04T08:19:51.007948300Z</date>
+  <millis>1664871591007</millis>
+  <nanos>948300</nanos>
+  <sequence>397</sequence>
+  <logger>LaOca</logger>
+  <level>INFO</level>
+  <class>LaOca$jugador</class>
+  <method>run</method>
+  <thread>22</thread>
+  <message>Le faltan:17</message>
+</record>
+<record>
+  <date>2022-10-04T08:19:51.084850700Z</date>
+  <millis>1664871591084</millis>
+  <nanos>850700</nanos>
+  <sequence>398</sequence>
+  <logger>LaOca</logger>
+  <level>INFO</level>
+  <class>LaOca$jugador</class>
+  <method>run</method>
+  <thread>25</thread>
+  <message>Locura el jugador THREAD-9 saco: 5</message>
+</record>
+<record>
+  <date>2022-10-04T08:19:51.084850700Z</date>
+  <millis>1664871591084</millis>
+  <nanos>850700</nanos>
+  <sequence>399</sequence>
+  <logger>LaOca</logger>
+  <level>INFO</level>
+  <class>LaOca$jugador</class>
+  <method>run</method>
+  <thread>25</thread>
+  <message>Le faltan:33</message>
+</record>
+<record>
+  <date>2022-10-04T08:19:51.231487400Z</date>
+  <millis>1664871591231</millis>
+  <nanos>487400</nanos>
+  <sequence>400</sequence>
+  <logger>LaOca</logger>
+  <level>INFO</level>
+  <class>LaOca$jugador</class>
+  <method>run</method>
+  <thread>18</thread>
+  <message>Locura el jugador THREAD-2 saco: 5</message>
+</record>
+<record>
+  <date>2022-10-04T08:19:51.231487400Z</date>
+  <millis>1664871591231</millis>
+  <nanos>487400</nanos>
+  <sequence>401</sequence>
+  <logger>LaOca</logger>
+  <level>INFO</level>
+  <class>LaOca$jugador</class>
+  <method>run</method>
+  <thread>18</thread>
+  <message>Le faltan:23</message>
+</record>
+<record>
+  <date>2022-10-04T08:19:51.710479700Z</date>
+  <millis>1664871591710</millis>
+  <nanos>479700</nanos>
+  <sequence>402</sequence>
+  <logger>LaOca</logger>
+  <level>INFO</level>
+  <class>LaOca$jugador</class>
+  <method>run</method>
+  <thread>21</thread>
+  <message>Locura el jugador THREAD-5 saco: 3</message>
+</record>
+<record>
+  <date>2022-10-04T08:19:51.710479700Z</date>
+  <millis>1664871591710</millis>
+  <nanos>479700</nanos>
+  <sequence>403</sequence>
+  <logger>LaOca</logger>
+  <level>INFO</level>
+  <class>LaOca$jugador</class>
+  <method>run</method>
+  <thread>21</thread>
+  <message>Le faltan:29</message>
+</record>
+<record>
+  <date>2022-10-04T08:19:51.750944200Z</date>
+  <millis>1664871591750</millis>
+  <nanos>944200</nanos>
+  <sequence>404</sequence>
+  <logger>LaOca</logger>
+  <level>INFO</level>
+  <class>LaOca$jugador</class>
+  <method>run</method>
+  <thread>20</thread>
+  <message>Locura el jugador THREAD-4 saco: 6</message>
+</record>
+<record>
+  <date>2022-10-04T08:19:51.750944200Z</date>
+  <millis>1664871591750</millis>
+  <nanos>944200</nanos>
+  <sequence>405</sequence>
+  <logger>LaOca</logger>
+  <level>INFO</level>
+  <class>LaOca$jugador</class>
+  <method>run</method>
+  <thread>20</thread>
+  <message>Le faltan:18</message>
+</record>
+<record>
+  <date>2022-10-04T08:19:51.835955100Z</date>
+  <millis>1664871591835</millis>
+  <nanos>955100</nanos>
+  <sequence>406</sequence>
+  <logger>LaOca</logger>
+  <level>INFO</level>
+  <class>LaOca$jugador</class>
+  <method>run</method>
+  <thread>22</thread>
+  <message>Locura el jugador THREAD-6 saco: 6</message>
+</record>
+<record>
+  <date>2022-10-04T08:19:51.835955100Z</date>
+  <millis>1664871591835</millis>
+  <nanos>955100</nanos>
+  <sequence>407</sequence>
+  <logger>LaOca</logger>
+  <level>INFO</level>
+  <class>LaOca$jugador</class>
+  <method>run</method>
+  <thread>22</thread>
+  <message>Le faltan:11</message>
+</record>
+<record>
+  <date>2022-10-04T08:19:51.870205700Z</date>
+  <millis>1664871591870</millis>
+  <nanos>205700</nanos>
+  <sequence>408</sequence>
+  <logger>LaOca</logger>
+  <level>INFO</level>
+  <class>LaOca$jugador</class>
+  <method>run</method>
+  <thread>17</thread>
+  <message>Locura el jugador THREAD-1 saco: 4</message>
+</record>
+<record>
+  <date>2022-10-04T08:19:51.870205700Z</date>
+  <millis>1664871591870</millis>
+  <nanos>205700</nanos>
+  <sequence>409</sequence>
+  <logger>LaOca</logger>
+  <level>INFO</level>
+  <class>LaOca$jugador</class>
+  <method>run</method>
+  <thread>17</thread>
+  <message>Le faltan:24</message>
+</record>
+<record>
+  <date>2022-10-04T08:19:51.992918100Z</date>
+  <millis>1664871591992</millis>
+  <nanos>918100</nanos>
+  <sequence>410</sequence>
+  <logger>LaOca</logger>
+  <level>INFO</level>
+  <class>LaOca$jugador</class>
+  <method>run</method>
+  <thread>19</thread>
+  <message>Locura el jugador THREAD-3 saco: 5</message>
+</record>
+<record>
+  <date>2022-10-04T08:19:51.992918100Z</date>
+  <millis>1664871591992</millis>
+  <nanos>918100</nanos>
+  <sequence>411</sequence>
+  <logger>LaOca</logger>
+  <level>INFO</level>
+  <class>LaOca$jugador</class>
+  <method>run</method>
+  <thread>19</thread>
+  <message>Le faltan:29</message>
+</record>
+<record>
+  <date>2022-10-04T08:19:52.043991Z</date>
+  <millis>1664871592043</millis>
+  <nanos>991000</nanos>
+  <sequence>412</sequence>
+  <logger>LaOca</logger>
+  <level>INFO</level>
+  <class>LaOca$jugador</class>
+  <method>run</method>
+  <thread>24</thread>
+  <message>Locura el jugador THREAD-8 saco: 5</message>
+</record>
+<record>
+  <date>2022-10-04T08:19:52.043991Z</date>
+  <millis>1664871592043</millis>
+  <nanos>991000</nanos>
+  <sequence>413</sequence>
+  <logger>LaOca</logger>
+  <level>INFO</level>
+  <class>LaOca$jugador</class>
+  <method>run</method>
+  <thread>24</thread>
+  <message>Le faltan:31</message>
+</record>
+<record>
+  <date>2022-10-04T08:19:52.046993300Z</date>
+  <millis>1664871592046</millis>
+  <nanos>993300</nanos>
+  <sequence>414</sequence>
+  <logger>LaOca</logger>
+  <level>INFO</level>
+  <class>LaOca$jugador</class>
+  <method>run</method>
+  <thread>17</thread>
+  <message>Locura el jugador THREAD-1 saco: 2</message>
+</record>
+<record>
+  <date>2022-10-04T08:19:52.046993300Z</date>
+  <millis>1664871592046</millis>
+  <nanos>993300</nanos>
+  <sequence>415</sequence>
+  <logger>LaOca</logger>
+  <level>INFO</level>
+  <class>LaOca$jugador</class>
+  <method>run</method>
+  <thread>17</thread>
+  <message>Le faltan:22</message>
+</record>
+<record>
+  <date>2022-10-04T08:19:52.109958900Z</date>
+  <millis>1664871592109</millis>
+  <nanos>958900</nanos>
+  <sequence>416</sequence>
+  <logger>LaOca</logger>
+  <level>INFO</level>
+  <class>LaOca$jugador</class>
+  <method>run</method>
+  <thread>16</thread>
+  <message>Locura el jugador THREAD-0 saco: 3</message>
+</record>
+<record>
+  <date>2022-10-04T08:19:52.109958900Z</date>
+  <millis>1664871592109</millis>
+  <nanos>958900</nanos>
+  <sequence>417</sequence>
+  <logger>LaOca</logger>
+  <level>INFO</level>
+  <class>LaOca$jugador</class>
+  <method>run</method>
+  <thread>16</thread>
+  <message>Le faltan:33</message>
+</record>
+<record>
+  <date>2022-10-04T08:19:52.208225Z</date>
+  <millis>1664871592208</millis>
+  <nanos>225000</nanos>
+  <sequence>418</sequence>
+  <logger>LaOca</logger>
+  <level>INFO</level>
+  <class>LaOca$jugador</class>
+  <method>run</method>
+  <thread>23</thread>
+  <message>Locura el jugador THREAD-7 saco: 4</message>
+</record>
+<record>
+  <date>2022-10-04T08:19:52.208225Z</date>
+  <millis>1664871592208</millis>
+  <nanos>225000</nanos>
+  <sequence>419</sequence>
+  <logger>LaOca</logger>
+  <level>INFO</level>
+  <class>LaOca$jugador</class>
+  <method>run</method>
+  <thread>23</thread>
+  <message>Le faltan:37</message>
+</record>
+<record>
+  <date>2022-10-04T08:19:52.557974900Z</date>
+  <millis>1664871592557</millis>
+  <nanos>974900</nanos>
+  <sequence>420</sequence>
+  <logger>LaOca</logger>
+  <level>INFO</level>
+  <class>LaOca$jugador</class>
+  <method>run</method>
+  <thread>19</thread>
+  <message>Locura el jugador THREAD-3 saco: 1</message>
+</record>
+<record>
+  <date>2022-10-04T08:19:52.557974900Z</date>
+  <millis>1664871592557</millis>
+  <nanos>974900</nanos>
+  <sequence>421</sequence>
+  <logger>LaOca</logger>
+  <level>INFO</level>
+  <class>LaOca$jugador</class>
+  <method>run</method>
+  <thread>19</thread>
+  <message>Le faltan:28</message>
+</record>
+<record>
+  <date>2022-10-04T08:19:52.795935200Z</date>
+  <millis>1664871592795</millis>
+  <nanos>935200</nanos>
+  <sequence>422</sequence>
+  <logger>LaOca</logger>
+  <level>INFO</level>
+  <class>LaOca$jugador</class>
+  <method>run</method>
+  <thread>25</thread>
+  <message>Locura el jugador THREAD-9 saco: 6</message>
+</record>
+<record>
+  <date>2022-10-04T08:19:52.795935200Z</date>
+  <millis>1664871592795</millis>
+  <nanos>935200</nanos>
+  <sequence>423</sequence>
+  <logger>LaOca</logger>
+  <level>INFO</level>
+  <class>LaOca$jugador</class>
+  <method>run</method>
+  <thread>25</thread>
+  <message>Le faltan:27</message>
+</record>
+<record>
+  <date>2022-10-04T08:19:52.829258600Z</date>
+  <millis>1664871592829</millis>
+  <nanos>258600</nanos>
+  <sequence>424</sequence>
+  <logger>LaOca</logger>
+  <level>INFO</level>
+  <class>LaOca$jugador</class>
+  <method>run</method>
+  <thread>23</thread>
+  <message>Locura el jugador THREAD-7 saco: 3</message>
+</record>
+<record>
+  <date>2022-10-04T08:19:52.829258600Z</date>
+  <millis>1664871592829</millis>
+  <nanos>258600</nanos>
+  <sequence>425</sequence>
+  <logger>LaOca</logger>
+  <level>INFO</level>
+  <class>LaOca$jugador</class>
+  <method>run</method>
+  <thread>23</thread>
+  <message>Le faltan:34</message>
+</record>
+<record>
+  <date>2022-10-04T08:19:52.894206300Z</date>
+  <millis>1664871592894</millis>
+  <nanos>206300</nanos>
+  <sequence>426</sequence>
+  <logger>LaOca</logger>
+  <level>INFO</level>
+  <class>LaOca$jugador</class>
+  <method>run</method>
+  <thread>20</thread>
+  <message>Locura el jugador THREAD-4 saco: 4</message>
+</record>
+<record>
+  <date>2022-10-04T08:19:52.894206300Z</date>
+  <millis>1664871592894</millis>
+  <nanos>206300</nanos>
+  <sequence>427</sequence>
+  <logger>LaOca</logger>
+  <level>INFO</level>
+  <class>LaOca$jugador</class>
+  <method>run</method>
+  <thread>20</thread>
+  <message>Le faltan:14</message>
+</record>
+<record>
+  <date>2022-10-04T08:19:52.980557500Z</date>
+  <millis>1664871592980</millis>
+  <nanos>557500</nanos>
+  <sequence>428</sequence>
+  <logger>LaOca</logger>
+  <level>INFO</level>
+  <class>LaOca$jugador</class>
+  <method>run</method>
+  <thread>18</thread>
+  <message>Locura el jugador THREAD-2 saco: 2</message>
+</record>
+<record>
+  <date>2022-10-04T08:19:52.980557500Z</date>
+  <millis>1664871592980</millis>
+  <nanos>557500</nanos>
+  <sequence>429</sequence>
+  <logger>LaOca</logger>
+  <level>INFO</level>
+  <class>LaOca$jugador</class>
+  <method>run</method>
+  <thread>18</thread>
+  <message>Le faltan:21</message>
+</record>
+<record>
+  <date>2022-10-04T08:19:53.004817200Z</date>
+  <millis>1664871593004</millis>
+  <nanos>817200</nanos>
+  <sequence>430</sequence>
+  <logger>LaOca</logger>
+  <level>INFO</level>
+  <class>LaOca$jugador</class>
+  <method>run</method>
+  <thread>21</thread>
+  <message>Locura el jugador THREAD-5 saco: 5</message>
+</record>
+<record>
+  <date>2022-10-04T08:19:53.004817200Z</date>
+  <millis>1664871593004</millis>
+  <nanos>817200</nanos>
+  <sequence>431</sequence>
+  <logger>LaOca</logger>
+  <level>INFO</level>
+  <class>LaOca$jugador</class>
+  <method>run</method>
+  <thread>21</thread>
+  <message>Le faltan:24</message>
+</record>
+<record>
+  <date>2022-10-04T08:19:53.109647400Z</date>
+  <millis>1664871593109</millis>
+  <nanos>647400</nanos>
+  <sequence>432</sequence>
+  <logger>LaOca</logger>
+  <level>INFO</level>
+  <class>LaOca$jugador</class>
+  <method>run</method>
+  <thread>20</thread>
+  <message>Locura el jugador THREAD-4 saco: 1</message>
+</record>
+<record>
+  <date>2022-10-04T08:19:53.109647400Z</date>
+  <millis>1664871593109</millis>
+  <nanos>647400</nanos>
+  <sequence>433</sequence>
+  <logger>LaOca</logger>
+  <level>INFO</level>
+  <class>LaOca$jugador</class>
+  <method>run</method>
+  <thread>20</thread>
+  <message>Le faltan:13</message>
+</record>
+<record>
+  <date>2022-10-04T08:19:53.147681400Z</date>
+  <millis>1664871593147</millis>
+  <nanos>681400</nanos>
+  <sequence>434</sequence>
+  <logger>LaOca</logger>
+  <level>INFO</level>
+  <class>LaOca$jugador</class>
+  <method>run</method>
+  <thread>16</thread>
+  <message>Locura el jugador THREAD-0 saco: 5</message>
+</record>
+<record>
+  <date>2022-10-04T08:19:53.147681400Z</date>
+  <millis>1664871593147</millis>
+  <nanos>681400</nanos>
+  <sequence>435</sequence>
+  <logger>LaOca</logger>
+  <level>INFO</level>
+  <class>LaOca$jugador</class>
+  <method>run</method>
+  <thread>16</thread>
+  <message>Le faltan:28</message>
+</record>
+<record>
+  <date>2022-10-04T08:19:53.159637900Z</date>
+  <millis>1664871593159</millis>
+  <nanos>637900</nanos>
+  <sequence>436</sequence>
+  <logger>LaOca</logger>
+  <level>INFO</level>
+  <class>LaOca$jugador</class>
+  <method>run</method>
+  <thread>23</thread>
+  <message>Locura el jugador THREAD-7 saco: 1</message>
+</record>
+<record>
+  <date>2022-10-04T08:19:53.159637900Z</date>
+  <millis>1664871593159</millis>
+  <nanos>637900</nanos>
+  <sequence>437</sequence>
+  <logger>LaOca</logger>
+  <level>INFO</level>
+  <class>LaOca$jugador</class>
+  <method>run</method>
+  <thread>23</thread>
+  <message>Le faltan:33</message>
+</record>
+<record>
+  <date>2022-10-04T08:19:53.395503600Z</date>
+  <millis>1664871593395</millis>
+  <nanos>503600</nanos>
+  <sequence>438</sequence>
+  <logger>LaOca</logger>
+  <level>INFO</level>
+  <class>LaOca$jugador</class>
+  <method>run</method>
+  <thread>23</thread>
+  <message>Locura el jugador THREAD-7 saco: 2</message>
+</record>
+<record>
+  <date>2022-10-04T08:19:53.395503600Z</date>
+  <millis>1664871593395</millis>
+  <nanos>503600</nanos>
+  <sequence>439</sequence>
+  <logger>LaOca</logger>
+  <level>INFO</level>
+  <class>LaOca$jugador</class>
+  <method>run</method>
+  <thread>23</thread>
+  <message>Le faltan:31</message>
+</record>
+<record>
+  <date>2022-10-04T08:19:53.520426300Z</date>
+  <millis>1664871593520</millis>
+  <nanos>426300</nanos>
+  <sequence>440</sequence>
+  <logger>LaOca</logger>
+  <level>INFO</level>
+  <class>LaOca$jugador</class>
+  <method>run</method>
+  <thread>22</thread>
+  <message>Locura el jugador THREAD-6 saco: 6</message>
+</record>
+<record>
+  <date>2022-10-04T08:19:53.520426300Z</date>
+  <millis>1664871593520</millis>
+  <nanos>426300</nanos>
+  <sequence>441</sequence>
+  <logger>LaOca</logger>
+  <level>INFO</level>
+  <class>LaOca$jugador</class>
+  <method>run</method>
+  <thread>22</thread>
+  <message>Le faltan:5</message>
+</record>
+<record>
+  <date>2022-10-04T08:19:53.908075700Z</date>
+  <millis>1664871593908</millis>
+  <nanos>75700</nanos>
+  <sequence>442</sequence>
+  <logger>LaOca</logger>
+  <level>INFO</level>
+  <class>LaOca$jugador</class>
+  <method>run</method>
+  <thread>24</thread>
+  <message>Locura el jugador THREAD-8 saco: 5</message>
+</record>
+<record>
+  <date>2022-10-04T08:19:53.908075700Z</date>
+  <millis>1664871593908</millis>
+  <nanos>75700</nanos>
+  <sequence>443</sequence>
+  <logger>LaOca</logger>
+  <level>INFO</level>
+  <class>LaOca$jugador</class>
+  <method>run</method>
+  <thread>24</thread>
+  <message>Le faltan:26</message>
+</record>
+<record>
+  <date>2022-10-04T08:19:53.971097300Z</date>
+  <millis>1664871593971</millis>
+  <nanos>97300</nanos>
+  <sequence>444</sequence>
+  <logger>LaOca</logger>
+  <level>INFO</level>
+  <class>LaOca$jugador</class>
+  <method>run</method>
+  <thread>17</thread>
+  <message>Locura el jugador THREAD-1 saco: 4</message>
+</record>
+<record>
+  <date>2022-10-04T08:19:53.971097300Z</date>
+  <millis>1664871593971</millis>
+  <nanos>97300</nanos>
+  <sequence>445</sequence>
+  <logger>LaOca</logger>
+  <level>INFO</level>
+  <class>LaOca$jugador</class>
+  <method>run</method>
+  <thread>17</thread>
+  <message>Le faltan:18</message>
+</record>
+<record>
+  <date>2022-10-04T08:19:53.983497500Z</date>
+  <millis>1664871593983</millis>
+  <nanos>497500</nanos>
+  <sequence>446</sequence>
+  <logger>LaOca</logger>
+  <level>INFO</level>
+  <class>LaOca$jugador</class>
+  <method>run</method>
+  <thread>22</thread>
+  <message>THREAD-6 Llego al final</message>
+</record>
+<record>
+  <date>2022-10-04T08:19:53.992184600Z</date>
+  <millis>1664871593992</millis>
+  <nanos>184600</nanos>
+  <sequence>447</sequence>
+  <logger>LaOca</logger>
+  <level>INFO</level>
+  <class>LaOca$jugador</class>
+  <method>run</method>
+  <thread>17</thread>
+  <message>Locura el jugador THREAD-1 saco: 1</message>
+</record>
+<record>
+  <date>2022-10-04T08:19:53.992184600Z</date>
+  <millis>1664871593992</millis>
+  <nanos>184600</nanos>
+  <sequence>448</sequence>
+  <logger>LaOca</logger>
+  <level>INFO</level>
+  <class>LaOca$jugador</class>
+  <method>run</method>
+  <thread>17</thread>
+  <message>Le faltan:17</message>
+</record>
+<record>
+  <date>2022-10-04T08:19:54.020672300Z</date>
+  <millis>1664871594020</millis>
+  <nanos>672300</nanos>
+  <sequence>449</sequence>
+  <logger>LaOca</logger>
+  <level>INFO</level>
+  <class>LaOca$jugador</class>
+  <method>run</method>
+  <thread>20</thread>
+  <message>Locura el jugador THREAD-4 saco: 4</message>
+</record>
+<record>
+  <date>2022-10-04T08:19:54.020672300Z</date>
+  <millis>1664871594020</millis>
+  <nanos>672300</nanos>
+  <sequence>450</sequence>
+  <logger>LaOca</logger>
+  <level>INFO</level>
+  <class>LaOca$jugador</class>
+  <method>run</method>
+  <thread>20</thread>
+  <message>Le faltan:9</message>
+</record>
+<record>
+  <date>2022-10-04T08:19:54.343052800Z</date>
+  <millis>1664871594343</millis>
+  <nanos>52800</nanos>
+  <sequence>451</sequence>
+  <logger>LaOca</logger>
+  <level>INFO</level>
+  <class>LaOca$jugador</class>
+  <method>run</method>
+  <thread>19</thread>
+  <message>Locura el jugador THREAD-3 saco: 1</message>
+</record>
+<record>
+  <date>2022-10-04T08:19:54.343052800Z</date>
+  <millis>1664871594343</millis>
+  <nanos>52800</nanos>
+  <sequence>452</sequence>
+  <logger>LaOca</logger>
+  <level>INFO</level>
+  <class>LaOca$jugador</class>
+  <method>run</method>
+  <thread>19</thread>
+  <message>Le faltan:27</message>
+</record>
+<record>
+  <date>2022-10-04T08:19:54.349755200Z</date>
+  <millis>1664871594349</millis>
+  <nanos>755200</nanos>
+  <sequence>453</sequence>
+  <logger>LaOca</logger>
+  <level>INFO</level>
+  <class>LaOca$jugador</class>
+  <method>run</method>
+  <thread>20</thread>
+  <message>Locura el jugador THREAD-4 saco: 1</message>
+</record>
+<record>
+  <date>2022-10-04T08:19:54.349755200Z</date>
+  <millis>1664871594349</millis>
+  <nanos>755200</nanos>
+  <sequence>454</sequence>
+  <logger>LaOca</logger>
+  <level>INFO</level>
+  <class>LaOca$jugador</class>
+  <method>run</method>
+  <thread>20</thread>
+  <message>Le faltan:8</message>
+</record>
+<record>
+  <date>2022-10-04T08:19:54.497012400Z</date>
+  <millis>1664871594497</millis>
+  <nanos>12400</nanos>
+  <sequence>455</sequence>
+  <logger>LaOca</logger>
+  <level>INFO</level>
+  <class>LaOca$jugador</class>
+  <method>run</method>
+  <thread>25</thread>
+  <message>Locura el jugador THREAD-9 saco: 6</message>
+</record>
+<record>
+  <date>2022-10-04T08:19:54.497012400Z</date>
+  <millis>1664871594497</millis>
+  <nanos>12400</nanos>
+  <sequence>456</sequence>
+  <logger>LaOca</logger>
+  <level>INFO</level>
+  <class>LaOca$jugador</class>
+  <method>run</method>
+  <thread>25</thread>
+  <message>Le faltan:21</message>
+</record>
+<record>
+  <date>2022-10-04T08:19:54.521764500Z</date>
+  <millis>1664871594521</millis>
+  <nanos>764500</nanos>
+  <sequence>457</sequence>
+  <logger>LaOca</logger>
+  <level>INFO</level>
+  <class>LaOca$jugador</class>
+  <method>run</method>
+  <thread>16</thread>
+  <message>Locura el jugador THREAD-0 saco: 3</message>
+</record>
+<record>
+  <date>2022-10-04T08:19:54.521764500Z</date>
+  <millis>1664871594521</millis>
+  <nanos>764500</nanos>
+  <sequence>458</sequence>
+  <logger>LaOca</logger>
+  <level>INFO</level>
+  <class>LaOca$jugador</class>
+  <method>run</method>
+  <thread>16</thread>
+  <message>Le faltan:25</message>
+</record>
+<record>
+  <date>2022-10-04T08:19:54.584871600Z</date>
+  <millis>1664871594584</millis>
+  <nanos>871600</nanos>
+  <sequence>459</sequence>
+  <logger>LaOca</logger>
+  <level>INFO</level>
+  <class>LaOca$jugador</class>
+  <method>run</method>
+  <thread>21</thread>
+  <message>Locura el jugador THREAD-5 saco: 5</message>
+</record>
+<record>
+  <date>2022-10-04T08:19:54.584871600Z</date>
+  <millis>1664871594584</millis>
+  <nanos>871600</nanos>
+  <sequence>460</sequence>
+  <logger>LaOca</logger>
+  <level>INFO</level>
+  <class>LaOca$jugador</class>
+  <method>run</method>
+  <thread>21</thread>
+  <message>Le faltan:19</message>
+</record>
+<record>
+  <date>2022-10-04T08:19:54.647036700Z</date>
+  <millis>1664871594647</millis>
+  <nanos>36700</nanos>
+  <sequence>461</sequence>
+  <logger>LaOca</logger>
+  <level>INFO</level>
+  <class>LaOca$jugador</class>
+  <method>run</method>
+  <thread>25</thread>
+  <message>Locura el jugador THREAD-9 saco: 4</message>
+</record>
+<record>
+  <date>2022-10-04T08:19:54.647036700Z</date>
+  <millis>1664871594647</millis>
+  <nanos>36700</nanos>
+  <sequence>462</sequence>
+  <logger>LaOca</logger>
+  <level>INFO</level>
+  <class>LaOca$jugador</class>
+  <method>run</method>
+  <thread>25</thread>
+  <message>Le faltan:17</message>
+</record>
+<record>
+  <date>2022-10-04T08:19:54.711650300Z</date>
+  <millis>1664871594711</millis>
+  <nanos>650300</nanos>
+  <sequence>463</sequence>
+  <logger>LaOca</logger>
+  <level>INFO</level>
+  <class>LaOca$jugador</class>
+  <method>run</method>
+  <thread>18</thread>
+  <message>Locura el jugador THREAD-2 saco: 4</message>
+</record>
+<record>
+  <date>2022-10-04T08:19:54.711650300Z</date>
+  <millis>1664871594711</millis>
+  <nanos>650300</nanos>
+  <sequence>464</sequence>
+  <logger>LaOca</logger>
+  <level>INFO</level>
+  <class>LaOca$jugador</class>
+  <method>run</method>
+  <thread>18</thread>
+  <message>Le faltan:17</message>
+</record>
+<record>
+  <date>2022-10-04T08:19:54.804594400Z</date>
+  <millis>1664871594804</millis>
+  <nanos>594400</nanos>
+  <sequence>465</sequence>
+  <logger>LaOca</logger>
+  <level>INFO</level>
+  <class>LaOca$jugador</class>
+  <method>run</method>
+  <thread>16</thread>
+  <message>Locura el jugador THREAD-0 saco: 2</message>
+</record>
+<record>
+  <date>2022-10-04T08:19:54.804594400Z</date>
+  <millis>1664871594804</millis>
+  <nanos>594400</nanos>
+  <sequence>466</sequence>
+  <logger>LaOca</logger>
+  <level>INFO</level>
+  <class>LaOca$jugador</class>
+  <method>run</method>
+  <thread>16</thread>
+  <message>Le faltan:23</message>
+</record>
+<record>
+  <date>2022-10-04T08:19:55.130106100Z</date>
+  <millis>1664871595130</millis>
+  <nanos>106100</nanos>
+  <sequence>467</sequence>
+  <logger>LaOca</logger>
+  <level>INFO</level>
+  <class>LaOca$jugador</class>
+  <method>run</method>
+  <thread>19</thread>
+  <message>Locura el jugador THREAD-3 saco: 2</message>
+</record>
+<record>
+  <date>2022-10-04T08:19:55.130106100Z</date>
+  <millis>1664871595130</millis>
+  <nanos>106100</nanos>
+  <sequence>468</sequence>
+  <logger>LaOca</logger>
+  <level>INFO</level>
+  <class>LaOca$jugador</class>
+  <method>run</method>
+  <thread>19</thread>
+  <message>Le faltan:25</message>
+</record>
+<record>
+  <date>2022-10-04T08:19:55.159149200Z</date>
+  <millis>1664871595159</millis>
+  <nanos>149200</nanos>
+  <sequence>469</sequence>
+  <logger>LaOca</logger>
+  <level>INFO</level>
+  <class>LaOca$jugador</class>
+  <method>run</method>
+  <thread>19</thread>
+  <message>Locura el jugador THREAD-3 saco: 4</message>
+</record>
+<record>
+  <date>2022-10-04T08:19:55.159149200Z</date>
+  <millis>1664871595159</millis>
+  <nanos>149200</nanos>
+  <sequence>470</sequence>
+  <logger>LaOca</logger>
+  <level>INFO</level>
+  <class>LaOca$jugador</class>
+  <method>run</method>
+  <thread>19</thread>
+  <message>Le faltan:21</message>
+</record>
+<record>
+  <date>2022-10-04T08:19:55.203118600Z</date>
+  <millis>1664871595203</millis>
+  <nanos>118600</nanos>
+  <sequence>471</sequence>
+  <logger>LaOca</logger>
+  <level>INFO</level>
+  <class>LaOca$jugador</class>
+  <method>run</method>
+  <thread>24</thread>
+  <message>Locura el jugador THREAD-8 saco: 1</message>
+</record>
+<record>
+  <date>2022-10-04T08:19:55.203118600Z</date>
+  <millis>1664871595203</millis>
+  <nanos>118600</nanos>
+  <sequence>472</sequence>
+  <logger>LaOca</logger>
+  <level>INFO</level>
+  <class>LaOca$jugador</class>
+  <method>run</method>
+  <thread>24</thread>
+  <message>Le faltan:25</message>
+</record>
+<record>
+  <date>2022-10-04T08:19:55.234550800Z</date>
+  <millis>1664871595234</millis>
+  <nanos>550800</nanos>
+  <sequence>473</sequence>
+  <logger>LaOca</logger>
+  <level>INFO</level>
+  <class>LaOca$jugador</class>
+  <method>run</method>
+  <thread>23</thread>
+  <message>Locura el jugador THREAD-7 saco: 6</message>
+</record>
+<record>
+  <date>2022-10-04T08:19:55.234550800Z</date>
+  <millis>1664871595234</millis>
+  <nanos>550800</nanos>
+  <sequence>474</sequence>
+  <logger>LaOca</logger>
+  <level>INFO</level>
+  <class>LaOca$jugador</class>
+  <method>run</method>
+  <thread>23</thread>
+  <message>Le faltan:25</message>
+</record>
+<record>
+  <date>2022-10-04T08:19:55.396566200Z</date>
+  <millis>1664871595396</millis>
+  <nanos>566200</nanos>
+  <sequence>475</sequence>
+  <logger>LaOca</logger>
+  <level>INFO</level>
+  <class>LaOca$jugador</class>
+  <method>run</method>
+  <thread>23</thread>
+  <message>Locura el jugador THREAD-7 saco: 5</message>
+</record>
+<record>
+  <date>2022-10-04T08:19:55.396566200Z</date>
+  <millis>1664871595396</millis>
+  <nanos>566200</nanos>
+  <sequence>476</sequence>
+  <logger>LaOca</logger>
+  <level>INFO</level>
+  <class>LaOca$jugador</class>
+  <method>run</method>
+  <thread>23</thread>
+  <message>Le faltan:20</message>
+</record>
+<record>
+  <date>2022-10-04T08:19:55.498275Z</date>
+  <millis>1664871595498</millis>
+  <nanos>275000</nanos>
+  <sequence>477</sequence>
+  <logger>LaOca</logger>
+  <level>INFO</level>
+  <class>LaOca$jugador</class>
+  <method>run</method>
+  <thread>17</thread>
+  <message>Locura el jugador THREAD-1 saco: 1</message>
+</record>
+<record>
+  <date>2022-10-04T08:19:55.498275Z</date>
+  <millis>1664871595498</millis>
+  <nanos>275000</nanos>
+  <sequence>478</sequence>
+  <logger>LaOca</logger>
+  <level>INFO</level>
+  <class>LaOca$jugador</class>
+  <method>run</method>
+  <thread>17</thread>
+  <message>Le faltan:16</message>
+</record>
+<record>
+  <date>2022-10-04T08:19:55.739641200Z</date>
+  <millis>1664871595739</millis>
+  <nanos>641200</nanos>
+  <sequence>479</sequence>
+  <logger>LaOca</logger>
+  <level>INFO</level>
+  <class>LaOca$jugador</class>
+  <method>run</method>
+  <thread>16</thread>
+  <message>Locura el jugador THREAD-0 saco: 4</message>
+</record>
+<record>
+  <date>2022-10-04T08:19:55.739641200Z</date>
+  <millis>1664871595739</millis>
+  <nanos>641200</nanos>
+  <sequence>480</sequence>
+  <logger>LaOca</logger>
+  <level>INFO</level>
+  <class>LaOca$jugador</class>
+  <method>run</method>
+  <thread>16</thread>
+  <message>Le faltan:19</message>
+</record>
+<record>
+  <date>2022-10-04T08:19:55.765646600Z</date>
+  <millis>1664871595765</millis>
+  <nanos>646600</nanos>
+  <sequence>481</sequence>
+  <logger>LaOca</logger>
+  <level>INFO</level>
+  <class>LaOca$jugador</class>
+  <method>run</method>
+  <thread>23</thread>
+  <message>Locura el jugador THREAD-7 saco: 2</message>
+</record>
+<record>
+  <date>2022-10-04T08:19:55.765646600Z</date>
+  <millis>1664871595765</millis>
+  <nanos>646600</nanos>
+  <sequence>482</sequence>
+  <logger>LaOca</logger>
+  <level>INFO</level>
+  <class>LaOca$jugador</class>
+  <method>run</method>
+  <thread>23</thread>
+  <message>Le faltan:18</message>
+</record>
+<record>
+  <date>2022-10-04T08:19:56.114848100Z</date>
+  <millis>1664871596114</millis>
+  <nanos>848100</nanos>
+  <sequence>483</sequence>
+  <logger>LaOca</logger>
+  <level>INFO</level>
+  <class>LaOca$jugador</class>
+  <method>run</method>
+  <thread>20</thread>
+  <message>Locura el jugador THREAD-4 saco: 1</message>
+</record>
+<record>
+  <date>2022-10-04T08:19:56.114848100Z</date>
+  <millis>1664871596114</millis>
+  <nanos>848100</nanos>
+  <sequence>484</sequence>
+  <logger>LaOca</logger>
+  <level>INFO</level>
+  <class>LaOca$jugador</class>
+  <method>run</method>
+  <thread>20</thread>
+  <message>Le faltan:7</message>
+</record>
+<record>
+  <date>2022-10-04T08:19:56.204164700Z</date>
+  <millis>1664871596204</millis>
+  <nanos>164700</nanos>
+  <sequence>485</sequence>
+  <logger>LaOca</logger>
+  <level>INFO</level>
+  <class>LaOca$jugador</class>
+  <method>run</method>
+  <thread>18</thread>
+  <message>Locura el jugador THREAD-2 saco: 5</message>
+</record>
+<record>
+  <date>2022-10-04T08:19:56.204164700Z</date>
+  <millis>1664871596204</millis>
+  <nanos>164700</nanos>
+  <sequence>486</sequence>
+  <logger>LaOca</logger>
+  <level>INFO</level>
+  <class>LaOca$jugador</class>
+  <method>run</method>
+  <thread>18</thread>
+  <message>Le faltan:12</message>
+</record>
+<record>
+  <date>2022-10-04T08:19:56.206181Z</date>
+  <millis>1664871596206</millis>
+  <nanos>181000</nanos>
+  <sequence>487</sequence>
+  <logger>LaOca</logger>
+  <level>INFO</level>
+  <class>LaOca$jugador</class>
+  <method>run</method>
+  <thread>24</thread>
+  <message>Locura el jugador THREAD-8 saco: 2</message>
+</record>
+<record>
+  <date>2022-10-04T08:19:56.206181Z</date>
+  <millis>1664871596206</millis>
+  <nanos>181000</nanos>
+  <sequence>488</sequence>
+  <logger>LaOca</logger>
+  <level>INFO</level>
+  <class>LaOca$jugador</class>
+  <method>run</method>
+  <thread>24</thread>
+  <message>Le faltan:23</message>
+</record>
+<record>
+  <date>2022-10-04T08:19:56.216962900Z</date>
+  <millis>1664871596216</millis>
+  <nanos>962900</nanos>
+  <sequence>489</sequence>
+  <logger>LaOca</logger>
+  <level>INFO</level>
+  <class>LaOca$jugador</class>
+  <method>run</method>
+  <thread>21</thread>
+  <message>Locura el jugador THREAD-5 saco: 2</message>
+</record>
+<record>
+  <date>2022-10-04T08:19:56.216962900Z</date>
+  <millis>1664871596216</millis>
+  <nanos>962900</nanos>
+  <sequence>490</sequence>
+  <logger>LaOca</logger>
+  <level>INFO</level>
+  <class>LaOca$jugador</class>
+  <method>run</method>
+  <thread>21</thread>
+  <message>Le faltan:17</message>
+</record>
+<record>
+  <date>2022-10-04T08:19:56.339938700Z</date>
+  <millis>1664871596339</millis>
+  <nanos>938700</nanos>
+  <sequence>491</sequence>
+  <logger>LaOca</logger>
+  <level>INFO</level>
+  <class>LaOca$jugador</class>
+  <method>run</method>
+  <thread>24</thread>
+  <message>Locura el jugador THREAD-8 saco: 3</message>
+</record>
+<record>
+  <date>2022-10-04T08:19:56.339938700Z</date>
+  <millis>1664871596339</millis>
+  <nanos>938700</nanos>
+  <sequence>492</sequence>
+  <logger>LaOca</logger>
+  <level>INFO</level>
+  <class>LaOca$jugador</class>
+  <method>run</method>
+  <thread>24</thread>
+  <message>Le faltan:20</message>
+</record>
+<record>
+  <date>2022-10-04T08:19:56.367633Z</date>
+  <millis>1664871596367</millis>
+  <nanos>633000</nanos>
+  <sequence>493</sequence>
+  <logger>LaOca</logger>
+  <level>INFO</level>
+  <class>LaOca$jugador</class>
+  <method>run</method>
+  <thread>19</thread>
+  <message>Locura el jugador THREAD-3 saco: 2</message>
+</record>
+<record>
+  <date>2022-10-04T08:19:56.367633Z</date>
+  <millis>1664871596367</millis>
+  <nanos>633000</nanos>
+  <sequence>494</sequence>
+  <logger>LaOca</logger>
+  <level>INFO</level>
+  <class>LaOca$jugador</class>
+  <method>run</method>
+  <thread>19</thread>
+  <message>Le faltan:19</message>
+</record>
+<record>
+  <date>2022-10-04T08:19:56.599048800Z</date>
+  <millis>1664871596599</millis>
+  <nanos>48800</nanos>
+  <sequence>495</sequence>
+  <logger>LaOca</logger>
+  <level>INFO</level>
+  <class>LaOca$jugador</class>
+  <method>run</method>
+  <thread>25</thread>
+  <message>Locura el jugador THREAD-9 saco: 6</message>
+</record>
+<record>
+  <date>2022-10-04T08:19:56.599048800Z</date>
+  <millis>1664871596599</millis>
+  <nanos>48800</nanos>
+  <sequence>496</sequence>
+  <logger>LaOca</logger>
+  <level>INFO</level>
+  <class>LaOca$jugador</class>
+  <method>run</method>
+  <thread>25</thread>
+  <message>Le faltan:11</message>
+</record>
+<record>
+  <date>2022-10-04T08:19:56.700710500Z</date>
+  <millis>1664871596700</millis>
+  <nanos>710500</nanos>
+  <sequence>497</sequence>
+  <logger>LaOca</logger>
+  <level>INFO</level>
+  <class>LaOca$jugador</class>
+  <method>run</method>
+  <thread>23</thread>
+  <message>Locura el jugador THREAD-7 saco: 3</message>
+</record>
+<record>
+  <date>2022-10-04T08:19:56.700710500Z</date>
+  <millis>1664871596700</millis>
+  <nanos>710500</nanos>
+  <sequence>498</sequence>
+  <logger>LaOca</logger>
+  <level>INFO</level>
+  <class>LaOca$jugador</class>
+  <method>run</method>
+  <thread>23</thread>
+  <message>Le faltan:15</message>
+</record>
+<record>
+  <date>2022-10-04T08:19:56.762253200Z</date>
+  <millis>1664871596762</millis>
+  <nanos>253200</nanos>
+  <sequence>499</sequence>
+  <logger>LaOca</logger>
+  <level>INFO</level>
+  <class>LaOca$jugador</class>
+  <method>run</method>
+  <thread>18</thread>
+  <message>Locura el jugador THREAD-2 saco: 3</message>
+</record>
+<record>
+  <date>2022-10-04T08:19:56.762253200Z</date>
+  <millis>1664871596762</millis>
+  <nanos>253200</nanos>
+  <sequence>500</sequence>
+  <logger>LaOca</logger>
+  <level>INFO</level>
+  <class>LaOca$jugador</class>
+  <method>run</method>
+  <thread>18</thread>
+  <message>Le faltan:9</message>
+</record>
+<record>
+  <date>2022-10-04T08:19:56.939281500Z</date>
+  <millis>1664871596939</millis>
+  <nanos>281500</nanos>
+  <sequence>501</sequence>
+  <logger>LaOca</logger>
+  <level>INFO</level>
+  <class>LaOca$jugador</class>
+  <method>run</method>
+  <thread>19</thread>
+  <message>Locura el jugador THREAD-3 saco: 1</message>
+</record>
+<record>
+  <date>2022-10-04T08:19:56.939281500Z</date>
+  <millis>1664871596939</millis>
+  <nanos>281500</nanos>
+  <sequence>502</sequence>
+  <logger>LaOca</logger>
+  <level>INFO</level>
+  <class>LaOca$jugador</class>
+  <method>run</method>
+  <thread>19</thread>
+  <message>Le faltan:18</message>
+</record>
+<record>
+  <date>2022-10-04T08:19:57.010233700Z</date>
+  <millis>1664871597010</millis>
+  <nanos>233700</nanos>
+  <sequence>503</sequence>
+  <logger>LaOca</logger>
+  <level>INFO</level>
+  <class>LaOca$jugador</class>
+  <method>run</method>
+  <thread>21</thread>
+  <message>Locura el jugador THREAD-5 saco: 3</message>
+</record>
+<record>
+  <date>2022-10-04T08:19:57.010233700Z</date>
+  <millis>1664871597010</millis>
+  <nanos>233700</nanos>
+  <sequence>504</sequence>
+  <logger>LaOca</logger>
+  <level>INFO</level>
+  <class>LaOca$jugador</class>
+  <method>run</method>
+  <thread>21</thread>
+  <message>Le faltan:14</message>
+</record>
+<record>
+  <date>2022-10-04T08:19:57.307321300Z</date>
+  <millis>1664871597307</millis>
+  <nanos>321300</nanos>
+  <sequence>505</sequence>
+  <logger>LaOca</logger>
+  <level>INFO</level>
+  <class>LaOca$jugador</class>
+  <method>run</method>
+  <thread>17</thread>
+  <message>Locura el jugador THREAD-1 saco: 1</message>
+</record>
+<record>
+  <date>2022-10-04T08:19:57.307321300Z</date>
+  <millis>1664871597307</millis>
+  <nanos>321300</nanos>
+  <sequence>506</sequence>
+  <logger>LaOca</logger>
+  <level>INFO</level>
+  <class>LaOca$jugador</class>
+  <method>run</method>
+  <thread>17</thread>
+  <message>Le faltan:15</message>
+</record>
+<record>
+  <date>2022-10-04T08:19:57.514322400Z</date>
+  <millis>1664871597514</millis>
+  <nanos>322400</nanos>
+  <sequence>507</sequence>
+  <logger>LaOca</logger>
+  <level>INFO</level>
+  <class>LaOca$jugador</class>
+  <method>run</method>
+  <thread>19</thread>
+  <message>Locura el jugador THREAD-3 saco: 1</message>
+</record>
+<record>
+  <date>2022-10-04T08:19:57.514322400Z</date>
+  <millis>1664871597514</millis>
+  <nanos>322400</nanos>
+  <sequence>508</sequence>
+  <logger>LaOca</logger>
+  <level>INFO</level>
+  <class>LaOca$jugador</class>
+  <method>run</method>
+  <thread>19</thread>
+  <message>Le faltan:17</message>
+</record>
+<record>
+  <date>2022-10-04T08:19:57.528300900Z</date>
+  <millis>1664871597528</millis>
+  <nanos>300900</nanos>
+  <sequence>509</sequence>
+  <logger>LaOca</logger>
+  <level>INFO</level>
+  <class>LaOca$jugador</class>
+  <method>run</method>
+  <thread>24</thread>
+  <message>Locura el jugador THREAD-8 saco: 6</message>
+</record>
+<record>
+  <date>2022-10-04T08:19:57.528300900Z</date>
+  <millis>1664871597528</millis>
+  <nanos>300900</nanos>
+  <sequence>510</sequence>
+  <logger>LaOca</logger>
+  <level>INFO</level>
+  <class>LaOca$jugador</class>
+  <method>run</method>
+  <thread>24</thread>
+  <message>Le faltan:14</message>
+</record>
+<record>
+  <date>2022-10-04T08:19:57.606509900Z</date>
+  <millis>1664871597606</millis>
+  <nanos>509900</nanos>
+  <sequence>511</sequence>
+  <logger>LaOca</logger>
+  <level>INFO</level>
+  <class>LaOca$jugador</class>
+  <method>run</method>
+  <thread>20</thread>
+  <message>Locura el jugador THREAD-4 saco: 5</message>
+</record>
+<record>
+  <date>2022-10-04T08:19:57.606509900Z</date>
+  <millis>1664871597606</millis>
+  <nanos>509900</nanos>
+  <sequence>512</sequence>
+  <logger>LaOca</logger>
+  <level>INFO</level>
+  <class>LaOca$jugador</class>
+  <method>run</method>
+  <thread>20</thread>
+  <message>Le faltan:2</message>
+</record>
+<record>
+  <date>2022-10-04T08:19:57.662486500Z</date>
+  <millis>1664871597662</millis>
+  <nanos>486500</nanos>
+  <sequence>513</sequence>
+  <logger>LaOca</logger>
+  <level>INFO</level>
+  <class>LaOca$jugador</class>
+  <method>run</method>
+  <thread>16</thread>
+  <message>Locura el jugador THREAD-0 saco: 1</message>
+</record>
+<record>
+  <date>2022-10-04T08:19:57.662486500Z</date>
+  <millis>1664871597662</millis>
+  <nanos>486500</nanos>
+  <sequence>514</sequence>
+  <logger>LaOca</logger>
+  <level>INFO</level>
+  <class>LaOca$jugador</class>
+  <method>run</method>
+  <thread>16</thread>
+  <message>Le faltan:18</message>
+</record>
+<record>
+  <date>2022-10-04T08:19:57.731337300Z</date>
+  <millis>1664871597731</millis>
+  <nanos>337300</nanos>
+  <sequence>515</sequence>
+  <logger>LaOca</logger>
+  <level>INFO</level>
+  <class>LaOca$jugador</class>
+  <method>run</method>
+  <thread>18</thread>
+  <message>Locura el jugador THREAD-2 saco: 5</message>
+</record>
+<record>
+  <date>2022-10-04T08:19:57.731337300Z</date>
+  <millis>1664871597731</millis>
+  <nanos>337300</nanos>
+  <sequence>516</sequence>
+  <logger>LaOca</logger>
+  <level>INFO</level>
+  <class>LaOca$jugador</class>
+  <method>run</method>
+  <thread>18</thread>
+  <message>Le faltan:4</message>
+</record>
+<record>
+  <date>2022-10-04T08:19:57.934773700Z</date>
+  <millis>1664871597934</millis>
+  <nanos>773700</nanos>
+  <sequence>517</sequence>
+  <logger>LaOca</logger>
+  <level>INFO</level>
+  <class>LaOca$jugador</class>
+  <method>run</method>
+  <thread>18</thread>
+  <message>Tiene que volver atras</message>
+</record>
+<record>
+  <date>2022-10-04T08:19:57.972877Z</date>
+  <millis>1664871597972</millis>
+  <nanos>877000</nanos>
+  <sequence>518</sequence>
+  <logger>LaOca</logger>
+  <level>INFO</level>
+  <class>LaOca$jugador</class>
+  <method>run</method>
+  <thread>18</thread>
+  <message>THREAD-2 Llego al final</message>
+</record>
+<record>
+  <date>2022-10-04T08:19:58.055557600Z</date>
+  <millis>1664871598055</millis>
+  <nanos>557600</nanos>
+  <sequence>519</sequence>
+  <logger>LaOca</logger>
+  <level>INFO</level>
+  <class>LaOca$jugador</class>
+  <method>run</method>
+  <thread>16</thread>
+  <message>Locura el jugador THREAD-0 saco: 5</message>
+</record>
+<record>
+  <date>2022-10-04T08:19:58.055557600Z</date>
+  <millis>1664871598055</millis>
+  <nanos>557600</nanos>
+  <sequence>520</sequence>
+  <logger>LaOca</logger>
+  <level>INFO</level>
+  <class>LaOca$jugador</class>
+  <method>run</method>
+  <thread>16</thread>
+  <message>Le faltan:13</message>
+</record>
+<record>
+  <date>2022-10-04T08:19:58.140368900Z</date>
+  <millis>1664871598140</millis>
+  <nanos>368900</nanos>
+  <sequence>521</sequence>
+  <logger>LaOca</logger>
+  <level>INFO</level>
+  <class>LaOca$jugador</class>
+  <method>run</method>
+  <thread>24</thread>
+  <message>Locura el jugador THREAD-8 saco: 1</message>
+</record>
+<record>
+  <date>2022-10-04T08:19:58.140368900Z</date>
+  <millis>1664871598140</millis>
+  <nanos>368900</nanos>
+  <sequence>522</sequence>
+  <logger>LaOca</logger>
+  <level>INFO</level>
+  <class>LaOca$jugador</class>
+  <method>run</method>
+  <thread>24</thread>
+  <message>Le faltan:13</message>
+</record>
+<record>
+  <date>2022-10-04T08:19:58.219258300Z</date>
+  <millis>1664871598219</millis>
+  <nanos>258300</nanos>
+  <sequence>523</sequence>
+  <logger>LaOca</logger>
+  <level>INFO</level>
+  <class>LaOca$jugador</class>
+  <method>run</method>
+  <thread>21</thread>
+  <message>Locura el jugador THREAD-5 saco: 6</message>
+</record>
+<record>
+  <date>2022-10-04T08:19:58.219258300Z</date>
+  <millis>1664871598219</millis>
+  <nanos>258300</nanos>
+  <sequence>524</sequence>
+  <logger>LaOca</logger>
+  <level>INFO</level>
+  <class>LaOca$jugador</class>
+  <method>run</method>
+  <thread>21</thread>
+  <message>Le faltan:8</message>
+</record>
+<record>
+  <date>2022-10-04T08:19:58.279653400Z</date>
+  <millis>1664871598279</millis>
+  <nanos>653400</nanos>
+  <sequence>525</sequence>
+  <logger>LaOca</logger>
+  <level>INFO</level>
+  <class>LaOca$jugador</class>
+  <method>run</method>
+  <thread>16</thread>
+  <message>Locura el jugador THREAD-0 saco: 1</message>
+</record>
+<record>
+  <date>2022-10-04T08:19:58.279653400Z</date>
+  <millis>1664871598279</millis>
+  <nanos>653400</nanos>
+  <sequence>526</sequence>
+  <logger>LaOca</logger>
+  <level>INFO</level>
+  <class>LaOca$jugador</class>
+  <method>run</method>
+  <thread>16</thread>
+  <message>Le faltan:12</message>
+</record>
+<record>
+  <date>2022-10-04T08:19:58.296096Z</date>
+  <millis>1664871598296</millis>
+  <nanos>96000</nanos>
+  <sequence>527</sequence>
+  <logger>LaOca</logger>
+  <level>INFO</level>
+  <class>LaOca$jugador</class>
+  <method>run</method>
+  <thread>25</thread>
+  <message>Locura el jugador THREAD-9 saco: 2</message>
+</record>
+<record>
+  <date>2022-10-04T08:19:58.296096Z</date>
+  <millis>1664871598296</millis>
+  <nanos>96000</nanos>
+  <sequence>528</sequence>
+  <logger>LaOca</logger>
+  <level>INFO</level>
+  <class>LaOca$jugador</class>
+  <method>run</method>
+  <thread>25</thread>
+  <message>Le faltan:9</message>
+</record>
+<record>
+  <date>2022-10-04T08:19:58.405761900Z</date>
+  <millis>1664871598405</millis>
+  <nanos>761900</nanos>
+  <sequence>529</sequence>
+  <logger>LaOca</logger>
+  <level>INFO</level>
+  <class>LaOca$jugador</class>
+  <method>run</method>
+  <thread>23</thread>
+  <message>Locura el jugador THREAD-7 saco: 4</message>
+</record>
+<record>
+  <date>2022-10-04T08:19:58.405761900Z</date>
+  <millis>1664871598405</millis>
+  <nanos>761900</nanos>
+  <sequence>530</sequence>
+  <logger>LaOca</logger>
+  <level>INFO</level>
+  <class>LaOca$jugador</class>
+  <method>run</method>
+  <thread>23</thread>
+  <message>Le faltan:11</message>
+</record>
+<record>
+  <date>2022-10-04T08:19:58.555121300Z</date>
+  <millis>1664871598555</millis>
+  <nanos>121300</nanos>
+  <sequence>531</sequence>
+  <logger>LaOca</logger>
+  <level>INFO</level>
+  <class>LaOca$jugador</class>
+  <method>run</method>
+  <thread>16</thread>
+  <message>Locura el jugador THREAD-0 saco: 5</message>
+</record>
+<record>
+  <date>2022-10-04T08:19:58.555121300Z</date>
+  <millis>1664871598555</millis>
+  <nanos>121300</nanos>
+  <sequence>532</sequence>
+  <logger>LaOca</logger>
+  <level>INFO</level>
+  <class>LaOca$jugador</class>
+  <method>run</method>
+  <thread>16</thread>
+  <message>Le faltan:7</message>
+</record>
+<record>
+  <date>2022-10-04T08:19:58.607277100Z</date>
+  <millis>1664871598607</millis>
+  <nanos>277100</nanos>
+  <sequence>533</sequence>
+  <logger>LaOca</logger>
+  <level>INFO</level>
+  <class>LaOca$jugador</class>
+  <method>run</method>
+  <thread>21</thread>
+  <message>Locura el jugador THREAD-5 saco: 1</message>
+</record>
+<record>
+  <date>2022-10-04T08:19:58.607277100Z</date>
+  <millis>1664871598607</millis>
+  <nanos>277100</nanos>
+  <sequence>534</sequence>
+  <logger>LaOca</logger>
+  <level>INFO</level>
+  <class>LaOca$jugador</class>
+  <method>run</method>
+  <thread>21</thread>
+  <message>Le faltan:7</message>
+</record>
+<record>
+  <date>2022-10-04T08:19:58.761852500Z</date>
+  <millis>1664871598761</millis>
+  <nanos>852500</nanos>
+  <sequence>535</sequence>
+  <logger>LaOca</logger>
+  <level>INFO</level>
+  <class>LaOca$jugador</class>
+  <method>run</method>
+  <thread>23</thread>
+  <message>Locura el jugador THREAD-7 saco: 2</message>
+</record>
+<record>
+  <date>2022-10-04T08:19:58.761852500Z</date>
+  <millis>1664871598761</millis>
+  <nanos>852500</nanos>
+  <sequence>536</sequence>
+  <logger>LaOca</logger>
+  <level>INFO</level>
+  <class>LaOca$jugador</class>
+  <method>run</method>
+  <thread>23</thread>
+  <message>Le faltan:9</message>
+</record>
+<record>
+  <date>2022-10-04T08:19:58.804161300Z</date>
+  <millis>1664871598804</millis>
+  <nanos>161300</nanos>
+  <sequence>537</sequence>
+  <logger>LaOca</logger>
+  <level>INFO</level>
+  <class>LaOca$jugador</class>
+  <method>run</method>
+  <thread>20</thread>
+  <message>Tiene que volver atras</message>
+</record>
+<record>
+  <date>2022-10-04T08:19:58.859141500Z</date>
+  <millis>1664871598859</millis>
+  <nanos>141500</nanos>
+  <sequence>538</sequence>
+  <logger>LaOca</logger>
+  <level>INFO</level>
+  <class>LaOca$jugador</class>
+  <method>run</method>
+  <thread>25</thread>
+  <message>Locura el jugador THREAD-9 saco: 3</message>
+</record>
+<record>
+  <date>2022-10-04T08:19:58.859141500Z</date>
+  <millis>1664871598859</millis>
+  <nanos>141500</nanos>
+  <sequence>539</sequence>
+  <logger>LaOca</logger>
+  <level>INFO</level>
+  <class>LaOca$jugador</class>
+  <method>run</method>
+  <thread>25</thread>
+  <message>Le faltan:6</message>
+</record>
+<record>
+  <date>2022-10-04T08:19:59.139415400Z</date>
+  <millis>1664871599139</millis>
+  <nanos>415400</nanos>
+  <sequence>540</sequence>
+  <logger>LaOca</logger>
+  <level>INFO</level>
+  <class>LaOca$jugador</class>
+  <method>run</method>
+  <thread>17</thread>
+  <message>Locura el jugador THREAD-1 saco: 5</message>
+</record>
+<record>
+  <date>2022-10-04T08:19:59.139415400Z</date>
+  <millis>1664871599139</millis>
+  <nanos>415400</nanos>
+  <sequence>541</sequence>
+  <logger>LaOca</logger>
+  <level>INFO</level>
+  <class>LaOca$jugador</class>
+  <method>run</method>
+  <thread>17</thread>
+  <message>Le faltan:10</message>
+</record>
+<record>
+  <date>2022-10-04T08:19:59.183166200Z</date>
+  <millis>1664871599183</millis>
+  <nanos>166200</nanos>
+  <sequence>542</sequence>
+  <logger>LaOca</logger>
+  <level>INFO</level>
+  <class>LaOca$jugador</class>
+  <method>run</method>
+  <thread>16</thread>
+  <message>Locura el jugador THREAD-0 saco: 1</message>
+</record>
+<record>
+  <date>2022-10-04T08:19:59.183166200Z</date>
+  <millis>1664871599183</millis>
+  <nanos>166200</nanos>
+  <sequence>543</sequence>
+  <logger>LaOca</logger>
+  <level>INFO</level>
+  <class>LaOca$jugador</class>
+  <method>run</method>
+  <thread>16</thread>
+  <message>Le faltan:6</message>
+</record>
+<record>
+  <date>2022-10-04T08:19:59.215346500Z</date>
+  <millis>1664871599215</millis>
+  <nanos>346500</nanos>
+  <sequence>544</sequence>
+  <logger>LaOca</logger>
+  <level>INFO</level>
+  <class>LaOca$jugador</class>
+  <method>run</method>
+  <thread>19</thread>
+  <message>Locura el jugador THREAD-3 saco: 5</message>
+</record>
+<record>
+  <date>2022-10-04T08:19:59.215346500Z</date>
+  <millis>1664871599215</millis>
+  <nanos>346500</nanos>
+  <sequence>545</sequence>
+  <logger>LaOca</logger>
+  <level>INFO</level>
+  <class>LaOca$jugador</class>
+  <method>run</method>
+  <thread>19</thread>
+  <message>Le faltan:12</message>
+</record>
+<record>
+  <date>2022-10-04T08:19:59.235143700Z</date>
+  <millis>1664871599235</millis>
+  <nanos>143700</nanos>
+  <sequence>546</sequence>
+  <logger>LaOca</logger>
+  <level>INFO</level>
+  <class>LaOca$jugador</class>
+  <method>run</method>
+  <thread>23</thread>
+  <message>Locura el jugador THREAD-7 saco: 4</message>
+</record>
+<record>
+  <date>2022-10-04T08:19:59.235143700Z</date>
+  <millis>1664871599235</millis>
+  <nanos>143700</nanos>
+  <sequence>547</sequence>
+  <logger>LaOca</logger>
+  <level>INFO</level>
+  <class>LaOca$jugador</class>
+  <method>run</method>
+  <thread>23</thread>
+  <message>Le faltan:5</message>
+</record>
+<record>
+  <date>2022-10-04T08:19:59.420935500Z</date>
+  <millis>1664871599420</millis>
+  <nanos>935500</nanos>
+  <sequence>548</sequence>
+  <logger>LaOca</logger>
+  <level>INFO</level>
+  <class>LaOca$jugador</class>
+  <method>run</method>
+  <thread>20</thread>
+  <message>Tiene que volver atras</message>
+</record>
+<record>
+  <date>2022-10-04T08:19:59.701420600Z</date>
+  <millis>1664871599701</millis>
+  <nanos>420600</nanos>
+  <sequence>549</sequence>
+  <logger>LaOca</logger>
+  <level>INFO</level>
+  <class>LaOca$jugador</class>
+  <method>run</method>
+  <thread>19</thread>
+  <message>Locura el jugador THREAD-3 saco: 4</message>
+</record>
+<record>
+  <date>2022-10-04T08:19:59.701420600Z</date>
+  <millis>1664871599701</millis>
+  <nanos>420600</nanos>
+  <sequence>550</sequence>
+  <logger>LaOca</logger>
+  <level>INFO</level>
+  <class>LaOca$jugador</class>
+  <method>run</method>
+  <thread>19</thread>
+  <message>Le faltan:8</message>
+</record>
+<record>
+  <date>2022-10-04T08:19:59.738499800Z</date>
+  <millis>1664871599738</millis>
+  <nanos>499800</nanos>
+  <sequence>551</sequence>
+  <logger>LaOca</logger>
+  <level>INFO</level>
+  <class>LaOca$jugador</class>
+  <method>run</method>
+  <thread>17</thread>
+  <message>Locura el jugador THREAD-1 saco: 4</message>
+</record>
+<record>
+  <date>2022-10-04T08:19:59.738499800Z</date>
+  <millis>1664871599738</millis>
+  <nanos>499800</nanos>
+  <sequence>552</sequence>
+  <logger>LaOca</logger>
+  <level>INFO</level>
+  <class>LaOca$jugador</class>
+  <method>run</method>
+  <thread>17</thread>
+  <message>Le faltan:6</message>
+</record>
+<record>
+  <date>2022-10-04T08:20:00.023583800Z</date>
+  <millis>1664871600023</millis>
+  <nanos>583800</nanos>
+  <sequence>553</sequence>
+  <logger>LaOca</logger>
+  <level>INFO</level>
+  <class>LaOca$jugador</class>
+  <method>run</method>
+  <thread>17</thread>
+  <message>Locura el jugador THREAD-1 saco: 1</message>
+</record>
+<record>
+  <date>2022-10-04T08:20:00.023583800Z</date>
+  <millis>1664871600023</millis>
+  <nanos>583800</nanos>
+  <sequence>554</sequence>
+  <logger>LaOca</logger>
+  <level>INFO</level>
+  <class>LaOca$jugador</class>
+  <method>run</method>
+  <thread>17</thread>
+  <message>Le faltan:5</message>
+</record>
+<record>
+  <date>2022-10-04T08:20:00.064302700Z</date>
+  <millis>1664871600064</millis>
+  <nanos>302700</nanos>
+  <sequence>555</sequence>
+  <logger>LaOca</logger>
+  <level>INFO</level>
+  <class>LaOca$jugador</class>
+  <method>run</method>
+  <thread>21</thread>
+  <message>Locura el jugador THREAD-5 saco: 2</message>
+</record>
+<record>
+  <date>2022-10-04T08:20:00.064302700Z</date>
+  <millis>1664871600064</millis>
+  <nanos>302700</nanos>
+  <sequence>556</sequence>
+  <logger>LaOca</logger>
+  <level>INFO</level>
+  <class>LaOca$jugador</class>
+  <method>run</method>
+  <thread>21</thread>
+  <message>Le faltan:5</message>
+</record>
+<record>
+  <date>2022-10-04T08:20:00.070279700Z</date>
+  <millis>1664871600070</millis>
+  <nanos>279700</nanos>
+  <sequence>557</sequence>
+  <logger>LaOca</logger>
+  <level>INFO</level>
+  <class>LaOca$jugador</class>
+  <method>run</method>
+  <thread>16</thread>
+  <message>THREAD-0 Llego al final</message>
+</record>
+<record>
+  <date>2022-10-04T08:20:00.070279700Z</date>
+  <millis>1664871600070</millis>
+  <nanos>279700</nanos>
+  <sequence>558</sequence>
+  <logger>LaOca</logger>
+  <level>INFO</level>
+  <class>LaOca$jugador</class>
+  <method>run</method>
+  <thread>17</thread>
+  <message>Tarea Interrumpida </message>
+</record>
+<record>
+  <date>2022-10-04T08:20:00.070279700Z</date>
+  <millis>1664871600070</millis>
+  <nanos>279700</nanos>
+  <sequence>559</sequence>
+  <logger>LaOca</logger>
+  <level>INFO</level>
+  <class>LaOca$jugador</class>
+  <method>run</method>
+  <thread>19</thread>
+  <message>Tarea Interrumpida </message>
+</record>
+<record>
+  <date>2022-10-04T08:20:00.070279700Z</date>
+  <millis>1664871600070</millis>
+  <nanos>279700</nanos>
+  <sequence>560</sequence>
+  <logger>LaOca</logger>
+  <level>INFO</level>
+  <class>LaOca$jugador</class>
+  <method>run</method>
+  <thread>20</thread>
+  <message>Tarea Interrumpida </message>
+</record>
+<record>
+  <date>2022-10-04T08:20:00.071279900Z</date>
+  <millis>1664871600071</millis>
+  <nanos>279900</nanos>
+  <sequence>561</sequence>
+  <logger>LaOca</logger>
+  <level>INFO</level>
+  <class>LaOca$jugador</class>
+  <method>run</method>
+  <thread>21</thread>
+  <message>Tarea Interrumpida </message>
+</record>
+<record>
+  <date>2022-10-04T08:20:00.071279900Z</date>
+  <millis>1664871600071</millis>
+  <nanos>279900</nanos>
+  <sequence>562</sequence>
+  <logger>LaOca</logger>
+  <level>INFO</level>
+  <class>LaOca$jugador</class>
+  <method>run</method>
+  <thread>23</thread>
+  <message>Tarea Interrumpida </message>
+</record>
+<record>
+  <date>2022-10-04T08:20:00.071279900Z</date>
+  <millis>1664871600071</millis>
+  <nanos>279900</nanos>
+  <sequence>563</sequence>
+  <logger>LaOca</logger>
+  <level>INFO</level>
+  <class>LaOca$jugador</class>
+  <method>run</method>
+  <thread>24</thread>
+  <message>Tarea Interrumpida </message>
+</record>
+<record>
+  <date>2022-10-04T08:20:00.072270300Z</date>
+  <millis>1664871600072</millis>
+  <nanos>270300</nanos>
+  <sequence>564</sequence>
+  <logger>LaOca</logger>
+  <level>INFO</level>
+  <class>LaOca$jugador</class>
+  <method>run</method>
+  <thread>25</thread>
+  <message>Tarea Interrumpida </message>
+</record>
+<record>
+  <date>2022-10-04T08:20:00.072270300Z</date>
+  <millis>1664871600072</millis>
+  <nanos>270300</nanos>
+  <sequence>565</sequence>
+  <logger>LaOca</logger>
+  <level>INFO</level>
+  <class>LaOca</class>
+  <method>main</method>
+  <thread>1</thread>
+  <message>Final del programa</message>
+</record>
+<record>
+  <date>2022-10-04T08:20:00.072270300Z</date>
+  <millis>1664871600072</millis>
+  <nanos>270300</nanos>
+  <sequence>566</sequence>
+  <logger>LaOca</logger>
+  <level>INFO</level>
+  <class>LaOca</class>
+  <method>main</method>
+  <thread>1</thread>
+  <message>Ha ganado el jugadorThread-0</message>
+</record>
+</log>
